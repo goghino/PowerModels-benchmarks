@@ -19,3 +19,4 @@ parallel jobs containing individual benchmark instances. We would like to focus 
 - [ ] Install Julia and PowerModels
 - [ ] Run demo OPF problems, change parameters in the model and solution method
 - [ ] Keep the project Wiki pages up to date during the process [see here](https://help.github.com/en/github/building-a-strong-community/documenting-your-project-with-wikis)
+- [ ] Set up Jupyter notebook running Julia
