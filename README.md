@@ -15,6 +15,7 @@ parallel jobs containing individual benchmark instances. We would like to focus 
 [2] C. Coffrin, R. Bent, K. Sundar, Y. Ng and M. Lubin, "PowerModels. JL: An Open-Source Framework for Exploring Power Flow Formulations," 2018 Power Systems Computation Conference (PSCC), Dublin, 2018, pp. 1-8, doi: [10.23919/PSCC.2018.8442948](https://ieeexplore.ieee.org/document/8442948).
 
 ## Tasks
-- [ ]  Familiarize with the PowerModels framework
-- [ ]  Install Julia and PowerModels
-- [ ]  Run demo OPF problems, change parameters in the model and solution method
+- [ ] Familiarize with the PowerModels framework
+- [ ] Install Julia and PowerModels
+- [ ] Run demo OPF problems, change parameters in the model and solution method
+- [ ] Keep the project Wiki pages up to date during the process
