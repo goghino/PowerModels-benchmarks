@@ -1,0 +1,16 @@
+prefix=/home/kardos/PowerModels-benchmarks/ipopt-git/myinstall
+#prefix=${pcfiledir}/../..
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/coin-or
+
+Name: IPOPT-AMPL
+Description: Ampl Interface TNLP to Ipopt
+URL: https://github.com/coin-or/Ipopt
+Version: 3.13.3
+Cflags: -I${includedir}
+Libs: -L${libdir} -lipoptamplinterface
+Requires: ipopt
+Requires.private: 
+#Libs: -L${libdir} -lipoptamplinterface -L/home/kardos/PowerModels-benchmarks/ThirdParty-ASL/myinstall/lib -lcoinasl 
+#Requires: ipopt 

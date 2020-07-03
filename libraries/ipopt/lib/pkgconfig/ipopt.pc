@@ -1,0 +1,15 @@
+prefix=/home/kardos/PowerModels-benchmarks/ipopt-git/myinstall
+#prefix=${pcfiledir}/../..
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/coin-or
+
+Name: Ipopt
+Description: Interior Point Optimizer
+URL: https://github.com/coin-or/Ipopt
+Version: 3.13.3
+Cflags: -I${includedir}
+Libs: -L${libdir} -lipopt
+Requires.private: 
+#Libs: -L${libdir} -lipopt -L/usr/local/Cellar/gcc/9.3.0_1/lib/gcc/9 -L/home/kardos/Libraries/pardiso -lpardiso600-GNU720-X86-64 -lgfortran -lgomp -lquadmath  -Wl,--start-group /apps/intel/16.0.3/mkl/lib/intel64/libmkl_intel_lp64.a /apps/intel/16.0.3/mkl/lib/intel64/libmkl_sequential.a /apps/intel/16.0.3/mkl/lib/intel64/libmkl_core.a -Wl,--end-group -lpthread -lm -ldl -lmkl_core -lmkl_intel_lp64 -lmkl_sequential -lm -lm  -ldl
+#Requires: 
