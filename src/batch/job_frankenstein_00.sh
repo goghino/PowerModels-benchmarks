@@ -8,4 +8,4 @@
 #SBATCH --exclusive
 #SBATCH -o ./out/slurm_frankenstein_00-%j.out
 #SBATCH -e ./err/slurm_frankenstein_00-%j.err
-julia run_powermodel.jl matpower/frankenstein_00.m
+julia run_powermodel.jl cases/frankenstein_00.m

@@ -8,4 +8,4 @@
 #SBATCH --exclusive
 #SBATCH -o ./out/slurm_case24-%j.out
 #SBATCH -e ./err/slurm_case24-%j.err
-julia run_powermodel.jl matpower/case24.m
+julia run_powermodel.jl cases/case24.m
