@@ -1,0 +1,85 @@
+cases/case3.m
+[info | PowerModels]: extending matpower format with constant data: const_int
+[info | PowerModels]: extending matpower format with constant data: const_float
+[info | PowerModels]: extending matpower format with data: bus_data 3x3
+[info | PowerModels]: extending matpower format with data: branch_names 3x3
+[info | PowerModels]: extending matpower format with data: areas_cells 2x6
+[info | PowerModels]: extending matpower format with data: areas_named_cells 2x6
+[info | PowerModels]: extending matpower format with data: areas_named 2x3
+[info | PowerModels]: extending matpower format with data: component 1x3
+[info | PowerModels]: extending matpower format with data: areas 2x3
+[info | PowerModels]: extending matpower format with constant data: const_str
+[info | PowerModels]: extending matpower format with data: load_data 2x2
+[info | PowerModels]: extending matpower format with data: branch_limit 3x3
+[warn | PowerModels]: added zero cost function data for dclines
+[info | PowerModels]: extending matpower format by appending matrix "branch_limit" in to "branch"
+[info | PowerModels]: extending matpower format by appending matrix "branch_names" in to "branch"
+[info | PowerModels]: extending matpower format by appending matrix "bus_data" in to "bus"
+[warn | PowerModels]: no reference bus found
+[warn | PowerModels]: no reference bus found, setting bus 1 as reference based on generator 1
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:       84
+Number of nonzeros in inequality constraint Jacobian.:       24
+Number of nonzeros in Lagrangian Hessian.............:      134
+
+Total number of variables............................:       27
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:       24
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:       20
+Total number of inequality constraints...............:       12
+        inequality constraints with only lower bounds:        3
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:        9
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  6.3949934e+00 1.20e+00 2.46e+01  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  1.9678875e+03 5.36e-01 1.04e+02  -1.0 1.80e+00    -  5.78e-03 5.54e-01h  1
+   2  3.9189542e+03 2.21e-01 4.33e+01  -1.0 8.67e-01    -  7.86e-01 5.87e-01h  1
+   3  4.0838932e+03 1.99e-01 3.91e+01  -1.0 3.28e-01    -  9.90e-01 1.01e-01h  1
+   4  4.6246921e+03 1.30e-01 3.00e+01  -1.0 3.88e-01    -  3.99e-01 3.44e-01h  1
+   5  5.3156503e+03 5.15e-02 6.92e+01  -1.0 3.39e-01    -  1.00e+00 6.05e-01h  1
+   6  5.3292409e+03 5.01e-02 3.46e+02  -1.0 1.37e-01    -  6.54e-01 2.77e-02h  1
+   7  5.5205184e+03 3.21e-02 1.94e+02  -1.0 1.96e-01    -  2.39e-01 3.60e-01h  1
+   8  5.8348400e+03 5.52e-03 5.79e+01  -1.0 1.41e-01    -  4.69e-01 8.28e-01h  1
+   9  5.9095426e+03 6.11e-05 1.03e+00  -1.0 2.72e-02    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  5.9074933e+03 1.06e-06 9.33e-03  -1.7 1.93e-03    -  1.00e+00 1.00e+00f  1
+  11  5.9068856e+03 1.67e-07 3.76e-04  -3.8 7.76e-04    -  1.00e+00 1.00e+00f  1
+  12  5.9068795e+03 3.04e-11 5.44e-08  -5.7 1.12e-05    -  1.00e+00 1.00e+00h  1
+  13  5.9068794e+03 1.07e-15 2.99e-12  -8.6 6.80e-08    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 13
+
+                                   (scaled)                 (unscaled)
+Objective...............:   1.1813758833436352e+03    5.9068794167181759e+03
+Dual infeasibility......:   2.9935758775353452e-12    1.4967879387676726e-11
+Constraint violation....:   1.0685896612017132e-15    1.0685896612017132e-15
+Complementarity.........:   2.5073461206267797e-09    1.2536730603133898e-08
+Overall NLP error.......:   2.5073461206267797e-09    1.2536730603133898e-08
+
+
+Number of objective function evaluations             = 14
+Number of objective gradient evaluations             = 14
+Number of equality constraint evaluations            = 14
+Number of inequality constraint evaluations          = 14
+Number of equality constraint Jacobian evaluations   = 14
+Number of inequality constraint Jacobian evaluations = 14
+Number of Lagrangian Hessian evaluations             = 13
+Total CPU secs in IPOPT (w/o function evaluations)   =      2.166
+Total CPU secs in NLP function evaluations           =      1.498
+
+EXIT: Optimal Solution Found.
+Time to Solution........:4.429697036743164
+Final cost..............:
