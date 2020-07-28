@@ -1,0 +1,346 @@
+cases/pglib-opf/pglib_opf_case2000_tamu.m
+[warn | PowerModels]: reversing the orientation of branch 40 (1071, 1019) to be consistent with other parallel branches
+[warn | PowerModels]: no active generators found at bus 6144, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8070, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6273, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4096, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4098, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4138, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2084, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5089, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5023, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1049, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2005, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3044, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8060, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6271, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1081, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5107, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8033, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2104, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7121, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2095, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3043, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2006, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2056, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8115, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8047, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6272, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8036, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5035, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6007, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6259, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7122, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7284, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3133, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4137, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1076, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4163, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8152, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1059, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8061, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8051, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1057, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8034, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1062, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5066, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1048, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1077, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6052, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8147, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7034, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7025, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3087, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3045, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8035, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8050, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5106, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6148, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2094, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6087, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5424, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1053, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6072, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2085, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7207, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7309, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5036, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2103, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8158, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6048, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7191, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5283, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7281, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6270, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4075, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7334, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7015, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1060, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6301, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2105, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4133, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4090, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1063, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6049, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7280, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5297, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4092, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8087, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8116, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5057, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5320, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2019, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1042, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6050, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2004, updating to bus type from 2 to 1
+[info | PowerModels]: removing 3 cost terms from generator 1: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 54: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 101: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 326: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 168: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 332: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 531: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 88: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 289: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 77: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 230: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 24: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 328: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 23: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 160: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 59: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 39: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 112: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 55: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 9: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 363: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 12: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 292: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 167: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 96: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 123: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 510: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 19: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 242: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 365: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 45: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 181: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 436: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 85: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 105: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 309: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 75: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 63: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 92: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 120: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 87: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 89: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 182: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 286: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 161: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 291: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 80: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 308: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 113: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 110: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 231: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 327: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 200: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 61: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 108: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 100: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 151: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 76: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 438: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 180: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 48: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 103: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 109: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 2: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 51: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 53: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 106: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 435: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 111: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 287: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 93: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 213: [811.0, 1209.05]
+[info | PowerModels]: removing 3 cost terms from generator 10: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 5: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 62: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 90: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 205: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 311: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 366: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 380: [744.5, 1025.47]
+[info | PowerModels]: removing 3 cost terms from generator 86: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 126: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 37: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 268: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 125: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 98: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 379: [706.3, 1447.46]
+[info | PowerModels]: removing 3 cost terms from generator 7: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 107: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 102: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 97: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 212: [697.5, 1485.46]
+[info | PowerModels]: removing 3 cost terms from generator 210: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 211: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 329: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 118: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 38: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 78: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 74: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 119: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 52: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 439: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 290: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 25: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 114: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 166: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 206: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 364: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 44: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 169: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 94: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 288: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 99: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 330: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 73: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 285: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 310: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 79: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 437: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 84: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 325: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 104: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 124: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 267: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 8: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 91: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 60: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 22: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 11: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 434: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 324: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 331: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 40: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 36: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 95: Float64[]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:    77823
+Number of nonzeros in inequality constraint Jacobian.:    23492
+Number of nonzeros in Lagrangian Hessian.............:   141522
+
+Total number of variables............................:    17554
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:    15554
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:    16825
+Total number of inequality constraints...............:    11746
+        inequality constraints with only lower bounds:     2667
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:     9079
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  6.5499209e+05 5.52e+00 8.53e+00  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  6.8147538e+05 5.27e+00 1.23e+01  -1.0 1.75e+01    -  3.65e-03 4.55e-02h  2
+   2  6.9093779e+05 5.18e+00 1.25e+01  -1.0 1.89e+01    -  1.11e-02 1.71e-02h  1
+   3  7.0662052e+05 5.03e+00 1.30e+01  -1.0 2.28e+01    -  1.95e-02 2.89e-02h  1
+   4  7.3493055e+05 4.76e+00 1.10e+01  -1.0 2.95e+01    -  6.79e-02 5.37e-02h  1
+   5  7.5773382e+05 4.55e+00 9.86e+00  -1.0 4.22e+01    -  1.86e-01 4.55e-02h  2
+   6  7.9341437e+05 4.21e+00 1.04e+01  -1.0 5.48e+01    -  1.40e-01 7.40e-02h  2
+   7  8.2912216e+05 3.87e+00 1.35e+01  -1.0 7.39e+01    -  2.40e-01 7.97e-02h  2
+   8  8.5688914e+05 3.61e+00 1.47e+01  -1.0 9.87e+01    -  2.15e-01 6.73e-02h  2
+   9  8.8204389e+05 3.38e+00 1.96e+01  -1.0 1.23e+02    -  4.12e-01 6.54e-02h  3
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  9.1382509e+05 3.08e+00 1.97e+01  -1.0 1.51e+02    -  4.80e-01 8.89e-02h  3
+  11  9.4528472e+05 2.78e+00 1.72e+01  -1.0 1.92e+02    -  3.11e-01 9.75e-02h  3
+  12  9.7618125e+05 2.48e+00 1.95e+01  -1.0 2.42e+02    -  7.93e-01 1.08e-01h  3
+  13  1.0062648e+06 2.18e+00 1.86e+01  -1.0 3.07e+02    -  3.24e-01 1.20e-01h  3
+  14  1.0278639e+06 1.96e+00 2.24e+01  -1.0 3.83e+02    -  8.61e-01 1.01e-01h  3
+  15  1.0876255e+06 1.33e+00 1.55e+01  -1.0 4.37e+02    -  4.08e-01 3.20e-01w  1
+  16  1.0945873e+06 1.26e+00 1.72e+01  -1.0 3.68e+02    -  2.82e-01 5.72e-02w  1
+  17  1.1255137e+06 9.42e-01 1.41e+01  -1.0 2.44e+02    -  3.55e-01 2.50e-01w  1
+  18  1.0577233e+06 1.65e+00 1.97e+01  -1.0 2.48e+02    -  4.08e-01 1.60e-01h  1
+  19  1.0862728e+06 1.33e+00 1.69e+01  -1.0 4.78e+02    -  3.34e-01 1.90e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  1.0957279e+06 1.24e+00 1.96e+01  -1.0 2.30e+02    -  4.18e-01 7.20e-02h  1
+  21  1.1232740e+06 9.59e-01 1.49e+01  -1.0 2.53e+02    -  1.90e-01 2.25e-01h  1
+  22  1.1265972e+06 9.29e-01 1.61e+01  -1.0 1.36e+02    -  2.80e-01 3.15e-02h  1
+  23  1.1448267e+06 7.68e-01 1.33e+01  -1.0 1.59e+02    -  1.89e-01 1.73e-01h  1
+  24  1.1567649e+06 6.63e-01 1.15e+01  -1.0 1.24e+02    -  1.31e-01 1.37e-01h  1
+  25  1.1719866e+06 5.28e-01 9.14e+00  -1.0 1.28e+02    -  2.05e-01 2.03e-01h  1
+  26  1.1864217e+06 4.00e-01 7.63e+00  -1.0 1.18e+02    -  5.33e-01 2.43e-01h  1
+  27  1.2051897e+06 2.31e-01 4.51e+00  -1.0 1.26e+02    -  4.58e-01 4.23e-01h  1
+  28  1.2109445e+06 1.78e-01 3.83e+00  -1.0 9.77e+01    -  4.17e-01 2.30e-01h  1
+  29  1.2165518e+06 1.26e-01 3.51e+00  -1.0 8.33e+01    -  5.58e-01 2.88e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  30  1.2233019e+06 6.60e-02 1.66e+00  -1.0 6.71e+01    -  3.81e-01 4.78e-01h  1
+  31  1.2256233e+06 4.59e-02 1.48e+00  -1.0 3.32e+01    -  4.82e-01 3.04e-01h  1
+  32  1.2295225e+06 1.32e-02 7.19e-01  -1.0 1.85e+01    -  1.00e+00 7.13e-01h  1
+  33  1.2311503e+06 3.69e-04 3.61e-02  -1.0 5.39e+00    -  1.00e+00 1.00e+00h  1
+  34  1.2298741e+06 1.32e-02 2.06e-01  -2.5 8.78e+00    -  7.18e-01 7.01e-01f  1
+  35  1.2294354e+06 1.34e-02 6.97e+00  -2.5 6.15e+00    -  6.61e-01 2.80e-01f  1
+  36  1.2291383e+06 1.24e-02 4.37e+01  -2.5 6.93e+00    -  6.73e-01 2.28e-01f  1
+  37  1.2289391e+06 1.07e-02 5.06e+01  -2.5 6.81e+00    -  5.04e-01 2.18e-01f  1
+  38  1.2287555e+06 8.44e-03 4.55e+01  -2.5 6.57e+00    -  6.83e-01 2.93e-01f  1
+  39  1.2286636e+06 6.53e-03 4.65e+01  -2.5 5.01e+00    -  7.63e-01 2.49e-01f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  40  1.2286156e+06 4.95e-03 7.80e+01  -2.5 4.19e+00    -  1.00e+00 2.46e-01h  1
+  41  1.2285651e+06 2.82e-03 4.39e+01  -2.5 3.39e+00    -  1.00e+00 4.40e-01h  1
+  42  1.2285395e+06 1.16e-03 3.13e+01  -2.5 1.97e+00    -  1.00e+00 5.99e-01h  1
+  43  1.2285260e+06 1.24e-04 3.06e-03  -2.5 8.34e-01    -  1.00e+00 1.00e+00h  1
+  44  1.2285262e+06 1.17e-06 4.12e-04  -2.5 8.29e-02    -  1.00e+00 1.00e+00h  1
+  45  1.2285095e+06 1.00e-04 1.12e+01  -3.8 1.85e+00    -  6.16e-01 4.41e-01f  1
+  46  1.2284945e+06 1.60e-04 3.33e+00  -3.8 1.22e+00    -  7.21e-01 7.16e-01h  1
+  47  1.2284890e+06 1.18e-04 7.34e-04  -3.8 4.88e-01    -  1.00e+00 1.00e+00h  1
+  48  1.2284891e+06 7.67e-06 4.71e-05  -3.8 1.42e-01    -  1.00e+00 1.00e+00h  1
+  49  1.2284891e+06 9.50e-08 4.97e-07  -3.8 1.67e-02    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  50  1.2284872e+06 2.13e-05 3.15e-01  -5.7 2.09e-01    -  8.59e-01 9.22e-01f  1
+  51  1.2284871e+06 7.56e-06 2.46e-01  -5.7 1.31e-01    -  7.81e-01 9.88e-01h  1
+  52  1.2284871e+06 4.02e-06 1.01e-01  -5.7 5.18e-02    -  1.00e+00 5.00e-01f  2
+  53  1.2284871e+06 8.72e-07 2.99e-06  -5.7 4.33e-02    -  1.00e+00 1.00e+00h  1
+  54  1.2284871e+06 2.30e-08 9.40e-08  -5.7 5.08e-03    -  1.00e+00 1.00e+00h  1
+  55  1.2284871e+06 2.03e-07 8.82e-04  -8.6 1.93e-02    -  9.63e-01 9.72e-01h  1
+  56  1.2284871e+06 5.34e-08 1.93e-07  -8.6 6.89e-03    -  1.00e+00 1.00e+00h  1
+  57  1.2284871e+06 1.41e-08 3.14e-08  -8.6 2.80e-03    -  1.00e+00 1.00e+00h  1
+  58  1.2284871e+06 3.30e-09 1.81e-09  -8.6 1.16e-03    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 58
+
+                                   (scaled)                 (unscaled)
+Objective...............:   4.2237822096611199e+04    1.2284870556799367e+06
+Dual infeasibility......:   1.8093547474990323e-09    5.2625082831009350e-08
+Constraint violation....:   3.3042901470548003e-09    3.3042901470548003e-09
+Complementarity.........:   9.5116668650630250e-09    2.7664683077035806e-07
+Overall NLP error.......:   9.5116668650630250e-09    2.7664683077035806e-07
+
+
+Number of objective function evaluations             = 99
+Number of objective gradient evaluations             = 59
+Number of equality constraint evaluations            = 99
+Number of inequality constraint evaluations          = 99
+Number of equality constraint Jacobian evaluations   = 59
+Number of inequality constraint Jacobian evaluations = 59
+Number of Lagrangian Hessian evaluations             = 58
+Total CPU secs in IPOPT (w/o function evaluations)   =     53.244
+Total CPU secs in NLP function evaluations           =     20.074
+
+EXIT: Optimal Solution Found.
+Time to Solution........:30.24268889427185
+Final cost..............:
