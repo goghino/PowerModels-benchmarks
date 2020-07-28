@@ -1,6 +1,5 @@
 *.DS_Store
 /src/batch/*
-/src/out/*
 /src/err/*
 /src/j_array/out/*
 /src/j_array/err/*
