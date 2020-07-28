@@ -1,6 +1,8 @@
 *.DS_Store
 /src/batch/*
 /src/out/*
-/src/err
+/src/err/*
+/src/j_array/out/*
+/src/j_array/err/*
 /src/batch/*
 /src/cases
