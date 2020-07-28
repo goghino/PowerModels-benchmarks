@@ -18,7 +18,10 @@ for log_file in out_files:
     case= f.readline()
     case=case.replace("\n","")
     # print(case)
+    it="0"
+    time_sim="0"
     for line in f:
+       
         if "Number of Iterations....:" in line:
             it=line.replace("Number of Iterations....: ","")
             # print(line)
