@@ -1,4 +1,5 @@
 *.DS_Store
+/src/batch/*
 /src/out/*
 /src/err
 /src/batch/*
