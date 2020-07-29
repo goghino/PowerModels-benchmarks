@@ -9,12 +9,12 @@ import sys
 #-a    all info
 option = sys.argv[1]
 
-mypath="out"
+mypath="logs"
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 df = pd.DataFrame(columns=["case","iterations","time"])
 
 for log_file in out_files:
-    f = open("out/"+log_file, "r")
+    f = open(mypath+"/"+log_file, "r")
     case= f.readline()
     case=case.replace("\n","")
     # print(case)
