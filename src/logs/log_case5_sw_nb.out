@@ -1,0 +1,16 @@
+cases/matpower/case5_sw_nb.m
+[warn | PowerModels]: no active generators found at bus 305, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 101, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 204, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 402, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 705, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 604, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 503, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 403, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 201, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 504, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 603, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 704, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 301, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 102, updating to bus type from 2 to 1
+[error | PowerModels]: active power decision variables appear to be missing for switch components
