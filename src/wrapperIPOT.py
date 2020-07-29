@@ -8,7 +8,7 @@ import sys
 #-t    time solve info
 #-a    all info
 option = sys.argv[1]
-
+name_logs =sys.argv[2]
 mypath="logs"
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 df = pd.DataFrame(columns=["case","iterations","time"])
@@ -37,3 +37,5 @@ elif(option=="-i"):
     print(df[['case','iterations']])
 elif(option=="-t"):
     print(df[['case','time']])
+    
+df.to_csv("csv_results/results_"+name_logs+".csv", index=False)
