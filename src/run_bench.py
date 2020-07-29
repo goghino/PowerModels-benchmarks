@@ -49,8 +49,8 @@ def runBench():
             case_name=rd.replace('.m','')
             f.write("julia run_powermodel.jl "+mypath+rd+" >> logs/log_"+case_name+".out\n")
         f.close()
-       	# job = os.popen("sbatch " + batch_file).read()
-        # print(job)
+       	job = os.popen("sbatch " + batch_file).read()
+        print(job)
         count+=1
  
 if (__name__ == '__main__'):
