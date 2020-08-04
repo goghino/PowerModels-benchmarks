@@ -26,8 +26,10 @@ def runBench():
     print(bin_chunks)
     os.popen("rm -rf batch").read()
     os.popen("rm -rf out").read()
+    os.popen("rm -rf logs").read()
     os.popen("rm -rf err").read()
     os.popen("mkdir out").read()
+    os.popen("mkdir logs").read()
     os.popen("mkdir err").read()
     os.popen("mkdir batch").read()
     count=0
