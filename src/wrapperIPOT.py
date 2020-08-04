@@ -8,15 +8,21 @@ import sys
 #-t    time solve info
 #-a    all info
 option = sys.argv[1]
-name_logs =sys.argv[2]
+
 mypath="logs"
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+f = open(mypath+"/"+out_files[0], "r")
+case= f.readline()
+case=case.replace("\n","")
+name_logs =case.split('/')
+print("Case set: "+ name_logs[1])
+f.close()
 df = pd.DataFrame(columns=["case","iterations","time"])
 
 for log_file in out_files:
     f = open(mypath+"/"+log_file, "r")
-    case= f.readline()
-    case=case.replace("\n","")
+    case= log_file.replace('.out','')
+    case= case.replace('log_','')
     # print(case)
     it="0"
     time_sim="0"
@@ -38,4 +44,6 @@ elif(option=="-i"):
 elif(option=="-t"):
     print(df[['case','time']])
     
-df.to_csv("csv_results/results_"+name_logs+".csv", index=False)
+    
+# Export to csv file
+df.to_csv("csv_results/results_"+name_logs[1]+".csv", index=False)
