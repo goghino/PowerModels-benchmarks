@@ -1,1 +1,3 @@
 cases/matpower/case5_sw.m
+ipopt
+[error | PowerModels]: active power decision variables appear to be missing for switch components

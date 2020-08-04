@@ -5,11 +5,13 @@ using KNITRO
 in_case=ARGS[1]
 optimizer=ARGS[2]
 println(in_case)
-if(optimizer=="knitro")
+println(optimizer)
+if (optimizer=="knitro")
 	result = run_ac_opf(in_case, with_optimizer(KNITRO.Optimizer))
-elseif(optimizer=="ipopt")
+elseif (optimizer=="ipopt")
 	result = run_ac_opf(in_case, with_optimizer(Ipopt.Optimizer))
+end
 
 println("Time to Solution........:",result["solve_time"])
-println("Final cost..............:")
-println("Constraint violation....::)
+#println("Final cost..............:")
+#println("Constraint violation....:")
