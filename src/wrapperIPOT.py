@@ -15,7 +15,8 @@ f = open(mypath+"/"+out_files[0], "r")
 case= f.readline()
 case=case.replace("\n","")
 name_logs =case.split('/')
-print("Case set: "+ name_logs[1])
+optimizer= f.readline()
+print("Case set: "+ name_logs[1]+" Optimizer: "+ optimizer)
 f.close()
 df = pd.DataFrame(columns=["case","iterations","time"])
 
@@ -46,4 +47,4 @@ elif(option=="-t"):
     
     
 # Export to csv file
-df.to_csv("csv_results/results_"+name_logs[1]+".csv", index=False)
+df.to_csv("csv_results/results_"+name_logs[1]+"_"+optimizer+".csv", index=False)
