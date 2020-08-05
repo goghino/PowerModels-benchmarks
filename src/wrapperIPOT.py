@@ -29,11 +29,15 @@ for log_file in out_files:
     it="0"
     time_sim="0"
     for line in f:
-       
-        if "Number of Iterations....:" in line:
-            it=line.replace("Number of Iterations....: ","")
-            # print(line)
-        elif "Time to Solution........:" in line:
+        if(optimizer=="knitro"):
+            if "# of iterations" in line:
+                it=line.replace("# of iterations                     =         ","")
+                # print(line)
+        elif(optimizer=="ipopt"):
+            if "Number of Iterations....:" in line:
+                it=line.replace("Number of Iterations....: ","")
+        
+        if "Time to Solution........:" in line:
             time_sim=line.replace("Time to Solution........:","")
             # print(line)
     df=df.append({"case":case,"iterations":int(it),"time":float(time_sim)}, ignore_index=True)
