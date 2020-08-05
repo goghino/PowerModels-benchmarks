@@ -1,5 +1,5 @@
 cases/matpower/case2.m
-knitro
+ipopt
 [warn | InfrastructureModels]: Matlab parser skipping the following line:
   };
 [warn | PowerModels]: The number of generators (1) does not match the number of generator cost records (0).

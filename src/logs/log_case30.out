@@ -1,5 +1,5 @@
 cases/matpower/case30.m
-knitro
+ipopt
 [info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
 [info | PowerModels]: removing 1 cost terms from generator 1: [52.1378, 0.0]
 [info | PowerModels]: removing 3 cost terms from generator 5: Float64[]
@@ -7,70 +7,70 @@ knitro
 [info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
 [info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
 
-=======================================
-          Commercial License
-         Artelys Knitro 12.2.2
-=======================================
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
 
-Knitro presolve eliminated 11 variables and 11 constraints.
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
 
-datacheck:               0
-hessian_no_f:            1
-par_numthreads:          1
-Knitro changing algorithm from AUTO to 1.
-Knitro changing bar_initpt from AUTO to 3.
-Knitro changing bar_murule from AUTO to 4.
-Knitro changing bar_penaltycons from AUTO to 0.
-Knitro changing bar_penaltyrule from AUTO to 2.
-Knitro changing bar_switchrule from AUTO to 2.
-Knitro changing linesearch from AUTO to 1.
-Knitro changing linsolver from AUTO to 2.
-Knitro fixing 9 variables eliminated from the presolve.
+Number of nonzeros in equality constraint Jacobian...:      995
+Number of nonzeros in inequality constraint Jacobian.:      328
+Number of nonzeros in Lagrangian Hessian.............:     1806
 
-Problem Characteristics                                 (   Presolved)
------------------------
-Objective goal:  Minimize
-Objective type:  linear
-Number of variables:                                236 (         225)
-    bounded below only:                               0 (          39)
-    bounded above only:                               0 (           1)
-    bounded below and above:                        202 (         148)
-    fixed:                                            4 (           0)
-    free:                                            30 (          37)
-Number of constraints:                              389 (         378)
-    linear equalities:                               59 (          52)
-    quadratic equalities:                             2 (           2)
-    gen. nonlinear equalities:                      164 (         164)
-    linear one-sided inequalities:                   82 (          78)
-    quadratic one-sided inequalities:                82 (          82)
-    gen. nonlinear one-sided inequalities:            0 (           0)
-    linear two-sided inequalities:                    0 (           0)
-    quadratic two-sided inequalities:                 0 (           0)
-    gen. nonlinear two-sided inequalities:            0 (           0)
-Number of nonzeros in Jacobian:                    1327 (        1290)
-Number of nonzeros in Hessian:                      418 (         408)
+Total number of variables............................:      232
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:      202
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:      225
+Total number of inequality constraints...............:      164
+        inequality constraints with only lower bounds:       41
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:      123
 
-  Iter      Objective      FeasError   OptError    ||Step||    CGits 
---------  --------------  ----------  ----------  ----------  -------
-       0    0.000000e+00   9.420e-01
-      10    2.049684e+02   1.073e-06   3.064e-02   2.390e-03        0
-      12    2.049684e+02   9.586e-11   3.715e-08   4.209e-06        0
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  1.6565423e+00 9.42e-01 1.51e+01  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  1.8318347e+02 1.89e-01 1.29e+02  -1.0 1.64e+00    -  6.21e-03 8.00e-01H  1
+   2  1.8570516e+02 5.60e-02 3.78e+01  -1.0 1.42e+00    -  2.49e-02 7.03e-01h  1
+   3  1.8616085e+02 5.37e-02 3.71e+01  -1.0 7.72e-01    -  9.77e-01 4.22e-02h  1
+   4  2.0544231e+02 3.07e-04 8.49e-01  -1.0 3.63e-01    -  1.00e+00 1.00e+00h  1
+   5  2.0521838e+02 3.66e-05 5.27e-02  -1.7 2.30e-02    -  1.00e+00 1.00e+00h  1
+   6  2.0499484e+02 1.31e-04 7.48e-01  -2.5 7.66e-02    -  1.00e+00 8.27e-01f  1
+   7  2.0498669e+02 7.00e-06 3.62e-02  -2.5 2.61e-02    -  1.00e+00 1.00e+00h  1
+   8  2.0498819e+02 7.21e-08 6.52e-03  -2.5 1.41e-03    -  1.00e+00 1.00e+00h  1
+   9  2.0496901e+02 7.10e-07 2.46e-03  -3.8 1.00e-02    -  1.00e+00 1.00e+00f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  2.0496916e+02 2.30e-07 9.98e-03  -3.8 2.38e-03    -  1.00e+00 1.00e+00h  1
+  11  2.0496930e+02 3.74e-09 5.20e-05  -3.8 2.37e-04    -  1.00e+00 1.00e+00h  1
+  12  2.0496848e+02 3.22e-08 1.34e+00  -5.7 3.90e-04    -  1.00e+00 8.37e-01f  1
+  13  2.0496836e+02 9.99e-08 3.05e-03  -5.7 5.78e-04    -  1.00e+00 1.00e+00f  1
+  14  2.0496836e+02 2.07e-10 1.27e-04  -5.7 7.84e-05    -  1.00e+00 1.00e+00h  1
+  15  2.0496836e+02 8.06e-15 9.58e-09  -5.7 2.74e-07    -  1.00e+00 1.00e+00h  1
+  16  2.0496835e+02 4.51e-10 4.76e-03  -8.6 2.61e-05    -  9.97e-01 9.90e-01f  1
+  17  2.0496835e+02 4.04e-14 1.45e-08  -8.6 9.93e-07    -  1.00e+00 1.00e+00f  1
+  18  2.0496835e+02 9.09e-15 8.86e-12  -9.0 2.41e-08    -  1.00e+00 1.00e+00h  1
 
-EXIT: Locally optimal solution found.
+Number of Iterations....: 18
 
-Final Statistics
-----------------
-Final objective value               =   2.04968351638573e+02
-Final feasibility error (abs / rel) =   9.59e-11 / 9.59e-11
-Final optimality error  (abs / rel) =   3.71e-08 / 3.71e-10
-# of iterations                     =         12 
-# of CG iterations                  =          0 
-# of function evaluations           =         15
-# of gradient evaluations           =         14
-# of Hessian evaluations            =         12
-Total program time (secs)           =       4.01837 (     4.013 CPU time)
-Time spent in evaluations (secs)    =       2.64851
+                                   (scaled)                 (unscaled)
+Objective...............:   1.8056244707464680e+02    2.0496835079593848e+02
+Dual infeasibility......:   8.8637271845077491e-12    1.0061801733128923e-11
+Constraint violation....:   9.0873489289045040e-15    9.0873489289045040e-15
+Complementarity.........:   9.0913122145057515e-10    1.0320148521291634e-09
+Overall NLP error.......:   9.0913122145057515e-10    1.0320148521291634e-09
 
-===============================================================================
 
-Time to Solution........:4.01334810256958
+Number of objective function evaluations             = 20
+Number of objective gradient evaluations             = 19
+Number of equality constraint evaluations            = 20
+Number of inequality constraint evaluations          = 20
+Number of equality constraint Jacobian evaluations   = 19
+Number of inequality constraint Jacobian evaluations = 19
+Number of Lagrangian Hessian evaluations             = 18
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.278
+Total CPU secs in NLP function evaluations           =      2.298
+
+EXIT: Optimal Solution Found.
+Time to Solution........:4.318092107772827
