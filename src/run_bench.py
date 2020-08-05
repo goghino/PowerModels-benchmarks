@@ -63,8 +63,8 @@ def runBench(optimizer):
                     case_name=rd.replace('.m','')
                     f.write("julia run_powermodel.jl "+mypath+rd+" "+optimizer+" >> logs/log_"+case_name+".out\n")
                 f.close()
-                # job = os.popen("sbatch " + batch_file).read()
-                # print(job)
+                job = os.popen("sbatch " + batch_file).read()
+                print(job)
                 count+=1
     else:
         print("Error: Optimizer not known")
