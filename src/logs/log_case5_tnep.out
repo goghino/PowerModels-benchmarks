@@ -1,0 +1,88 @@
+cases/matpower/case5_tnep.m
+knitro
+[info | PowerModels]: extending matpower format with data: ne_branch 3x15
+[warn | PowerModels]: the dc line model is not meant to be used bi-directionally when loss1 > 0, be careful interpreting the results as the dc line losses can now be negative. change loss1 to 0 to avoid this warning
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 5
+[info | PowerModels]: removing 1 cost terms from generator 4: [4000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [1400.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [1000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [1500.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [3000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from dcline 1: [4000.0, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 3 variables and 7 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (11 variables).
+Knitro fixing 3 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 40 (          37)
+    bounded below only:                               0 (           3)
+    bounded above only:                               0 (           1)
+    bounded below and above:                         35 (          29)
+    fixed:                                            0 (           0)
+    free:                                             5 (           4)
+Number of constraints:                               44 (          37)
+    linear equalities:                               12 (           9)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                       16 (          16)
+    linear one-sided inequalities:                    8 (           4)
+    quadratic one-sided inequalities:                 8 (           8)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     145 (         122)
+Number of nonzeros in Hessian:                       47 (          39)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.097950e+04   3.100e+00
+      10    2.648602e+04   1.863e-01   5.148e+00   2.350e-01        0
+      20    2.695188e+04   7.605e-02   3.998e+01   6.285e-01        0
+      30    2.855350e+04   2.873e+00   5.314e+05   1.121e+00        0
+      40    2.866389e+04   6.337e+00   9.994e+01   8.554e+00        0
+      50    2.672058e+04   1.481e-01   9.901e+01   3.375e-01        0
+      60    2.662158e+04   5.181e-01   9.901e+01   9.297e-03        0
+      70    2.647729e+04   5.222e-01   9.901e+01   1.438e-01        0
+      76    2.644503e+04   5.223e-01   9.901e+01   8.393e-05        0
+
+EXIT: Convergence to an infeasible point. Problem appears to be locally
+      infeasible. If problem is believed to be feasible, try multistart 
+      to search for feasible points, or decrease infeastol.
+
+Final Statistics
+----------------
+Final objective value               =   2.64450289032621e+04
+Final feasibility error (abs / rel) =   5.22e-01 / 1.68e-01
+Final optimality error  (abs / rel) =   9.90e+01 / 9.90e-01
+# of iterations                     =         76 
+# of CG iterations                  =         13 
+# of function evaluations           =        103
+# of gradient evaluations           =         78
+# of Hessian evaluations            =         77
+Total program time (secs)           =       4.12964 (     4.128 CPU time)
+Time spent in evaluations (secs)    =       2.78220
+
+===============================================================================
+
+Time to Solution........:4.128384113311768

@@ -1,0 +1,69 @@
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 7 variables and 9 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 1 variable eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 60 (          53)
+    bounded below only:                               0 (          12)
+    bounded above only:                               0 (           0)
+    bounded below and above:                         51 (          34)
+    fixed:                                            0 (           0)
+    free:                                             9 (           7)
+Number of constraints:                               91 (          82)
+    linear equalities:                               19 (          12)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                       36 (          36)
+    linear one-sided inequalities:                   18 (          16)
+    quadratic one-sided inequalities:                18 (          18)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     295 (         274)
+Number of nonzeros in Hessian:                       99 (          95)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    0.000000e+00   1.000e+00
+       8    3.476972e+02   1.223e-08   2.204e-07   8.848e-04        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   3.47697190175205e+02
+Final feasibility error (abs / rel) =   1.22e-08 / 1.22e-08
+Final optimality error  (abs / rel) =   2.20e-07 / 2.20e-09
+# of iterations                     =          8 
+# of CG iterations                  =          0 
+# of function evaluations           =         11
+# of gradient evaluations           =         10
+# of Hessian evaluations            =          8
+Total program time (secs)           =       3.99233 (     3.988 CPU time)
+Time spent in evaluations (secs)    =       2.64685
+
+===============================================================================
+
+cases/matpower/case9.m
+knitro
+Time to Solution........:3.9879519939422607

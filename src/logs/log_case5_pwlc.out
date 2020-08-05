@@ -1,0 +1,85 @@
+cases/matpower/case5_pwlc.m
+knitro
+[warn | PowerModels]: added zero cost function data for dclines
+[warn | PowerModels]: the from bus voltage setpoint on dc line 1 does not match the value at bus 1
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 10
+[warn | PowerModels]: exending the pwl costs model on generator 4 by -0.23 to include the minimum active power value 0.0
+[warn | PowerModels]: exending the pwl costs model on generator 4 by 1.4599999999999997 to include the maximum active power value 2.0
+[warn | PowerModels]: exending the pwl costs model on generator 1 by 0.40800000000000003 to include the maximum active power value 0.4
+[warn | PowerModels]: simplifying pwl cost on generator 1, [-0.001, 0.0, 0.0, 0.0, 0.001, 0.0, 0.41000000000000003, 0.0] -> [-0.001, 0.0, 0.41000000000000003, 0.0]
+[warn | PowerModels]: exending the pwl costs model on generator 5 by -0.08 to include the minimum active power value 0.0
+[warn | PowerModels]: exending the pwl costs model on generator 5 by 5.91 to include the maximum active power value 6.0
+[warn | PowerModels]: exending the pwl costs model on generator 2 by 0.20999999999999996 to include the maximum active power value 1.7
+[warn | PowerModels]: simplifying pwl cost on generator 2, [0.0, 841.0, 0.2, 841.0, 1.0, 841.0, 1.71, 841.0] -> [0.0, 841.0, 1.71, 841.0]
+[warn | PowerModels]: exending the pwl costs model on generator 3 by -1.71 to include the minimum active power value 0.0
+[warn | PowerModels]: exending the pwl costs model on generator 3 by 1.6600000000000001 to include the maximum active power value 5.2
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 3 variables and 9 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (25 variables).
+Knitro fixing 1 variable eliminated from the presolve.
+Knitro reinitializing 2 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 66 (          63)
+    bounded below only:                               0 (           5)
+    bounded above only:                               0 (           2)
+    bounded below and above:                         61 (          55)
+    fixed:                                            0 (           0)
+    free:                                             5 (           1)
+Number of constraints:                               72 (          63)
+    linear equalities:                               24 (          21)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                       24 (          24)
+    linear one-sided inequalities:                   12 (           6)
+    quadratic one-sided inequalities:                12 (          12)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     250 (         221)
+Number of nonzeros in Hessian:                       63 (          55)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.039869e+05   3.708e+00
+      10    4.289513e+04   1.204e-05   2.275e-05   1.516e-01        0
+      12    4.289513e+04   5.770e-07   4.309e-07   3.181e-02        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   4.28951293458778e+04
+Final feasibility error (abs / rel) =   5.77e-07 / 1.56e-07
+Final optimality error  (abs / rel) =   4.31e-07 / 4.31e-09
+# of iterations                     =         12 
+# of CG iterations                  =          0 
+# of function evaluations           =         14
+# of gradient evaluations           =         14
+# of Hessian evaluations            =         12
+Total program time (secs)           =       4.13386 (     4.127 CPU time)
+Time spent in evaluations (secs)    =       2.75606
+
+===============================================================================
+
+Time to Solution........:4.126645088195801

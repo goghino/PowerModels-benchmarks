@@ -1,0 +1,77 @@
+cases/matpower/case5_db.m
+knitro
+[warn | PowerModels]: added zero cost function data for dclines
+[warn | PowerModels]: active generators found at bus 1, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 5, updating to bus type from 1 to 2
+[warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 5
+[warn | PowerModels]: the voltage setpoint on generator 2 does not match the value at bus 1
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 5
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 6 variables and 10 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (7 variables).
+Knitro fixing 6 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 38 (          32)
+    bounded below only:                               0 (           3)
+    bounded above only:                               0 (           0)
+    bounded below and above:                         33 (          27)
+    fixed:                                            0 (           0)
+    free:                                             5 (           2)
+Number of constraints:                               44 (          34)
+    linear equalities:                               12 (           6)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                       16 (          16)
+    linear one-sided inequalities:                    8 (           4)
+    quadratic one-sided inequalities:                 8 (           8)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     143 (         115)
+Number of nonzeros in Hessian:                       44 (          36)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    5.989500e+03   3.100e+00
+       8    1.673907e+04   1.599e-06   3.733e-05   2.287e-02        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   1.67390652359392e+04
+Final feasibility error (abs / rel) =   1.60e-06 / 5.16e-07
+Final optimality error  (abs / rel) =   3.73e-05 / 3.73e-07
+# of iterations                     =          8 
+# of CG iterations                  =          0 
+# of function evaluations           =         10
+# of gradient evaluations           =         10
+# of Hessian evaluations            =          8
+Total program time (secs)           =       4.02070 (     4.004 CPU time)
+Time spent in evaluations (secs)    =       2.65200
+
+===============================================================================
+
+Time to Solution........:4.004247188568115

@@ -1,0 +1,83 @@
+cases/matpower/case5_dc.m
+knitro
+[warn | PowerModels]: the dc line model is not meant to be used bi-directionally when loss1 > 0, be careful interpreting the results as the dc line losses can now be negative. change loss1 to 0 to avoid this warning
+[warn | PowerModels]: active generators found at bus 1, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 5, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 3, updating to bus type from 1 to 2
+[warn | PowerModels]: the voltage setpoint on generator 5 does not match the value at bus 5
+[warn | PowerModels]: the voltage setpoint on generator 2 does not match the value at bus 1
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 5
+[info | PowerModels]: removing 1 cost terms from generator 4: [4000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [1400.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [1000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [1500.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [3000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from dcline 1: [4000.0, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 1 variable and 7 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (7 variables).
+Knitro fixing 1 variable eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 48 (          47)
+    bounded below only:                               0 (           4)
+    bounded above only:                               0 (           1)
+    bounded below and above:                         43 (          41)
+    fixed:                                            0 (           0)
+    free:                                             5 (           1)
+Number of constraints:                               60 (          53)
+    linear equalities:                               12 (          11)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                       24 (          24)
+    linear one-sided inequalities:                   12 (           6)
+    quadratic one-sided inequalities:                12 (          12)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     209 (         184)
+Number of nonzeros in Hessian:                       63 (          55)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    9.559500e+03   3.100e+00
+       9    1.815617e+04   5.063e-10   4.191e-06   6.900e-04        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   1.81561677007657e+04
+Final feasibility error (abs / rel) =   5.06e-10 / 1.63e-10
+Final optimality error  (abs / rel) =   4.19e-06 / 4.19e-08
+# of iterations                     =          9 
+# of CG iterations                  =          0 
+# of function evaluations           =         11
+# of gradient evaluations           =         11
+# of Hessian evaluations            =          9
+Total program time (secs)           =       3.98617 (     3.981 CPU time)
+Time spent in evaluations (secs)    =       2.65842
+
+===============================================================================
+
+Time to Solution........:3.981261968612671
