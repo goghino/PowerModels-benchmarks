@@ -11,18 +11,33 @@ option = sys.argv[1]
 
 mypath="logs"
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
-f = open(mypath+"/"+out_files[0], "r")
-case= f.readline()
-case=case.replace("\n","")
-name_logs =case.split('/')
+name_logs=""
+file=""
+#find type case
+for log_file in out_files:
+    f = open(mypath+"/"+log_file, "r")
+    case= f.readline()
+    case=case.replace("\n","")
+    arr =case.split('/')
+    print(arr)
+    f.close()
+    if(len(arr)>1):
+        file=log_file
+        name_logs=arr[1]
+        break
+#find optimizer formulation
+f = open(mypath+"/"+file, "r")
+f.readline()
 optimizer= f.readline()
 optimizer=optimizer.replace("\n","")
 formulation= f.readline()
 formulation=formulation.replace("\n","")
-print("Case set: "+ name_logs[1]+" Optimizer: "+ optimizer +" Formulation: "+ formulation)
+print("Case set: "+ name_logs+" Optimizer: "+ optimizer +" Formulation: "+ formulation)
 f.close()
-df = pd.DataFrame(columns=["case","iterations","time"])
 
+
+df = pd.DataFrame(columns=["case","iterations","time"])
+#fill the dataframe with the output of each OPF simulation
 for log_file in out_files:
     f = open(mypath+"/"+log_file, "r")
     case= log_file.replace('.out','')
@@ -54,4 +69,4 @@ elif(option=="-t"):
     
     
 # Export to csv file
-df.to_csv("csv_results/results_"+name_logs[1]+"_"+optimizer+"_"+formulation+".csv", index=False)
+df.to_csv("csv_results/results_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
