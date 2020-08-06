@@ -1,6 +1,6 @@
 cases/matpower/case2.m
 ipopt
-DCP
+IVR
 [warn | InfrastructureModels]: Matlab parser skipping the following line:
   };
 [warn | PowerModels]: The number of generators (1) does not match the number of generator cost records (0).

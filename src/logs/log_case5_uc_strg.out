@@ -1,6 +1,6 @@
 cases/matpower/case5_uc_strg.m
 ipopt
-DCP
+IVR
 [info | PowerModels]: extending matpower format with constant data: time_elapsed
 [warn | PowerModels]: reversing the orientation of branch 6 (4, 3) to be consistent with other parallel branches
 [warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 4
