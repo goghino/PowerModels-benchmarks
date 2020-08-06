@@ -6,6 +6,7 @@ import sys
 
 mypath=sys.argv[1]
 optimizer=sys.argv[2]
+formulation=sys.argv[3]
 cases_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 def chunkIt(seq, num):
@@ -61,7 +62,7 @@ def runBench(optimizer):
                 # ----------------------------------------------
                 for rd in chunk:
                     case_name=rd.replace('.m','')
-                    f.write("julia run_powermodel.jl "+mypath+rd+" "+optimizer+" >> logs/log_"+case_name+".out\n")
+                    f.write("julia run_powermodel.jl "+mypath+rd+" "+optimizer+" "+formulation+" >> logs/log_"+case_name+".out\n")
                 f.close()
                 job = os.popen("sbatch " + batch_file).read()
                 print(job)

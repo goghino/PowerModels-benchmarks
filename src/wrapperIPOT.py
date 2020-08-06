@@ -17,7 +17,9 @@ case=case.replace("\n","")
 name_logs =case.split('/')
 optimizer= f.readline()
 optimizer=optimizer.replace("\n","")
-print("Case set: "+ name_logs[1]+" Optimizer: "+ optimizer)
+formulation= f.readline()
+formulation=formulation.replace("\n","")
+print("Case set: "+ name_logs[1]+" Optimizer: "+ optimizer +" Formulation: "+ formulation)
 f.close()
 df = pd.DataFrame(columns=["case","iterations","time"])
 
@@ -52,4 +54,4 @@ elif(option=="-t"):
     
     
 # Export to csv file
-df.to_csv("csv_results/results_"+name_logs[1]+"_"+optimizer+".csv", index=False)
+df.to_csv("csv_results/results_"+name_logs[1]+"_"+optimizer+"_"+formulation+".csv", index=False)
