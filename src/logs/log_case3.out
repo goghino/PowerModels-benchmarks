@@ -1,5 +1,6 @@
 cases/matpower/case3.m
 ipopt
+ACP
 [info | PowerModels]: extending matpower format with constant data: const_int
 [info | PowerModels]: extending matpower format with constant data: const_float
 [info | PowerModels]: extending matpower format with data: bus_data 3x3
@@ -78,8 +79,8 @@ Number of inequality constraint evaluations          = 14
 Number of equality constraint Jacobian evaluations   = 14
 Number of inequality constraint Jacobian evaluations = 14
 Number of Lagrangian Hessian evaluations             = 13
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.264
-Total CPU secs in NLP function evaluations           =      2.280
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.278
+Total CPU secs in NLP function evaluations           =      2.303
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.27665901184082
+Time to Solution........:4.314670085906982

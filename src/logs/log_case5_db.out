@@ -1,5 +1,6 @@
 cases/matpower/case5_db.m
 ipopt
+ACP
 [warn | PowerModels]: added zero cost function data for dclines
 [warn | PowerModels]: active generators found at bus 1, updating to bus type from 1 to 2
 [warn | PowerModels]: active generators found at bus 5, updating to bus type from 1 to 2
@@ -73,8 +74,8 @@ Number of inequality constraint evaluations          = 22
 Number of equality constraint Jacobian evaluations   = 21
 Number of inequality constraint Jacobian evaluations = 21
 Number of Lagrangian Hessian evaluations             = 20
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.237
-Total CPU secs in NLP function evaluations           =      2.293
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.259
+Total CPU secs in NLP function evaluations           =      2.294
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.243884086608887
+Time to Solution........:4.277517080307007

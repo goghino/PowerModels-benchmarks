@@ -1,5 +1,6 @@
 cases/matpower/case5_pwlc.m
 ipopt
+ACP
 [warn | PowerModels]: added zero cost function data for dclines
 [warn | PowerModels]: the from bus voltage setpoint on dc line 1 does not match the value at bus 1
 [warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 10
@@ -83,8 +84,8 @@ Number of inequality constraint evaluations          = 25
 Number of equality constraint Jacobian evaluations   = 25
 Number of inequality constraint Jacobian evaluations = 25
 Number of Lagrangian Hessian evaluations             = 24
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.267
-Total CPU secs in NLP function evaluations           =      2.316
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.299
+Total CPU secs in NLP function evaluations           =      2.294
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.321596145629883
+Time to Solution........:4.335063934326172

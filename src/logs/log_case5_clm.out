@@ -1,5 +1,6 @@
 cases/matpower/case5_clm.m
 ipopt
+ACP
 [info | PowerModels]: extending matpower format with data: branch_currents 7x2
 [info | PowerModels]: extending matpower format by appending matrix "branch_currents" in to "branch"
 [warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 4
@@ -74,8 +75,8 @@ Number of inequality constraint evaluations          = 18
 Number of equality constraint Jacobian evaluations   = 18
 Number of inequality constraint Jacobian evaluations = 18
 Number of Lagrangian Hessian evaluations             = 17
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.237
-Total CPU secs in NLP function evaluations           =      2.174
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.251
+Total CPU secs in NLP function evaluations           =      2.298
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.134268045425415
+Time to Solution........:4.273717880249023

@@ -1,5 +1,6 @@
 cases/matpower/case24.m
 ipopt
+ACP
 [info | PowerModels]: extending matpower format with data: areas 4x3
 [warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 38 to +/- 60.0 deg.
 [warn | PowerModels]: reversing the orientation of branch 37 (23, 20) to be consistent with other parallel branches
@@ -92,8 +93,8 @@ Number of inequality constraint evaluations          = 32
 Number of equality constraint Jacobian evaluations   = 32
 Number of inequality constraint Jacobian evaluations = 32
 Number of Lagrangian Hessian evaluations             = 31
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.334
-Total CPU secs in NLP function evaluations           =      2.304
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.384
+Total CPU secs in NLP function evaluations           =      2.294
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.373669862747192
+Time to Solution........:4.470004081726074

@@ -1,5 +1,6 @@
 cases/matpower/case5_tnep.m
 ipopt
+ACP
 [info | PowerModels]: extending matpower format with data: ne_branch 3x15
 [warn | PowerModels]: the dc line model is not meant to be used bi-directionally when loss1 > 0, be careful interpreting the results as the dc line losses can now be negative. change loss1 to 0 to avoid this warning
 [warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 5
@@ -117,8 +118,8 @@ Number of inequality constraint evaluations          = 279
 Number of equality constraint Jacobian evaluations   = 67
 Number of inequality constraint Jacobian evaluations = 67
 Number of Lagrangian Hessian evaluations             = 60
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.312
-Total CPU secs in NLP function evaluations           =      2.281
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.305
+Total CPU secs in NLP function evaluations           =      2.319
 
 EXIT: Converged to a point of local infeasibility. Problem may be infeasible.
-Time to Solution........:4.313277959823608
+Time to Solution........:4.367388010025024

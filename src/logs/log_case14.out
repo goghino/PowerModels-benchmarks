@@ -1,5 +1,6 @@
 cases/matpower/case14.m
 ipopt
+ACP
 [warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 4 from -360.0 to -60.0 deg.
 [warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 4 from 360.0 to 60.0 deg.
 [warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 1 from -360.0 to -60.0 deg.
@@ -102,8 +103,8 @@ Number of inequality constraint evaluations          = 12
 Number of equality constraint Jacobian evaluations   = 12
 Number of inequality constraint Jacobian evaluations = 12
 Number of Lagrangian Hessian evaluations             = 11
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.226
-Total CPU secs in NLP function evaluations           =      2.250
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.230
+Total CPU secs in NLP function evaluations           =      2.268
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.241848945617676
+Time to Solution........:4.251824140548706

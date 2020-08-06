@@ -1,5 +1,6 @@
 cases/matpower/case3_tnep.m
 ipopt
+ACP
 [info | PowerModels]: extending matpower format with data: ne_branch 3x15
 [info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
 
@@ -69,8 +70,8 @@ Number of inequality constraint evaluations          = 48
 Number of equality constraint Jacobian evaluations   = 24
 Number of inequality constraint Jacobian evaluations = 24
 Number of Lagrangian Hessian evaluations             = 22
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.258
-Total CPU secs in NLP function evaluations           =      2.264
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.243
+Total CPU secs in NLP function evaluations           =      2.269
 
 EXIT: Converged to a point of local infeasibility. Problem may be infeasible.
-Time to Solution........:4.250245094299316
+Time to Solution........:4.228758811950684

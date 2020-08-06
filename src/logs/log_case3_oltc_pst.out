@@ -1,5 +1,6 @@
 cases/matpower/case3_oltc_pst.m
 ipopt
+ACP
 [info | PowerModels]: extending matpower format with data: branch_oltc_pst 3x5
 [warn | PowerModels]: added zero cost function data for dclines
 [info | PowerModels]: extending matpower format by appending matrix "branch_oltc_pst" in to "branch"
@@ -67,8 +68,8 @@ Number of inequality constraint evaluations          = 16
 Number of equality constraint Jacobian evaluations   = 16
 Number of inequality constraint Jacobian evaluations = 16
 Number of Lagrangian Hessian evaluations             = 15
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.236
-Total CPU secs in NLP function evaluations           =      2.379
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.273
+Total CPU secs in NLP function evaluations           =      2.313
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.368695020675659
+Time to Solution........:4.36998987197876

@@ -1,5 +1,6 @@
 cases/matpower/case5_ext.m
 ipopt
+ACP
 [warn | PowerModels]: active branch 8 is connected to inactive bus 11
 [warn | PowerModels]: reversing the orientation of branch 6 (4, 3) to be consistent with other parallel branches
 [warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 4
@@ -82,8 +83,8 @@ Number of inequality constraint evaluations          = 24
 Number of equality constraint Jacobian evaluations   = 24
 Number of inequality constraint Jacobian evaluations = 24
 Number of Lagrangian Hessian evaluations             = 23
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.227
-Total CPU secs in NLP function evaluations           =      2.279
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.265
+Total CPU secs in NLP function evaluations           =      2.304
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.21558690071106
+Time to Solution........:4.306305885314941

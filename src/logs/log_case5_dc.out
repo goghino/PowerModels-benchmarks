@@ -1,5 +1,6 @@
 cases/matpower/case5_dc.m
 ipopt
+ACP
 [warn | PowerModels]: the dc line model is not meant to be used bi-directionally when loss1 > 0, be careful interpreting the results as the dc line losses can now be negative. change loss1 to 0 to avoid this warning
 [warn | PowerModels]: active generators found at bus 1, updating to bus type from 1 to 2
 [warn | PowerModels]: active generators found at bus 5, updating to bus type from 1 to 2
@@ -85,8 +86,8 @@ Number of inequality constraint evaluations          = 46
 Number of equality constraint Jacobian evaluations   = 27
 Number of inequality constraint Jacobian evaluations = 27
 Number of Lagrangian Hessian evaluations             = 26
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.284
-Total CPU secs in NLP function evaluations           =      2.298
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.274
+Total CPU secs in NLP function evaluations           =      2.262
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.35263991355896
+Time to Solution........:4.2699809074401855

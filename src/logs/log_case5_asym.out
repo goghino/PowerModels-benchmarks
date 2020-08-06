@@ -1,5 +1,6 @@
 cases/matpower/case5_asym.m
 ipopt
+ACP
 [info | PowerModels]: removing 1 cost terms from generator 4: [4000.0, 0.0]
 [info | PowerModels]: removing 1 cost terms from generator 1: [1400.0, 0.0]
 [info | PowerModels]: removing 1 cost terms from generator 5: [1000.0, 0.0]
@@ -72,8 +73,8 @@ Number of inequality constraint evaluations          = 28
 Number of equality constraint Jacobian evaluations   = 22
 Number of inequality constraint Jacobian evaluations = 22
 Number of Lagrangian Hessian evaluations             = 21
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.264
-Total CPU secs in NLP function evaluations           =      2.308
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.242
+Total CPU secs in NLP function evaluations           =      2.311
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.295112133026123
+Time to Solution........:4.2811808586120605

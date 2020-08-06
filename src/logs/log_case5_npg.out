@@ -1,5 +1,6 @@
 cases/matpower/case5_npg.m
 ipopt
+ACP
 [warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 4
 [warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1
 [warn | PowerModels]: the voltage setpoint on generator 5 does not match the value at bus 10
@@ -79,8 +80,8 @@ Number of inequality constraint evaluations          = 28
 Number of equality constraint Jacobian evaluations   = 28
 Number of inequality constraint Jacobian evaluations = 28
 Number of Lagrangian Hessian evaluations             = 27
-Total CPU secs in IPOPT (w/o function evaluations)   =      1.255
-Total CPU secs in NLP function evaluations           =      2.255
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.275
+Total CPU secs in NLP function evaluations           =      2.296
 
 EXIT: Optimal Solution Found.
-Time to Solution........:4.235566139221191
+Time to Solution........:4.298836946487427
