@@ -4,7 +4,7 @@ using KNITRO
 
 in_case=ARGS[1]
 optimizer=ARGS[2]
-formulation=ARGS[2]
+formulation=ARGS[3]
 println(in_case)
 println(optimizer)
 println(formulation)
@@ -26,9 +26,9 @@ else
 end
 
 if (optimizer=="knitro")
-	result = run_opf("matpower/case3_dc.m", type_formulation, with_optimizer(Ipopt.Optimizer))
+	result = run_opf(in_case, type_formulation, with_optimizer(Ipopt.Optimizer))
 elseif (optimizer=="ipopt")
-	result = run_opf("matpower/case3_dc.m", type_formulation, with_optimizer(Ipopt.Optimizer))
+	result = run_opf(in_case, type_formulation, with_optimizer(Ipopt.Optimizer))
 else
 	println("Error: wrong optimizer")
 end
