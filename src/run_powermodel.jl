@@ -26,7 +26,7 @@ else
 end
 
 if (optimizer=="knitro")
-	result = run_opf(in_case, type_formulation, with_optimizer(Ipopt.Optimizer))
+	result = run_opf(in_case, type_formulation, with_optimizer(KNITRO.Optimizer))
 elseif (optimizer=="ipopt")
 	result = run_opf(in_case, type_formulation, with_optimizer(Ipopt.Optimizer))
 else
