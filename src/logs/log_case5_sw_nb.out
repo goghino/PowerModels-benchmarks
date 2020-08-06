@@ -1,6 +1,6 @@
 cases/matpower/case5_sw_nb.m
 ipopt
-ACP
+DCP
 [warn | PowerModels]: no active generators found at bus 305, updating to bus type from 2 to 1
 [warn | PowerModels]: no active generators found at bus 101, updating to bus type from 2 to 1
 [warn | PowerModels]: no active generators found at bus 204, updating to bus type from 2 to 1

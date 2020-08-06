@@ -1,6 +1,6 @@
 cases/matpower/case5_strg.m
 ipopt
-ACP
+DCP
 [info | PowerModels]: extending matpower format with constant data: time_elapsed
 [warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 4
 [warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1
