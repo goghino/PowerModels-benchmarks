@@ -1,0 +1,68 @@
+cases/matpower/case3_tnep.m
+ipopt
+DCP
+[info | PowerModels]: extending matpower format with data: ne_branch 3x15
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:        8
+Number of nonzeros in inequality constraint Jacobian.:        4
+Number of nonzeros in Lagrangian Hessian.............:        2
+
+Total number of variables............................:        6
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:        3
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:        5
+Total number of inequality constraints...............:        2
+        inequality constraints with only lower bounds:        1
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:        1
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  6.3949934e+00 1.09e+00 1.04e+02  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  2.9353391e+03 9.50e-01 1.17e+02  -1.0 1.28e+00  -2.0 8.33e-03 1.00e+00h  1
+   2  2.9306185e+03 9.50e-01 9.75e-03  -1.0 4.88e-02  -1.6 9.91e-01 1.00e+00f  1
+   3  2.9306154e+03 9.50e-01 2.87e-05  -1.7 4.04e-04  -1.1 1.00e+00 1.00e+00h  1
+   4  2.9306154e+03 9.50e-01 2.17e-07  -1.7 7.99e-07  -1.6 1.00e+00 1.00e+00s 22
+   5r 2.9306154e+03 9.50e-01 9.99e+02  -0.0 0.00e+00  -2.1 0.00e+00 0.00e+00R  1
+   6r 3.0739522e+03 9.50e-01 5.00e+02  -0.0 5.42e-01    -  1.00e+00 5.00e-01f  2
+   7r 2.9869351e+03 9.50e-01 9.50e-06  -0.0 1.01e-01    -  1.00e+00 1.00e+00f  1
+   8r 2.9578796e+03 9.50e-01 1.65e-01  -2.1 5.18e-02    -  9.26e-01 9.98e-01f  1
+   9r 2.9461470e+03 9.50e-01 6.38e-03  -3.2 2.90e-02    -  9.91e-01 1.00e+00f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10r 2.9334573e+03 9.50e-01 9.46e-04  -4.8 5.11e-02    -  9.72e-01 1.00e+00f  1
+  11r 2.9311945e+03 9.50e-01 1.61e-10  -4.8 2.09e-02    -  1.00e+00 1.00e+00f  1
+  12r 2.9306171e+03 9.50e-01 4.28e-06  -7.2 1.63e-02    -  9.84e-01 1.00e+00f  1
+  13r 2.9306155e+03 9.50e-01 6.82e-13  -7.2 6.94e-04    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 13
+
+                                   (scaled)                 (unscaled)
+Objective...............:   5.8612307817145211e+02    2.9306153908572605e+03
+Dual infeasibility......:   4.7910181697581811e+02    2.3955090848790906e+03
+Constraint violation....:   9.4999999999999996e-01    9.4999999999999996e-01
+Complementarity.........:   9.4883320895080530e-10    4.7441660447540265e-09
+Overall NLP error.......:   4.7910181697581811e+02    2.3955090848790906e+03
+
+
+Number of objective function evaluations             = 39
+Number of objective gradient evaluations             = 7
+Number of equality constraint evaluations            = 39
+Number of inequality constraint evaluations          = 39
+Number of equality constraint Jacobian evaluations   = 1
+Number of inequality constraint Jacobian evaluations = 1
+Number of Lagrangian Hessian evaluations             = 2
+Total CPU secs in IPOPT (w/o function evaluations)   =      0.247
+Total CPU secs in NLP function evaluations           =      0.209
+
+EXIT: Converged to a point of local infeasibility. Problem may be infeasible.
+Time to Solution........:1.132627010345459

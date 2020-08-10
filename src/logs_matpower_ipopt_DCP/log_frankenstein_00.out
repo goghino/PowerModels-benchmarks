@@ -1,0 +1,67 @@
+cases/matpower/frankenstein_00.m
+ipopt
+DCP
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 1 to +/- 60.0 deg.
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 2 to +/- 60.0 deg.
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 3 to +/- 60.0 deg.
+[warn | PowerModels]: no active generators found at bus 1008, updating to bus type from 2 to 1
+[warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1002
+[warn | PowerModels]: the voltage setpoint on generator 2 does not match the value at bus 1005
+[info | PowerModels]: removing 2 cost terms from generator 1: [100.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 2: [100.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 3: [100.0, 0.0]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:       19
+Number of nonzeros in inequality constraint Jacobian.:       12
+Number of nonzeros in Lagrangian Hessian.............:        0
+
+Total number of variables............................:       10
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:        6
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:        8
+Total number of inequality constraints...............:        6
+        inequality constraints with only lower bounds:        3
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:        3
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  1.6114999e+01 1.89e-01 2.59e-13  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  2.9400000e+01 2.08e-17 1.58e-01  -1.0 2.58e-01    -  8.33e-01 1.00e+00h  1
+   2  2.9400000e+01 2.78e-17 1.00e-06  -1.0 4.26e-02    -  1.00e+00 1.00e+00f  1
+   3  2.9400000e+01 2.08e-17 2.83e-08  -2.5 1.41e-05    -  1.00e+00 1.00e+00h  1
+   4  2.9400000e+01 1.73e-17 1.50e-09  -3.8 2.85e-05    -  1.00e+00 1.00e+00h  1
+   5  2.9400000e+01 1.39e-17 1.84e-11  -5.7 6.22e-06    -  1.00e+00 1.00e+00h  1
+   6  2.9400000e+01 2.78e-17 2.51e-14  -8.6 6.81e-07    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 6
+
+                                   (scaled)                 (unscaled)
+Objective...............:   2.9399999999999999e+01    2.9399999999999999e+01
+Dual infeasibility......:   2.5059035640133008e-14    2.5059035640133008e-14
+Constraint violation....:   2.7755575615628914e-17    2.7755575615628914e-17
+Complementarity.........:   2.5273168884859682e-09    2.5273168884859682e-09
+Overall NLP error.......:   2.5273168884859682e-09    2.5273168884859682e-09
+
+
+Number of objective function evaluations             = 7
+Number of objective gradient evaluations             = 7
+Number of equality constraint evaluations            = 7
+Number of inequality constraint evaluations          = 7
+Number of equality constraint Jacobian evaluations   = 1
+Number of inequality constraint Jacobian evaluations = 1
+Number of Lagrangian Hessian evaluations             = 1
+Total CPU secs in IPOPT (w/o function evaluations)   =      0.253
+Total CPU secs in NLP function evaluations           =      0.210
+
+EXIT: Optimal Solution Found.
+Time to Solution........:1.1660950183868408
