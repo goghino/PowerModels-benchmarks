@@ -9,7 +9,7 @@ import sys
 #-a    all info
 option = sys.argv[1]
 
-mypath="logs"
+mypath=sys.argv[2]
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 name_logs=""
 file=""

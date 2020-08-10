@@ -38,10 +38,12 @@ def runBench(optimizer):
     if(optimizer=="knitro" or optimizer=="ipopt"):
         os.popen("rm -rf batch").read()
         os.popen("rm -rf out").read()
-        os.popen("rm -rf logs").read()
+        name_fold_logs="logs_"+optimizer+"_"+formulation
+        if(os.path.isdir(name_fold_logs)):
+            os.popen("rm -rf "+name_fold_logs).read()
         os.popen("rm -rf err").read()
         os.popen("mkdir out").read()
-        os.popen("mkdir logs").read()
+        os.popen("mkdir "+name_fold_logs).read()
         os.popen("mkdir err").read()
         os.popen("mkdir batch").read()
         count=0
