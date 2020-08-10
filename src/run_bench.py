@@ -38,7 +38,9 @@ def runBench(optimizer):
     if(optimizer=="knitro" or optimizer=="ipopt"):
         os.popen("rm -rf batch").read()
         os.popen("rm -rf out").read()
-        name_fold_logs="logs_"+optimizer+"_"+formulation
+        arr=mypath.split("/")
+        type_case=arr[1]
+        name_fold_logs="logs_"+type_case+"_"+optimizer+"_"+formulation
         if(os.path.isdir(name_fold_logs)):
             os.popen("rm -rf "+name_fold_logs).read()
         os.popen("rm -rf err").read()
