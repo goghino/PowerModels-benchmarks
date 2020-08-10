@@ -1,0 +1,9 @@
+cases/matpower/case2.m
+knitro
+ACP
+[warn | InfrastructureModels]: Matlab parser skipping the following line:
+  };
+[warn | PowerModels]: The number of generators (1) does not match the number of generator cost records (0).
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 1 to +/- 60.0 deg.
+[warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1
+[error | PowerModels]: no cost given for generator 1

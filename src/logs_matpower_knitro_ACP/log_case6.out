@@ -1,0 +1,74 @@
+cases/matpower/case6.m
+knitro
+ACP
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[warn | PowerModels]: multiple reference buses found, [4, 1], this can cause infeasibility if they are in the same connected component
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 4 variables and 10 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (6 variables).
+Knitro fixing 4 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                 48 (          44)
+    bounded below only:                               0 (           0)
+    bounded above only:                               0 (           0)
+    bounded below and above:                         40 (          36)
+    fixed:                                            2 (           0)
+    free:                                             6 (           8)
+Number of constraints:                               62 (          52)
+    linear equalities:                               14 (          12)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                       24 (          24)
+    linear one-sided inequalities:                   12 (           4)
+    quadratic one-sided inequalities:                12 (          12)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     206 (         170)
+Number of nonzeros in Hessian:                       70 (          58)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    5.049990e+03   9.000e-01
+      10    1.162529e+04   3.561e-10   5.739e-08   1.815e-05        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   1.16252859461160e+04
+Final feasibility error (abs / rel) =   3.56e-10 / 3.56e-10
+Final optimality error  (abs / rel) =   5.74e-08 / 4.09e-10
+# of iterations                     =         10 
+# of CG iterations                  =          0 
+# of function evaluations           =         12
+# of gradient evaluations           =         12
+# of Hessian evaluations            =         10
+Total program time (secs)           =       4.13876 (     4.080 CPU time)
+Time spent in evaluations (secs)    =       2.74530
+
+===============================================================================
+
+Time to Solution........:4.079483985900879
