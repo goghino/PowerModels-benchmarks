@@ -62,11 +62,10 @@ for log_file in out_files:
     
 if(option=="-a"):
     print(df)
+    # Export to csv file
+    df.to_csv("csv_results/results_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
 elif(option=="-i"):
     print(df[['case','iterations']])
 elif(option=="-t"):
     print(df[['case','time']])
     
-    
-# Export to csv file
-df.to_csv("csv_results/results_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
