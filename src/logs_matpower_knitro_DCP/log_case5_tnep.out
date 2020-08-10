@@ -1,0 +1,37 @@
+cases/matpower/case5_tnep.m
+knitro
+DCP
+[info | PowerModels]: extending matpower format with data: ne_branch 3x15
+[warn | PowerModels]: the dc line model is not meant to be used bi-directionally when loss1 > 0, be careful interpreting the results as the dc line losses can now be negative. change loss1 to 0 to avoid this warning
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 5
+[info | PowerModels]: removing 1 cost terms from generator 4: [4000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [1400.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [1000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [1500.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [3000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from dcline 1: [4000.0, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+
+EXIT: Problem determined to be infeasible with respect to variable bounds.
+
+Final Statistics
+----------------
+Final objective value               =   4.00000000000000e+02
+Final feasibility error (abs / rel) =   4.00e+00 / 1.00e+00
+Final optimality error  (abs / rel) =   1.80e+308 / 1.80e+308
+# of iterations                     =          0 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.03254 (     0.001 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.0

@@ -1,0 +1,92 @@
+cases/matpower/case24.m
+knitro
+DCP
+[info | PowerModels]: extending matpower format with data: areas 4x3
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 38 to +/- 60.0 deg.
+[warn | PowerModels]: reversing the orientation of branch 37 (23, 20) to be consistent with other parallel branches
+[info | PowerModels]: removing 1 cost terms from generator 1: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 29: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 2: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 6: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 25: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 5: [13000.0, 400.6849]
+[info | PowerModels]: removing 3 cost terms from generator 15: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 27: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 28: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 26: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 30: [0.1, 0.001]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 2 variables and 7 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a convex QP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 1.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 2 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                 95 (          93)
+    bounded below only:                               0 (           7)
+    bounded above only:                               0 (           5)
+    bounded below and above:                         70 (          56)
+    fixed:                                            1 (           0)
+    free:                                            24 (          25)
+Number of constraints:                              131 (         124)
+    linear equalities:                               63 (          62)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                   68 (          62)
+    quadratic one-sided inequalities:                 0 (           0)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     360 (         343)
+Number of nonzeros in Hessian:                       22 (          22)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.071155e+04   3.330e+00
+      10    8.209163e+04   1.333e-03   1.280e-01   1.729e-01        0
+      20    8.213586e+04   1.845e-03   1.778e+07   4.808e-02        0
+      30    8.241315e+04   1.989e-03   9.997e+01   4.775e-02        0
+      33    8.213628e+04   1.842e-03   9.997e+01   7.087e-03        0
+
+EXIT: Convergence to an infeasible point. The problem is determined
+      to be infeasible.
+
+HINT: Knitro spent 0.000006 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   8.21362754911160e+04
+Final feasibility error (abs / rel) =   1.84e-03 / 5.53e-04
+Final optimality error  (abs / rel) =   1.00e+02 / 1.00e+00
+# of iterations                     =         33 
+# of CG iterations                  =          2 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.03148 (     0.018 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.01775999926030636
