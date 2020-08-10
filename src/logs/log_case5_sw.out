@@ -2,3 +2,7 @@ cases/matpower/case5_sw.m
 ipopt
 SOCW
 [error | PowerModels]: active power decision variables appear to be missing for switch components
+cases/matpower/case5_sw.m
+ipopt
+QCRM
+[error | PowerModels]: active power decision variables appear to be missing for switch components

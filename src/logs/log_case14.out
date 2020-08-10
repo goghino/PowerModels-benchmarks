@@ -122,3 +122,131 @@ Total CPU secs in NLP function evaluations           =      0.207
 
 EXIT: Optimal Solution Found.
 Time to Solution........:1.2697319984436035
+cases/matpower/case14.m
+ipopt
+QCRM
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 4 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 4 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 1 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 1 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 12 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 12 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 20 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 20 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 2 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 2 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 6 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 6 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 11 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 11 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 13 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 13 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 5 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 5 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 15 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 15 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 16 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 16 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 14 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 14 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 7 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 7 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 8 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 8 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 17 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 17 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 10 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 10 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 19 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 19 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 9 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 9 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 18 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 18 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 3 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 3 from 360.0 to 60.0 deg.
+[warn | PowerModels]: active generators found at bus 8, updating to bus type from 1 to 2
+[info | PowerModels]: removing 2 cost terms from generator 4: [100.0, 4000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 1: [430.292599, 2000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 5: [100.0, 4000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 2: [2500.0, 2000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 3: [100.0, 4000.0, 0.0]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:      528
+Number of nonzeros in inequality constraint Jacobian.:     1196
+Number of nonzeros in Lagrangian Hessian.............:       99
+
+Total number of variables............................:      272
+                     variables with only lower bounds:       20
+                variables with lower and upper bounds:      158
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:      149
+Total number of inequality constraints...............:      448
+        inequality constraints with only lower bounds:      234
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:      214
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  1.6032287e+02 1.01e+00 1.52e+01  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  1.2310243e+03 8.79e-01 1.71e+01  -1.0 7.90e-01    -  1.41e-02 1.34e-01h  1
+   2  2.1138584e+03 7.30e-01 1.41e+01  -1.0 1.94e+00    -  2.49e-01 1.70e-01h  1
+   3  3.6710656e+03 5.04e-01 9.76e+00  -1.0 1.53e+00    -  3.10e-01 3.09e-01h  1
+   4  5.9213050e+03 2.33e-01 1.10e+01  -1.0 1.01e+00    -  3.09e-01 5.37e-01h  1
+   5  7.0984891e+03 1.09e-01 1.76e+01  -1.0 6.90e-01    -  8.00e-01 5.32e-01h  1
+   6  7.7289698e+03 4.66e-02 4.84e+01  -1.0 5.46e-01    -  1.00e+00 5.73e-01h  1
+   7  8.1920857e+03 2.81e-03 1.09e+01  -1.0 2.55e-01    -  1.00e+00 9.40e-01h  1
+   8  8.2288557e+03 4.35e-04 4.68e+01  -1.0 4.96e-02    -  1.00e+00 8.45e-01h  1
+   9  8.2374442e+03 3.05e-14 2.11e-03  -1.0 9.69e-03    -  1.00e+00 1.00e+00f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  8.1321010e+03 1.68e-13 9.63e+00  -2.5 1.52e-01    -  6.12e-01 6.32e-01f  1
+  11  8.1075389e+03 2.34e-04 1.95e+01  -2.5 2.66e-01    -  6.40e-01 5.53e-01f  1
+  12  8.0943306e+03 1.83e-03 6.32e-01  -2.5 2.66e-01    -  9.32e-01 9.40e-01f  1
+  13  8.0850983e+03 1.45e-13 5.15e-01  -2.5 1.33e-01    -  1.00e+00 9.45e-01f  1
+  14  8.0856163e+03 1.51e-13 1.12e-02  -2.5 6.18e-02    -  1.00e+00 1.00e+00h  1
+  15  8.0793464e+03 6.84e-05 2.23e+00  -3.8 1.74e-01    -  5.96e-01 7.52e-01f  1
+  16  8.0763368e+03 3.30e-03 5.17e-01  -3.8 3.69e-01    -  7.75e-01 7.79e-01h  1
+  17  8.0757286e+03 1.94e-04 1.86e+00  -3.8 1.81e-01    -  1.00e+00 6.71e-01h  1
+  18  8.0755071e+03 5.68e-14 1.87e-03  -3.8 3.69e-02    -  1.00e+00 1.00e+00h  1
+  19  8.0755485e+03 8.51e-14 2.80e-05  -3.8 3.39e-03    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  8.0751664e+03 4.72e-06 3.47e-01  -5.7 4.95e-02    -  9.50e-01 7.63e-01f  1
+  21  8.0751502e+03 5.07e-05 3.85e+00  -5.7 4.27e-03    -  1.00e+00 3.57e-01h  1
+  22  8.0751269e+03 2.27e-13 1.02e-01  -5.7 8.67e-04    -  1.00e+00 9.83e-01f  1
+  23  8.0751266e+03 2.27e-13 2.62e-06  -5.7 5.00e-04    -  1.00e+00 1.00e+00f  1
+  24  8.0751234e+03 2.27e-13 1.42e-01  -8.6 8.78e-05    -  1.00e+00 8.92e-01h  1
+  25  8.0751232e+03 2.27e-13 3.98e+00  -8.6 7.84e-06    -  1.00e+00 8.66e-01f  1
+  26  8.0751231e+03 2.27e-13 2.55e+00  -8.6 1.45e-05    -  1.00e+00 4.44e-01f  1
+  27  8.0751231e+03 1.88e-13 1.87e-08  -8.6 2.33e-05    -  1.00e+00 1.00e+00f  1
+  28  8.0751231e+03 1.72e-14 1.09e-09  -9.0 4.84e-05    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 28
+
+                                   (scaled)                 (unscaled)
+Objective...............:   2.0187807824387957e+02    8.0751231297551822e+03
+Dual infeasibility......:   1.0883734191668992e-09    4.3534936766675969e-08
+Constraint violation....:   1.7173328731301396e-14    1.7173328731301396e-14
+Complementarity.........:   1.2831228576518085e-09    5.1324914306072335e-08
+Overall NLP error.......:   1.2831228576518085e-09    5.1324914306072335e-08
+
+
+Number of objective function evaluations             = 29
+Number of objective gradient evaluations             = 29
+Number of equality constraint evaluations            = 29
+Number of inequality constraint evaluations          = 29
+Number of equality constraint Jacobian evaluations   = 29
+Number of inequality constraint Jacobian evaluations = 29
+Number of Lagrangian Hessian evaluations             = 28
+Total CPU secs in IPOPT (w/o function evaluations)   =      0.360
+Total CPU secs in NLP function evaluations           =      0.213
+
+EXIT: Optimal Solution Found.
+Time to Solution........:1.3702940940856934

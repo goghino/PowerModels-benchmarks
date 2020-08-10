@@ -87,3 +87,95 @@ Total CPU secs in NLP function evaluations           =      0.235
 
 EXIT: Optimal Solution Found.
 Time to Solution........:1.2398641109466553
+cases/matpower/case5_npg.m
+ipopt
+QCRM
+[warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 4
+[warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1
+[warn | PowerModels]: the voltage setpoint on generator 5 does not match the value at bus 10
+[warn | PowerModels]: the voltage setpoint on generator 2 does not match the value at bus 1
+[warn | PowerModels]: the voltage setpoint on generator 3 does not match the value at bus 3
+[info | PowerModels]: removing 1 cost terms from generator 5: [-1000.0, 0.0]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:      200
+Number of nonzeros in inequality constraint Jacobian.:      390
+Number of nonzeros in Lagrangian Hessian.............:       61
+
+Total number of variables............................:       95
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:       90
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:       51
+Total number of inequality constraints...............:      150
+        inequality constraints with only lower bounds:       71
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:       79
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  1.2663035e+02 4.83e+01 3.84e+01  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  4.9315712e+02 4.70e+01 4.04e+01  -1.0 7.45e+00    -  6.61e-03 2.68e-02h  1
+   2  4.9142370e+01 4.62e+01 3.97e+01  -1.0 1.40e+01    -  1.29e-02 1.80e-02f  1
+   3 -2.6817758e+02 4.52e+01 3.88e+01  -1.0 1.17e+01    -  1.27e-02 2.12e-02f  1
+   4 -1.5519586e+03 4.05e+01 3.57e+01  -1.0 1.06e+01    -  1.20e-02 1.05e-01f  1
+   5 -4.1419961e+03 2.99e+01 3.90e+01  -1.0 1.09e+01    -  5.41e-02 2.62e-01f  1
+   6 -4.2945980e+03 2.89e+01 3.66e+01  -1.0 1.83e+01    -  7.57e-02 3.41e-02f  1
+   7 -5.1196610e+03 2.27e+01 2.88e+01  -1.0 2.04e+01    -  2.13e-01 2.14e-01f  1
+   8 -5.8693558e+03 1.51e+01 2.25e+01  -1.0 2.48e+01    -  1.65e-01 3.36e-01f  1
+   9 -5.5711044e+03 1.42e+01 2.18e+01  -1.0 8.55e+00    -  2.96e-01 5.97e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10 -2.6212751e+03 7.87e+00 1.16e+01  -1.0 7.02e+00    -  5.73e-01 4.44e-01h  1
+  11 -2.4204631e+03 7.57e+00 1.67e+01  -1.0 2.30e+00    -  1.65e-01 3.88e-02h  1
+  12  9.9439668e+02 3.08e+00 8.69e+00  -1.0 2.34e+00    -  6.38e-01 5.93e-01h  1
+  13  3.6359197e+03 5.22e-02 2.33e+00  -1.0 2.00e+00    -  1.00e+00 9.91e-01h  1
+  14  3.6703347e+03 1.34e-02 2.80e+00  -1.0 1.58e+00    -  1.00e+00 9.47e-01h  1
+  15  3.6830176e+03 9.09e-12 1.08e+00  -1.0 5.40e-01    -  1.00e+00 1.00e+00h  1
+  16  3.6874311e+03 4.29e-12 1.22e-01  -1.0 1.89e-01    -  1.00e+00 1.00e+00h  1
+  17  3.6334704e+03 1.89e-03 2.10e+01  -2.5 1.17e+00    -  7.82e-01 9.01e-01f  1
+  18  3.6168519e+03 4.41e-02 7.20e+00  -2.5 1.39e+00    -  8.12e-01 1.00e+00f  1
+  19  3.6058665e+03 6.59e-03 1.90e-01  -2.5 6.79e-01    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  3.6077736e+03 3.52e-12 2.26e-02  -2.5 1.14e-01    -  1.00e+00 1.00e+00h  1
+  21  3.6041419e+03 1.59e-05 1.37e+00  -3.8 2.27e-01    -  9.78e-01 8.58e-01f  1
+  22  3.6040601e+03 2.14e-12 9.32e-03  -3.8 2.19e-02    -  1.00e+00 1.00e+00h  1
+  23  3.6040502e+03 8.01e-12 5.66e-04  -3.8 2.57e-03    -  1.00e+00 1.00e+00h  1
+  24  3.6039302e+03 1.45e-11 2.15e+00  -5.7 8.90e-03    -  1.00e+00 7.83e-01f  1
+  25  3.6039153e+03 7.61e-12 1.08e+01  -5.7 1.14e-03    -  1.00e+00 6.16e-01f  1
+  26  3.6039084e+03 2.86e-12 1.44e+00  -5.7 1.08e-03    -  1.00e+00 9.53e-01f  1
+  27  3.6039081e+03 5.29e-12 1.99e-06  -5.7 8.53e-05    -  1.00e+00 1.00e+00f  1
+  28  3.6039068e+03 4.43e-12 2.03e-01  -8.6 1.19e-04    -  1.00e+00 9.39e-01h  1
+  29  3.6039067e+03 4.77e-12 3.87e-08  -8.6 9.44e-06    -  1.00e+00 1.00e+00f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  30  3.6039067e+03 3.11e-12 3.07e-01  -8.6 2.13e-05    -  1.00e+00 1.69e-01h  2
+  31  3.6039067e+03 4.92e-12 4.13e-11  -8.6 1.81e-05    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 31
+
+                                   (scaled)                 (unscaled)
+Objective...............:   9.0097668180977109e+01    3.6039067272390844e+03
+Dual infeasibility......:   4.1303460651676005e-11    1.6521384260670402e-09
+Constraint violation....:   2.8981938773875455e-14    4.9202655838520570e-12
+Complementarity.........:   2.5902113562408845e-09    1.0360845424963537e-07
+Overall NLP error.......:   2.5902113562408845e-09    1.0360845424963537e-07
+
+
+Number of objective function evaluations             = 35
+Number of objective gradient evaluations             = 32
+Number of equality constraint evaluations            = 35
+Number of inequality constraint evaluations          = 35
+Number of equality constraint Jacobian evaluations   = 32
+Number of inequality constraint Jacobian evaluations = 32
+Number of Lagrangian Hessian evaluations             = 31
+Total CPU secs in IPOPT (w/o function evaluations)   =      0.288
+Total CPU secs in NLP function evaluations           =      0.212
+
+EXIT: Optimal Solution Found.
+Time to Solution........:1.2913751602172852
