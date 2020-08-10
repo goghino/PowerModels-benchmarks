@@ -1,0 +1,23 @@
+cases/matpower/case3.m
+ipopt
+SOCBF
+[info | PowerModels]: extending matpower format with constant data: const_int
+[info | PowerModels]: extending matpower format with constant data: const_float
+[info | PowerModels]: extending matpower format with data: bus_data 3x3
+[info | PowerModels]: extending matpower format with data: branch_names 3x3
+[info | PowerModels]: extending matpower format with data: areas_cells 2x6
+[info | PowerModels]: extending matpower format with data: areas_named_cells 2x6
+[info | PowerModels]: extending matpower format with data: areas_named 2x3
+[info | PowerModels]: extending matpower format with data: component 1x3
+[info | PowerModels]: extending matpower format with data: areas 2x3
+[info | PowerModels]: extending matpower format with constant data: const_str
+[info | PowerModels]: extending matpower format with data: load_data 2x2
+[info | PowerModels]: extending matpower format with data: branch_limit 3x3
+[warn | PowerModels]: added zero cost function data for dclines
+[info | PowerModels]: extending matpower format by appending matrix "branch_limit" in to "branch"
+[info | PowerModels]: extending matpower format by appending matrix "branch_names" in to "branch"
+[info | PowerModels]: extending matpower format by appending matrix "bus_data" in to "bus"
+[warn | PowerModels]: no reference bus found
+[warn | PowerModels]: no reference bus found, setting bus 1 as reference based on generator 1
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]

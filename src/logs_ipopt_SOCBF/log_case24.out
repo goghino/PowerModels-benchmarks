@@ -1,0 +1,17 @@
+cases/matpower/case24.m
+ipopt
+SOCBF
+[info | PowerModels]: extending matpower format with data: areas 4x3
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 38 to +/- 60.0 deg.
+[warn | PowerModels]: reversing the orientation of branch 37 (23, 20) to be consistent with other parallel branches
+[info | PowerModels]: removing 1 cost terms from generator 1: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 29: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 2: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 6: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 25: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 5: [13000.0, 400.6849]
+[info | PowerModels]: removing 3 cost terms from generator 15: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 27: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 28: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 26: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 30: [0.1, 0.001]

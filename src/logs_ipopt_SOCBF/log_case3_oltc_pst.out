@@ -1,0 +1,10 @@
+cases/matpower/case3_oltc_pst.m
+ipopt
+SOCBF
+[info | PowerModels]: extending matpower format with data: branch_oltc_pst 3x5
+[warn | PowerModels]: added zero cost function data for dclines
+[info | PowerModels]: extending matpower format by appending matrix "branch_oltc_pst" in to "branch"
+[warn | PowerModels]: no reference bus found
+[warn | PowerModels]: no reference bus found, setting bus 1 as reference based on generator 1
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]
