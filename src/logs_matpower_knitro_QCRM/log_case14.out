@@ -1,0 +1,127 @@
+cases/matpower/case14.m
+knitro
+QCRM
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 4 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 4 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 1 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 1 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 12 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 12 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 20 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 20 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 2 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 2 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 6 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 6 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 11 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 11 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 13 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 13 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 5 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 5 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 15 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 15 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 16 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 16 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 14 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 14 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 7 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 7 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 8 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 8 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 17 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 17 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 10 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 10 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 19 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 19 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 9 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 9 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 18 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 18 from 360.0 to 60.0 deg.
+[warn | PowerModels]: this code only supports angmin values in -90 deg. to 90 deg., tightening the value on branch 3 from -360.0 to -60.0 deg.
+[warn | PowerModels]: this code only supports angmax values in -90 deg. to 90 deg., tightening the value on branch 3 from 360.0 to 60.0 deg.
+[warn | PowerModels]: active generators found at bus 8, updating to bus type from 1 to 2
+[info | PowerModels]: removing 2 cost terms from generator 4: [100.0, 4000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 1: [430.292599, 2000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 5: [100.0, 4000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 2: [2500.0, 2000.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 3: [100.0, 4000.0, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 1 variable and 21 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (47 variables).
+Knitro fixing 1 variable eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                272 (         271)
+    bounded below only:                              20 (          20)
+    bounded above only:                               0 (           0)
+    bounded below and above:                        158 (         158)
+    fixed:                                            0 (           0)
+    free:                                            94 (          93)
+Number of constraints:                              597 (         576)
+    linear equalities:                              149 (         148)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                  394 (         374)
+    quadratic one-sided inequalities:                54 (          54)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    1724 (        1701)
+Number of nonzeros in Hessian:                       99 (          99)
+
+Knitro identified 20 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.011473e+04   9.900e-01
+      10    8.076429e+03   7.121e-04   7.732e-02   3.913e-01        0
+      15    8.075123e+03   3.371e-07   1.682e-06   4.683e-04        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Cone constraints were identified, but option bar_conic_enable=0.
+      Setting bar_conic_enable=1 may improve performance.
+
+HINT: Knitro spent 0.000898 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   8.07512314763141e+03
+Final feasibility error (abs / rel) =   3.37e-07 / 3.37e-07
+Final optimality error  (abs / rel) =   1.68e-06 / 2.14e-08
+# of iterations                     =         15 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.02647 (     0.023 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.022815000265836716

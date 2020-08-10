@@ -1,0 +1,87 @@
+cases/matpower/case30.m
+knitro
+SOCW
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 1: [52.1378, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 5: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 2: [113.51659999999998, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 14 variables and 14 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 12 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                288 (         274)
+    bounded below only:                               0 (          37)
+    bounded above only:                               0 (          23)
+    bounded below and above:                        284 (         161)
+    fixed:                                            4 (           0)
+    free:                                             0 (          53)
+Number of constraints:                              511 (         497)
+    linear equalities:                              224 (         214)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                  164 (         160)
+    quadratic one-sided inequalities:               123 (         123)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    1530 (        1490)
+Number of nonzeros in Hessian:                      287 (         279)
+
+Knitro identified 41 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    0.000000e+00   9.420e-01
+      10    6.918931e+01   1.051e-01   9.621e+00   2.365e-01        0
+      20    1.601279e+02   3.469e-02   1.042e+01   3.348e-02        0
+      28    1.724139e+02   9.990e-11   2.036e-10   7.616e-06        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Cone constraints were identified, but option bar_conic_enable=0.
+      Setting bar_conic_enable=1 may improve performance.
+
+HINT: Knitro spent 0.000687 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   1.72413940431586e+02
+Final feasibility error (abs / rel) =   9.99e-11 / 9.99e-11
+Final optimality error  (abs / rel) =   2.04e-10 / 2.04e-12
+# of iterations                     =         28 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.04246 (     0.038 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.03813600167632103

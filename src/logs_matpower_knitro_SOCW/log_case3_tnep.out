@@ -1,0 +1,33 @@
+cases/matpower/case3_tnep.m
+knitro
+SOCW
+[info | PowerModels]: extending matpower format with data: ne_branch 3x15
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+ERROR: Infeasible constraint deduced from presolve.
+       Deduced constraint value: c[0] =     0.00000000000000e+00
+       violates the constraint upper bound =    -9.50000000000000e-01
+
+EXIT: Problem determined to be infeasible with respect to constraint bounds.
+
+Final Statistics
+----------------
+Final objective value               =   0.00000000000000e+00
+Final feasibility error (abs / rel) =   1.10e+00 / 1.00e+00
+Final optimality error  (abs / rel) =   1.80e+308 / 1.80e+308
+# of iterations                     =          0 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.01740 (     0.002 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.0

@@ -1,0 +1,101 @@
+cases/matpower/case3.m
+knitro
+QCRM
+[info | PowerModels]: extending matpower format with constant data: const_int
+[info | PowerModels]: extending matpower format with constant data: const_float
+[info | PowerModels]: extending matpower format with data: bus_data 3x3
+[info | PowerModels]: extending matpower format with data: branch_names 3x3
+[info | PowerModels]: extending matpower format with data: areas_cells 2x6
+[info | PowerModels]: extending matpower format with data: areas_named_cells 2x6
+[info | PowerModels]: extending matpower format with data: areas_named 2x3
+[info | PowerModels]: extending matpower format with data: component 1x3
+[info | PowerModels]: extending matpower format with data: areas 2x3
+[info | PowerModels]: extending matpower format with constant data: const_str
+[info | PowerModels]: extending matpower format with data: load_data 2x2
+[info | PowerModels]: extending matpower format with data: branch_limit 3x3
+[warn | PowerModels]: added zero cost function data for dclines
+[info | PowerModels]: extending matpower format by appending matrix "branch_limit" in to "branch"
+[info | PowerModels]: extending matpower format by appending matrix "branch_names" in to "branch"
+[info | PowerModels]: extending matpower format by appending matrix "bus_data" in to "bus"
+[warn | PowerModels]: no reference bus found
+[warn | PowerModels]: no reference bus found, setting bus 1 as reference based on generator 1
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 2 variables and 4 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (13 variables).
+Knitro fixing 2 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                 52 (          50)
+    bounded below only:                               0 (           4)
+    bounded above only:                               0 (           2)
+    bounded below and above:                         48 (          32)
+    fixed:                                            1 (           0)
+    free:                                             3 (          12)
+Number of constraints:                              101 (          97)
+    linear equalities:                               26 (          25)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                   60 (          57)
+    quadratic one-sided inequalities:                15 (          15)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     292 (         285)
+Number of nonzeros in Hessian:                       23 (          23)
+
+Knitro identified 3 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    2.524995e+03   1.200e+00
+      10    5.780036e+03   6.709e-07   5.885e-04   3.094e-03        0
+      12    5.780031e+03   4.819e-08   2.759e-05   7.906e-03        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Cone constraints were identified, but option bar_conic_enable=0.
+      Setting bar_conic_enable=1 may improve performance.
+
+HINT: Knitro spent 0.000935 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   5.78003131271733e+03
+Final feasibility error (abs / rel) =   4.82e-08 / 4.02e-08
+Final optimality error  (abs / rel) =   2.76e-05 / 2.02e-07
+# of iterations                     =         12 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.01312 (     0.009 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.009336999617516994

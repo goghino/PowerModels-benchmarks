@@ -1,0 +1,9 @@
+cases/matpower/case30.m
+knitro
+IVR
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 1: [52.1378, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 5: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 2: [113.51659999999998, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]

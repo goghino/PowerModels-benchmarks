@@ -1,0 +1,14 @@
+cases/matpower/case7_tplgy.m
+knitro
+IVR
+[warn | PowerModels]: added zero cost function data for dclines
+[warn | PowerModels]: active storage unit 1 is connected to inactive bus 6
+[warn | PowerModels]: active branch 6 is connected to inactive bus 6
+[warn | PowerModels]: active branch 7 is connected to inactive bus 6
+[warn | PowerModels]: active dcline 2 is connected to inactive bus 6
+[info | PowerModels]: removing 1 cost terms from generator 1: [100.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [100.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [1000.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 2: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 3: Float64[]

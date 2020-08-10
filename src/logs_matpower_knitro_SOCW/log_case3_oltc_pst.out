@@ -1,0 +1,87 @@
+cases/matpower/case3_oltc_pst.m
+knitro
+SOCW
+[info | PowerModels]: extending matpower format with data: branch_oltc_pst 3x5
+[warn | PowerModels]: added zero cost function data for dclines
+[info | PowerModels]: extending matpower format by appending matrix "branch_oltc_pst" in to "branch"
+[warn | PowerModels]: no reference bus found
+[warn | PowerModels]: no reference bus found, setting bus 1 as reference based on generator 1
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 1 variable and 0 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (6 variables).
+Knitro fixing 1 variable eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                 31 (          30)
+    bounded below only:                               0 (           2)
+    bounded above only:                               0 (           1)
+    bounded below and above:                         30 (          18)
+    fixed:                                            1 (           0)
+    free:                                             0 (           9)
+Number of constraints:                               40 (          40)
+    linear equalities:                               19 (          19)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                   12 (          12)
+    quadratic one-sided inequalities:                 9 (           9)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     126 (         125)
+Number of nonzeros in Hessian:                       23 (          23)
+
+Knitro identified 3 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    2.524995e+03   1.200e+00
+       9    5.746722e+03   4.506e-08   3.461e-06   2.042e-03        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Cone constraints were identified, but option bar_conic_enable=0.
+      Setting bar_conic_enable=1 may improve performance.
+
+HINT: Knitro spent 0.000696 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   5.74672182743064e+03
+Final feasibility error (abs / rel) =   4.51e-08 / 3.75e-08
+Final optimality error  (abs / rel) =   3.46e-06 / 2.72e-08
+# of iterations                     =          9 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.04207 (     0.007 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.006647000089287758

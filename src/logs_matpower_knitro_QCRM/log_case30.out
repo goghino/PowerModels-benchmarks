@@ -1,0 +1,87 @@
+cases/matpower/case30.m
+knitro
+QCRM
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 1: [52.1378, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 5: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 2: [113.51659999999998, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 18 variables and 59 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (87 variables).
+Knitro fixing 13 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                553 (         535)
+    bounded below only:                               0 (          38)
+    bounded above only:                               0 (          47)
+    bounded below and above:                        519 (         325)
+    fixed:                                            4 (           0)
+    free:                                            30 (         125)
+Number of constraints:                             1310 (        1251)
+    linear equalities:                              307 (         293)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                  809 (         764)
+    quadratic one-sided inequalities:               194 (         194)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    3713 (        3612)
+Number of nonzeros in Hessian:                      276 (         270)
+
+Knitro identified 41 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.026989e+02   2.849e+00
+      10    1.717952e+02   6.737e-03   4.633e-02   4.908e-02        0
+      20    1.729082e+02   2.443e-08   2.106e-05   3.889e-04        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Cone constraints were identified, but option bar_conic_enable=0.
+      Setting bar_conic_enable=1 may improve performance.
+
+HINT: Knitro spent 0.000646 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   1.72908164016359e+02
+Final feasibility error (abs / rel) =   2.44e-08 / 8.57e-09
+Final optimality error  (abs / rel) =   2.11e-05 / 2.11e-07
+# of iterations                     =         20 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.06212 (     0.058 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.05834000185132027

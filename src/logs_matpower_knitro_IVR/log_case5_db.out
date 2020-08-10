@@ -1,0 +1,10 @@
+cases/matpower/case5_db.m
+knitro
+IVR
+[warn | PowerModels]: added zero cost function data for dclines
+[warn | PowerModels]: active generators found at bus 1, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 5, updating to bus type from 1 to 2
+[warn | PowerModels]: the voltage setpoint on generator 4 does not match the value at bus 5
+[warn | PowerModels]: the voltage setpoint on generator 2 does not match the value at bus 1
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 5
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]

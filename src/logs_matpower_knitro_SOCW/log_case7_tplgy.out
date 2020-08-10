@@ -1,0 +1,92 @@
+cases/matpower/case7_tplgy.m
+knitro
+SOCW
+[warn | PowerModels]: added zero cost function data for dclines
+[warn | PowerModels]: active storage unit 1 is connected to inactive bus 6
+[warn | PowerModels]: active branch 6 is connected to inactive bus 6
+[warn | PowerModels]: active branch 7 is connected to inactive bus 6
+[warn | PowerModels]: active dcline 2 is connected to inactive bus 6
+[info | PowerModels]: removing 1 cost terms from generator 1: [100.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [100.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [1000.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from dcline 1: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 2: Float64[]
+[info | PowerModels]: removing 3 cost terms from dcline 3: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 11 variables and 11 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 4 variables eliminated from the presolve.
+Knitro reinitializing 7 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 28 (          17)
+    bounded below only:                               0 (           0)
+    bounded above only:                               0 (           2)
+    bounded below and above:                         28 (          10)
+    fixed:                                            0 (           0)
+    free:                                             0 (           5)
+Number of constraints:                               35 (          24)
+    linear equalities:                               21 (          10)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                    8 (           8)
+    quadratic one-sided inequalities:                 6 (           6)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                      94 (          72)
+Number of nonzeros in Hessian:                       14 (          12)
+
+Knitro identified 2 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.010010e+02   1.608e+02
+      10    1.788319e+03   5.028e-07   3.495e-03   1.561e-02        0
+      12    1.788321e+03   9.915e-11   3.547e-10   1.609e-05        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Cone constraints were identified, but option bar_conic_enable=0.
+      Setting bar_conic_enable=1 may improve performance.
+
+HINT: Knitro spent 0.000708 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   1.78832057664620e+03
+Final feasibility error (abs / rel) =   9.91e-11 / 6.17e-13
+Final optimality error  (abs / rel) =   3.55e-10 / 3.55e-12
+# of iterations                     =         12 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.03877 (     0.006 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.006326999980956316

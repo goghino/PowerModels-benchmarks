@@ -1,0 +1,91 @@
+cases/matpower/frankenstein_00.m
+knitro
+SOCW
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 1 to +/- 60.0 deg.
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 2 to +/- 60.0 deg.
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 3 to +/- 60.0 deg.
+[warn | PowerModels]: no active generators found at bus 1008, updating to bus type from 2 to 1
+[warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1002
+[warn | PowerModels]: the voltage setpoint on generator 2 does not match the value at bus 1005
+[info | PowerModels]: removing 2 cost terms from generator 1: [100.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 2: [100.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 3: [100.0, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 6 variables and 5 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point to satisfy presolved bounds (7 variables).
+Knitro fixing 4 variables eliminated from the presolve.
+Knitro reinitializing 1 variable eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 28 (          22)
+    bounded below only:                               0 (           1)
+    bounded above only:                               0 (           3)
+    bounded below and above:                         27 (          13)
+    fixed:                                            1 (           0)
+    free:                                             0 (           5)
+Number of constraints:                               41 (          36)
+    linear equalities:                               20 (          15)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                   12 (          12)
+    quadratic one-sided inequalities:                 9 (           9)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     121 (         107)
+Number of nonzeros in Hessian:                       21 (          18)
+
+Knitro identified 3 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    3.167500e+01   1.031e+00
+      10    2.942207e+01   7.079e-06   9.020e-02   2.655e-02        0
+      16    2.941596e+01   9.437e-11   1.022e-08   1.070e-05        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Cone constraints were identified, but option bar_conic_enable=0.
+      Setting bar_conic_enable=1 may improve performance.
+
+HINT: Knitro spent 0.000902 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   2.94159581017477e+01
+Final feasibility error (abs / rel) =   9.44e-11 / 9.15e-11
+Final optimality error  (abs / rel) =   1.02e-08 / 1.02e-10
+# of iterations                     =         16 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.01077 (     0.007 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.007015000097453594

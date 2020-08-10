@@ -1,0 +1,16 @@
+cases/matpower/case5_pwlc.m
+knitro
+SOCBF
+[warn | PowerModels]: added zero cost function data for dclines
+[warn | PowerModels]: the from bus voltage setpoint on dc line 1 does not match the value at bus 1
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 10
+[warn | PowerModels]: exending the pwl costs model on generator 4 by -0.23 to include the minimum active power value 0.0
+[warn | PowerModels]: exending the pwl costs model on generator 4 by 1.4599999999999997 to include the maximum active power value 2.0
+[warn | PowerModels]: exending the pwl costs model on generator 1 by 0.40800000000000003 to include the maximum active power value 0.4
+[warn | PowerModels]: simplifying pwl cost on generator 1, [-0.001, 0.0, 0.0, 0.0, 0.001, 0.0, 0.41000000000000003, 0.0] -> [-0.001, 0.0, 0.41000000000000003, 0.0]
+[warn | PowerModels]: exending the pwl costs model on generator 5 by -0.08 to include the minimum active power value 0.0
+[warn | PowerModels]: exending the pwl costs model on generator 5 by 5.91 to include the maximum active power value 6.0
+[warn | PowerModels]: exending the pwl costs model on generator 2 by 0.20999999999999996 to include the maximum active power value 1.7
+[warn | PowerModels]: simplifying pwl cost on generator 2, [0.0, 841.0, 0.2, 841.0, 1.0, 841.0, 1.71, 841.0] -> [0.0, 841.0, 1.71, 841.0]
+[warn | PowerModels]: exending the pwl costs model on generator 3 by -1.71 to include the minimum active power value 0.0
+[warn | PowerModels]: exending the pwl costs model on generator 3 by 1.6600000000000001 to include the maximum active power value 5.2

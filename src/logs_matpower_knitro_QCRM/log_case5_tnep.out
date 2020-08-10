@@ -1,0 +1,103 @@
+cases/matpower/case5_tnep.m
+knitro
+QCRM
+[info | PowerModels]: extending matpower format with data: ne_branch 3x15
+[warn | PowerModels]: the dc line model is not meant to be used bi-directionally when loss1 > 0, be careful interpreting the results as the dc line losses can now be negative. change loss1 to 0 to avoid this warning
+[warn | PowerModels]: the to bus voltage setpoint on dc line 1 does not match the value at bus 5
+[info | PowerModels]: removing 1 cost terms from generator 4: [4000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [1400.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [1000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [1500.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [3000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from dcline 1: [4000.0, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 7 variables and 11 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (19 variables).
+Knitro fixing 3 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                 73 (          66)
+    bounded below only:                               0 (           4)
+    bounded above only:                               0 (           6)
+    bounded below and above:                         68 (          46)
+    fixed:                                            0 (           0)
+    free:                                             5 (          10)
+Number of constraints:                              138 (         127)
+    linear equalities:                               36 (          29)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                   81 (          77)
+    quadratic one-sided inequalities:                21 (          21)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     394 (         368)
+Number of nonzeros in Hessian:                       29 (          27)
+
+Knitro identified 3 second order cone constraints (after the presolve).
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.097950e+04   4.735e+01
+      10    2.647271e+04   2.894e+00   6.211e-01   2.114e-01        0
+      20    2.717477e+04   2.713e+00   6.087e+00   2.530e+00        0
+      30    2.561597e+04   5.586e+01   3.428e+01   1.272e+01        0
+      40    2.730381e+04   7.924e+00   2.883e+01   8.235e-01        0
+      50    2.741234e+04   1.980e+00   2.382e+01   2.705e-01        0
+      60    2.739638e+04   9.941e+00   1.967e+01   1.903e+00        0
+      70    2.754013e+04   3.200e+00   1.657e+01   6.883e-01        0
+      80    2.755633e+04   3.106e+00   1.407e+01   9.133e-03        0
+      90    2.756482e+04   3.034e+00   1.234e+01   9.987e-03        0
+     100    2.829589e+04   3.726e+01   7.341e+07   3.171e+00        0
+     110    2.716242e+04   4.852e+01   9.998e+01   1.801e+00        0
+     120    2.667753e+04   1.660e+00   9.984e+01   6.205e-02        1
+     130    2.553367e+04   5.761e+01   1.000e+02   2.902e+00        0
+     140    2.672757e+04   1.019e-01   9.903e+01   7.301e+00        0
+     150    2.670990e+04   4.869e-01   9.900e+01   9.852e-02        0
+     160    2.667220e+04   5.249e-01   9.900e+01   9.030e-05        0
+
+EXIT: Convergence to an infeasible point. Problem appears to be locally
+      infeasible. If problem is believed to be feasible, try multistart 
+      to search for feasible points, or decrease infeastol.
+
+HINT: Knitro spent 0.000871 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   2.66722026808349e+04
+Final feasibility error (abs / rel) =   5.25e-01 / 1.11e-02
+Final optimality error  (abs / rel) =   9.90e+01 / 9.90e-01
+# of iterations                     =        160 
+# of CG iterations                  =         17 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.09337 (     0.062 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.06146499887108803
