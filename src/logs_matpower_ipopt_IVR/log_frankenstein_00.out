@@ -1,0 +1,12 @@
+cases/matpower/frankenstein_00.m
+ipopt
+IVR
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 1 to +/- 60.0 deg.
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 2 to +/- 60.0 deg.
+[warn | PowerModels]: angmin and angmax values are 0, widening these values on branch 3 to +/- 60.0 deg.
+[warn | PowerModels]: no active generators found at bus 1008, updating to bus type from 2 to 1
+[warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1002
+[warn | PowerModels]: the voltage setpoint on generator 2 does not match the value at bus 1005
+[info | PowerModels]: removing 2 cost terms from generator 1: [100.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 2: [100.0, 0.0]
+[info | PowerModels]: removing 2 cost terms from generator 3: [100.0, 0.0]

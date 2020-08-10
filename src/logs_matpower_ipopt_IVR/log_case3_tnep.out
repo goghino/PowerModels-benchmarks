@@ -1,0 +1,5 @@
+cases/matpower/case3_tnep.m
+ipopt
+IVR
+[info | PowerModels]: extending matpower format with data: ne_branch 3x15
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]

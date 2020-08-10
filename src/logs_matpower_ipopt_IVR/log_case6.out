@@ -1,0 +1,6 @@
+cases/matpower/case6.m
+ipopt
+IVR
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[warn | PowerModels]: multiple reference buses found, [4, 1], this can cause infeasibility if they are in the same connected component
