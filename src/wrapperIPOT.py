@@ -1,4 +1,5 @@
 from os import listdir
+import numpy as np
 from os.path import isfile, join
 import os
 import pandas as pd 
@@ -43,21 +44,27 @@ for log_file in out_files:
     case= log_file.replace('.out','')
     case= case.replace('log_','')
     # print(case)
-    it="0"
-    time_sim="0"
+    it=np.nan
+    time_sim=np.nan
     for line in f:
         if(optimizer=="knitro"):
             if "# of iterations" in line:
-                it=line.replace("# of iterations                     =         ","")
+                it=line.replace("# of iterations","")
+                it=it.replace("=","")
+                it=it.replace("\n","")
+                it=it.strip()
+                it=int(it)
                 # print(line)
         elif(optimizer=="ipopt"):
             if "Number of Iterations....:" in line:
                 it=line.replace("Number of Iterations....: ","")
+                it=int(it)
         
         if "Time to Solution........:" in line:
             time_sim=line.replace("Time to Solution........:","")
+            time_sim=float(time_sim)
             # print(line)
-    df=df.append({"case":case,"iterations":int(it),"time":float(time_sim)}, ignore_index=True)
+    df=df.append({"case":case,"iterations":it,"time":time_sim}, ignore_index=True)
     f.close()
     
 if(option=="-a"):
