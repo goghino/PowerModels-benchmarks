@@ -1,0 +1,89 @@
+cases/pglib-opf/pglib_opf_case200_tamu.m
+knitro
+ACP
+[warn | PowerModels]: no active generators found at bus 168, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 197, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 92, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 161, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 165, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 196, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 164, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 78, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 166, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 169, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 79, updating to bus type from 2 to 1
+[info | PowerModels]: removing 3 cost terms from generator 24: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 25: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 23: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 31: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 47: [671.0, 1272.13]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 22: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 81 variables and 77 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 81 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                               1456 (        1375)
+    bounded below only:                               0 (         188)
+    bounded above only:                               0 (           0)
+    bounded below and above:                       1250 (         904)
+    fixed:                                            6 (           0)
+    free:                                           200 (         283)
+Number of constraints:                             2361 (        2284)
+    linear equalities:                              397 (         322)
+    quadratic equalities:                             4 (           4)
+    gen. nonlinear equalities:                      980 (         980)
+    linear one-sided inequalities:                  490 (         488)
+    quadratic one-sided inequalities:               490 (         490)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    7921 (        7684)
+Number of nonzeros in Hessian:                     2591 (        2513)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.407044e+04   1.708e+00
+      10    2.755757e+04   2.630e-05   2.980e-03   6.147e-02        0
+      12    2.755757e+04   8.526e-07   4.337e-06   2.799e-03        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   2.75575708559929e+04
+Final feasibility error (abs / rel) =   8.53e-07 / 4.99e-07
+Final optimality error  (abs / rel) =   4.34e-06 / 4.33e-08
+# of iterations                     =         12 
+# of CG iterations                  =          0 
+# of function evaluations           =         16
+# of gradient evaluations           =         14
+# of Hessian evaluations            =         12
+Total program time (secs)           =       4.23465 (     4.229 CPU time)
+Time spent in evaluations (secs)    =       2.79533
+
+===============================================================================
+
+Time to Solution........:4.228978157043457

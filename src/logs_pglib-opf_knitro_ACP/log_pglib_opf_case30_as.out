@@ -1,0 +1,77 @@
+cases/pglib-opf/pglib_opf_case30_as.m
+knitro
+ACP
+[info | PowerModels]: extending matpower format with data: areas 1x3
+[warn | PowerModels]: no active generators found at bus 23, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 22, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 11, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 5, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 27, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 8, updating to bus type from 1 to 2
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 3 variables and 7 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 3 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                236 (         233)
+    bounded below only:                               0 (          29)
+    bounded above only:                               0 (           3)
+    bounded below and above:                        206 (         156)
+    fixed:                                            0 (           0)
+    free:                                            30 (          45)
+Number of constraints:                              389 (         382)
+    linear equalities:                               59 (          56)
+    quadratic equalities:                             2 (           2)
+    gen. nonlinear equalities:                      164 (         164)
+    linear one-sided inequalities:                   82 (          78)
+    quadratic one-sided inequalities:                82 (          82)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    1327 (        1304)
+Number of nonzeros in Hessian:                      424 (         416)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    0.000000e+00   9.420e-01
+       6    8.031274e+02   7.976e-08   7.986e-05   3.224e-03        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   8.03127430599442e+02
+Final feasibility error (abs / rel) =   7.98e-08 / 7.98e-08
+Final optimality error  (abs / rel) =   7.99e-05 / 7.03e-07
+# of iterations                     =          6 
+# of CG iterations                  =          0 
+# of function evaluations           =          9
+# of gradient evaluations           =          8
+# of Hessian evaluations            =          6
+Total program time (secs)           =       4.10515 (     4.099 CPU time)
+Time spent in evaluations (secs)    =       2.76351
+
+===============================================================================
+
+Time to Solution........:4.0985870361328125

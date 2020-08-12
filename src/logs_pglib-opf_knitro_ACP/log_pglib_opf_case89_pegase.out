@@ -1,0 +1,83 @@
+cases/pglib-opf/pglib_opf_case89_pegase.m
+knitro
+ACP
+[info | PowerModels]: removing 1 cost terms from generator 4: [3258.3235999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [658.6541000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 12: [1765.5344, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [3479.4851000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [2770.7032000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [3127.1293, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [1676.2466, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [839.8332999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 8: [3799.2336999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [2251.779, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2076.0836999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [4229.3854, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 21 variables and 23 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 15 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                               1042 (        1021)
+    bounded below only:                               0 (           5)
+    bounded above only:                               0 (           7)
+    bounded below and above:                        953 (         890)
+    fixed:                                            0 (           0)
+    free:                                            89 (         119)
+Number of constraints:                             1851 (        1828)
+    linear equalities:                              109 (          88)
+    quadratic equalities:                            70 (          70)
+    gen. nonlinear equalities:                      840 (         840)
+    linear one-sided inequalities:                  412 (         410)
+    quadratic one-sided inequalities:               420 (         420)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    6799 (        6732)
+Number of nonzeros in Hessian:                     1931 (        1913)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    0.000000e+00   1.347e+01
+      10    1.094410e+05   1.337e-01   5.512e+01   2.103e+00        0
+      18    1.072857e+05   9.181e-11   2.167e-09   1.868e-04        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   1.07285674334225e+05
+Final feasibility error (abs / rel) =   9.18e-11 / 6.81e-12
+Final optimality error  (abs / rel) =   2.17e-09 / 2.17e-11
+# of iterations                     =         18 
+# of CG iterations                  =          0 
+# of function evaluations           =         23
+# of gradient evaluations           =         20
+# of Hessian evaluations            =         18
+Total program time (secs)           =       4.23904 (     4.235 CPU time)
+Time spent in evaluations (secs)    =       2.75051
+
+===============================================================================
+
+Time to Solution........:4.234595775604248

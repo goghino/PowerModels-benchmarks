@@ -1,0 +1,71 @@
+cases/pglib-opf/pglib_opf_case30_fsr.m
+knitro
+ACP
+[info | PowerModels]: extending matpower format with data: areas 3x3
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 5 variables and 9 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 5 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                236 (         231)
+    bounded below only:                               0 (          29)
+    bounded above only:                               0 (           2)
+    bounded below and above:                        206 (         158)
+    fixed:                                            0 (           0)
+    free:                                            30 (          42)
+Number of constraints:                              389 (         380)
+    linear equalities:                               59 (          54)
+    quadratic equalities:                             2 (           2)
+    gen. nonlinear equalities:                      164 (         164)
+    linear one-sided inequalities:                   82 (          78)
+    quadratic one-sided inequalities:                82 (          82)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    1327 (        1298)
+Number of nonzeros in Hessian:                      424 (         414)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    0.000000e+00   3.000e-01
+       8    5.757689e+02   1.347e-08   2.779e-05   2.196e-04        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   5.75768879763075e+02
+Final feasibility error (abs / rel) =   1.35e-08 / 1.35e-08
+Final optimality error  (abs / rel) =   2.78e-05 / 2.33e-07
+# of iterations                     =          8 
+# of CG iterations                  =          0 
+# of function evaluations           =         11
+# of gradient evaluations           =         10
+# of Hessian evaluations            =          8
+Total program time (secs)           =       4.05300 (     4.047 CPU time)
+Time spent in evaluations (secs)    =       2.67835
+
+===============================================================================
+
+Time to Solution........:4.047214031219482

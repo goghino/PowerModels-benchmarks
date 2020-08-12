@@ -1,0 +1,82 @@
+cases/pglib-opf/pglib_opf_case24_ieee_rts.m
+knitro
+ACP
+[info | PowerModels]: extending matpower format with data: areas 4x3
+[info | PowerModels]: removing 1 cost terms from generator 1: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 29: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 2: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 6: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 25: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 5: [13000.0, 400.6849]
+[info | PowerModels]: removing 3 cost terms from generator 15: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 27: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 28: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 26: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 30: [0.1, 0.001]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 2 variables and 7 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 2 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                266 (         264)
+    bounded below only:                               0 (          13)
+    bounded above only:                               0 (           3)
+    bounded below and above:                        241 (         224)
+    fixed:                                            1 (           0)
+    free:                                            24 (          24)
+Number of constraints:                              345 (         338)
+    linear equalities:                               48 (          47)
+    quadratic equalities:                             1 (           1)
+    gen. nonlinear equalities:                      152 (         152)
+    linear one-sided inequalities:                   68 (          62)
+    quadratic one-sided inequalities:                76 (          76)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    1268 (        1242)
+Number of nonzeros in Hessian:                      382 (         374)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.071155e+04   3.330e+00
+       8    6.335219e+04   4.876e-07   3.832e-05   9.352e-03        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   6.33521943100059e+04
+Final feasibility error (abs / rel) =   4.88e-07 / 1.46e-07
+Final optimality error  (abs / rel) =   3.83e-05 / 3.83e-07
+# of iterations                     =          8 
+# of CG iterations                  =          0 
+# of function evaluations           =         11
+# of gradient evaluations           =         10
+# of Hessian evaluations            =          8
+Total program time (secs)           =       4.11490 (     4.110 CPU time)
+Time spent in evaluations (secs)    =       2.76078
+
+===============================================================================
+
+Time to Solution........:4.110202789306641
