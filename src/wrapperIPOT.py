@@ -8,9 +8,10 @@ import sys
 #-i    iterations info
 #-t    time solve info
 #-a    all info
-option = sys.argv[1]
+# option = sys.argv[1]
+option = "-a"
 
-mypath=sys.argv[2]
+mypath=sys.argv[1]
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 name_logs=""
 file=""
