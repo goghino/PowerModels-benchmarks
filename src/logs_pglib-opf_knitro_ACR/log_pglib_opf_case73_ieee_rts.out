@@ -1,0 +1,108 @@
+cases/pglib-opf/pglib_opf_case73_ieee_rts.m
+knitro
+ACR
+[info | PowerModels]: extending matpower format with data: areas 3x3
+[info | PowerModels]: removing 1 cost terms from generator 29: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 1: [13000.0, 400.6849]
+[info | PowerModels]: removing 3 cost terms from generator 81: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 2: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 27: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 28: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 63: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 92: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 93: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 26: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 58: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 25: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 59: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 5: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 62: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 39: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 34: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 94: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 71: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 6: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 96: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 91: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 60: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 35: [13000.0, 400.6849]
+[info | PowerModels]: removing 3 cost terms from generator 15: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 61: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 67: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 38: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 72: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 68: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 95: [0.1, 0.001]
+[info | PowerModels]: removing 3 cost terms from generator 48: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 30: [0.1, 0.001]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 4 variables and 1 constraint.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 4 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                824 (         820)
+    bounded below only:                               0 (          39)
+    bounded above only:                               0 (           8)
+    bounded below and above:                        821 (         761)
+    fixed:                                            3 (           0)
+    free:                                             0 (          12)
+Number of constraints:                             1229 (        1228)
+    linear equalities:                              144 (         143)
+    quadratic equalities:                           483 (         483)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                    0 (           0)
+    quadratic one-sided inequalities:               602 (         602)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    4721 (        4691)
+Number of nonzeros in Hessian:                     1124 (        1115)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    3.213466e+04   3.330e+00
+      10    1.897641e+05   1.532e-08   2.282e-06   4.454e-03        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Knitro spent 0.000005 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   1.89764081407920e+05
+Final feasibility error (abs / rel) =   1.53e-08 / 4.60e-09
+Final optimality error  (abs / rel) =   2.28e-06 / 2.28e-08
+# of iterations                     =         10 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.04666 (     0.045 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.04499199986457825

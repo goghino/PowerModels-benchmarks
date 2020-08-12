@@ -1,0 +1,127 @@
+cases/pglib-opf/pglib_opf_case118_ieee.m
+knitro
+ACT
+[info | PowerModels]: removing 3 cost terms from generator 32: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 29: [3266.8781000000004, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 1: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 54: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 2: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 41: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 51: [3504.3401000000003, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 53: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 27: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 42: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 33: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 28: [3478.1778000000004, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 50: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 52: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 26: [1605.6042000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 10: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 24: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 25: [2486.1868, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 23: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 49: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 5: [2498.342, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 31: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 43: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 39: [3407.2633000000005, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 34: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 44: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 17: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 37: [2460.0771999999997, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 47: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 9: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 12: [2222.098, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 20: [2420.2306, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [12458.1564, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 14: [2599.3982, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 7: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 8: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 19: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 22: [2727.7342999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [2894.8321, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 35: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 13: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 15: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 16: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 40: [2460.5101999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 21: [1667.3942, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 38: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 46: [2864.9471, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 45: [1261.217, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 36: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 48: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 18: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 30: [2575.8442, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 50 variables and 27 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (27 variables).
+Knitro fixing 41 variables eliminated from the presolve.
+Knitro reinitializing 1 variable eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                               1446 (        1396)
+    bounded below only:                               0 (         153)
+    bounded above only:                               0 (          60)
+    bounded below and above:                       1293 (         854)
+    fixed:                                           35 (           0)
+    free:                                           118 (         329)
+Number of constraints:                             2069 (        2042)
+    linear equalities:                              981 (         966)
+    quadratic equalities:                           179 (         179)
+    gen. nonlinear equalities:                      179 (         179)
+    linear one-sided inequalities:                  358 (         346)
+    quadratic one-sided inequalities:               372 (         372)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    6681 (        6582)
+Number of nonzeros in Hessian:                     1936 (        1918)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    3.703173e+04   2.040e+00
+      10    9.701993e+04   5.039e-03   2.387e+00   8.636e-01        0
+      15    9.721360e+04   2.122e-07   3.158e-05   6.827e-03        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   9.72136039492837e+04
+Final feasibility error (abs / rel) =   2.12e-07 / 1.04e-07
+Final optimality error  (abs / rel) =   3.16e-05 / 3.16e-07
+# of iterations                     =         15 
+# of CG iterations                  =          0 
+# of function evaluations           =         17
+# of gradient evaluations           =         17
+# of Hessian evaluations            =         15
+Total program time (secs)           =       4.18170 (     4.179 CPU time)
+Time spent in evaluations (secs)    =       2.72990
+
+===============================================================================
+
+Time to Solution........:4.179259777069092

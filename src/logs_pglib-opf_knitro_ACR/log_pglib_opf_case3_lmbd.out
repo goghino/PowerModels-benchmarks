@@ -1,0 +1,77 @@
+cases/pglib-opf/pglib_opf_case3_lmbd.m
+knitro
+ACR
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 2 variables and 1 constraint.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as a QCQP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point further inside presolved bounds (3 variables).
+Knitro fixing 2 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                                 24 (          22)
+    bounded below only:                               0 (           0)
+    bounded above only:                               0 (           0)
+    bounded below and above:                         23 (          18)
+    fixed:                                            1 (           0)
+    free:                                             0 (           4)
+Number of constraints:                               37 (          36)
+    linear equalities:                                7 (           6)
+    quadratic equalities:                            12 (          12)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                    0 (           0)
+    quadratic one-sided inequalities:                18 (          18)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                     127 (         111)
+Number of nonzeros in Hessian:                       32 (          27)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    2.524995e+03   9.000e-01
+      10    5.812383e+03   7.054e-05   8.786e-03   2.369e-02        0
+      11    5.812642e+03   3.562e-07   4.447e-05   4.935e-04        0
+
+EXIT: Locally optimal solution found.
+
+HINT: Knitro spent 0.000004 seconds checking model convexity.
+      To skip the automatic convexity checker for QPs and QCQPs,
+      explicity set the user option convex=0 or convex=1.
+
+Final Statistics
+----------------
+Final objective value               =   5.81264166510670e+03
+Final feasibility error (abs / rel) =   3.56e-07 / 3.56e-07
+Final optimality error  (abs / rel) =   4.45e-05 / 3.17e-07
+# of iterations                     =         11 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.01115 (     0.006 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.005934000015258789
