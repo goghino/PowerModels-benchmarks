@@ -9,12 +9,17 @@ println(in_case)
 println(optimizer)
 println(formulation)
 
+# exact non-convex formulations for now (ACP,ACR,ACT,IVR)
 if (formulation=="ACP")
 	type_formulation = ACPPowerModel
-elseif (formulation=="DCP")
-	type_formulation = DCPPowerModel
+elseif (formulation=="ACR")
+	type_formulation = ACRPowerModel
+elseif (formulation=="ACT")
+	type_formulation = ACTPowerModel	
 elseif (formulation=="IVR")
 	type_formulation = IVRPowerModel
+elseif (formulation=="DCP")
+	type_formulation = DCPPowerModel
 elseif (formulation=="SOCW")
 	type_formulation = SOCWRPowerModel
 elseif (formulation=="QCRM")
