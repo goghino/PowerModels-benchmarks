@@ -1,0 +1,84 @@
+cases/pglib-opf/pglib_opf_case89_pegase.m
+knitro
+ACT
+[info | PowerModels]: removing 1 cost terms from generator 4: [3258.3235999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [658.6541000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 12: [1765.5344, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [3479.4851000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [2770.7032000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [3127.1293, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [1676.2466, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [839.8332999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 8: [3799.2336999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [2251.779, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2076.0836999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [4229.3854, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 25 variables and 27 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro shifted start point to satisfy presolved bounds (33 variables).
+Knitro fixing 19 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                               1454 (        1429)
+    bounded below only:                               0 (           8)
+    bounded above only:                               0 (          59)
+    bounded below and above:                       1365 (        1042)
+    fixed:                                            0 (           0)
+    free:                                            89 (         320)
+Number of constraints:                             2263 (        2236)
+    linear equalities:                             1019 (         994)
+    quadratic equalities:                           206 (         206)
+    gen. nonlinear equalities:                      206 (         206)
+    linear one-sided inequalities:                  412 (         410)
+    quadratic one-sided inequalities:               420 (         420)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    7547 (        7473)
+Number of nonzeros in Hessian:                     2165 (        2144)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    1.037613e+05   1.287e+01
+      10    1.083059e+05   4.321e-03   2.696e+03   2.379e+00        0
+      19    1.072857e+05   6.472e-12   8.079e-09   9.450e-05        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   1.07285674341414e+05
+Final feasibility error (abs / rel) =   6.47e-12 / 5.03e-13
+Final optimality error  (abs / rel) =   8.08e-09 / 8.08e-11
+# of iterations                     =         19 
+# of CG iterations                  =          0 
+# of function evaluations           =         21
+# of gradient evaluations           =         21
+# of Hessian evaluations            =         19
+Total program time (secs)           =       4.14567 (     4.141 CPU time)
+Time spent in evaluations (secs)    =       2.66019
+
+===============================================================================
+
+Time to Solution........:4.141058921813965

@@ -1,6 +1,6 @@
 cases/pglib-opf/pglib_opf_case300_ieee.m
 knitro
-ACT
+IVR
 [info | PowerModels]: removing 1 cost terms from generator 32: [3101.6664, 0.0]
 [info | PowerModels]: removing 1 cost terms from generator 29: [2727.8538000000003, 0.0]
 [info | PowerModels]: removing 3 cost terms from generator 1: Float64[]
@@ -70,73 +70,3 @@ ACT
 [info | PowerModels]: removing 1 cost terms from generator 18: [4986.1855, 0.0]
 [info | PowerModels]: removing 1 cost terms from generator 30: [4915.571, 0.0]
 [info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
-
-=======================================
-          Commercial License
-         Artelys Knitro 12.2.2
-=======================================
-
-Knitro presolve eliminated 136 variables and 126 constraints.
-
-datacheck:               0
-hessian_no_f:            1
-par_numthreads:          1
-Knitro changing algorithm from AUTO to 1.
-Knitro changing bar_initpt from AUTO to 3.
-Knitro changing bar_murule from AUTO to 4.
-Knitro changing bar_penaltycons from AUTO to 0.
-Knitro changing bar_penaltyrule from AUTO to 2.
-Knitro changing bar_switchrule from AUTO to 2.
-Knitro changing linesearch from AUTO to 1.
-Knitro changing linsolver from AUTO to 5.
-Knitro shifted start point to satisfy presolved bounds (239 variables).
-Knitro fixing 72 variables eliminated from the presolve.
-Knitro reinitializing 10 variables eliminated from the presolve.
-
-Problem Characteristics                                 (   Presolved)
------------------------
-Objective goal:  Minimize
-Objective type:  linear
-Number of variables:                               3200 (        3064)
-    bounded below only:                               0 (          63)
-    bounded above only:                               0 (         372)
-    bounded below and above:                       2888 (        1606)
-    fixed:                                           12 (           0)
-    free:                                           300 (        1023)
-Number of constraints:                             4703 (        4577)
-    linear equalities:                             2245 (        2121)
-    quadratic equalities:                           409 (         409)
-    gen. nonlinear equalities:                      409 (         409)
-    linear one-sided inequalities:                  818 (         816)
-    quadratic one-sided inequalities:               822 (         822)
-    gen. nonlinear one-sided inequalities:            0 (           0)
-    linear two-sided inequalities:                    0 (           0)
-    quadratic two-sided inequalities:                 0 (           0)
-    gen. nonlinear two-sided inequalities:            0 (           0)
-Number of nonzeros in Jacobian:                   14558 (       14234)
-Number of nonzeros in Hessian:                     4398 (        4336)
-
-  Iter      Objective      FeasError   OptError    ||Step||    CGits 
---------  --------------  ----------  ----------  ----------  -------
-       0    2.084778e+05   1.952e+01
-      10    5.628764e+05   1.202e-01   2.100e+01   2.445e+00        0
-      20    5.652200e+05   7.925e-11   2.663e-10   1.662e-05        0
-
-EXIT: Locally optimal solution found.
-
-Final Statistics
-----------------
-Final objective value               =   5.65219990891715e+05
-Final feasibility error (abs / rel) =   7.93e-11 / 4.06e-12
-Final optimality error  (abs / rel) =   2.66e-10 / 2.66e-12
-# of iterations                     =         20 
-# of CG iterations                  =          0 
-# of function evaluations           =         22
-# of gradient evaluations           =         22
-# of Hessian evaluations            =         20
-Total program time (secs)           =       4.26102 (     4.257 CPU time)
-Time spent in evaluations (secs)    =       2.65248
-
-===============================================================================
-
-Time to Solution........:4.256552219390869

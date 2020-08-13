@@ -1,0 +1,10 @@
+cases/pglib-opf/pglib_opf_case30_as.m
+knitro
+IVR
+[info | PowerModels]: extending matpower format with data: areas 1x3
+[warn | PowerModels]: no active generators found at bus 23, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 22, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 11, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 5, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 27, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 8, updating to bus type from 1 to 2

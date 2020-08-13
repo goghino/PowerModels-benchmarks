@@ -1,0 +1,21 @@
+cases/pglib-opf/pglib_opf_case200_tamu.m
+knitro
+IVR
+[warn | PowerModels]: no active generators found at bus 168, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 197, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 92, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 161, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 165, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 196, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 164, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 78, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 166, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 169, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 79, updating to bus type from 2 to 1
+[info | PowerModels]: removing 3 cost terms from generator 24: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 25: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 23: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 31: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 47: [671.0, 1272.13]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 22: Float64[]

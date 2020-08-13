@@ -1,0 +1,13 @@
+cases/pglib-opf/pglib_opf_case39_epri.m
+knitro
+IVR
+[info | PowerModels]: removing 1 cost terms from generator 8: [3155.0181, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 4: [3484.4642999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [672.4778, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [2465.2994, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [1470.7625, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [3230.6483, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [1815.7477, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [2743.4444, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2250.3168, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [2480.4734, 0.0]

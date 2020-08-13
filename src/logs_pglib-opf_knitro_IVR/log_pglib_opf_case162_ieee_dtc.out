@@ -1,0 +1,15 @@
+cases/pglib-opf/pglib_opf_case162_ieee_dtc.m
+knitro
+IVR
+[info | PowerModels]: removing 1 cost terms from generator 4: [1968.6834999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [2353.2556, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 12: [1135.4352000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [3040.9326, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [611.1723, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [1523.4482, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [3848.9977000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [2293.4184, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 8: [2974.7826, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [737.3082, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2037.7006000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [1904.0386, 0.0]

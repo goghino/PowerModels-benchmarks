@@ -1,0 +1,105 @@
+cases/pglib-opf/pglib_opf_case73_ieee_rts.m
+knitro
+ACT
+[info | PowerModels]: extending matpower format with data: areas 3x3
+[info | PowerModels]: removing 1 cost terms from generator 29: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 1: [13000.0, 400.6849]
+[info | PowerModels]: removing 3 cost terms from generator 81: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 2: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 27: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 28: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 63: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 92: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 93: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 26: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 58: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 25: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 59: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 5: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 62: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 39: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 34: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 94: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 71: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 6: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 96: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 91: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 60: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 35: [13000.0, 400.6849]
+[info | PowerModels]: removing 3 cost terms from generator 15: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 61: [0.1, 0.001]
+[info | PowerModels]: removing 1 cost terms from generator 67: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 38: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 72: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 68: [13000.0, 400.6849]
+[info | PowerModels]: removing 1 cost terms from generator 95: [0.1, 0.001]
+[info | PowerModels]: removing 3 cost terms from generator 48: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 30: [0.1, 0.001]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 4 variables and 9 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+par_numthreads:          1
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 3.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 4 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  quadratic
+Number of variables:                               1040 (        1036)
+    bounded below only:                               0 (          45)
+    bounded above only:                               0 (          99)
+    bounded below and above:                        964 (         664)
+    fixed:                                            3 (           0)
+    free:                                            73 (         228)
+Number of constraints:                             1299 (        1290)
+    linear equalities:                              627 (         626)
+    quadratic equalities:                           108 (         108)
+    gen. nonlinear equalities:                      108 (         108)
+    linear one-sided inequalities:                  216 (         208)
+    quadratic one-sided inequalities:               240 (         240)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    4372 (        4348)
+Number of nonzeros in Hessian:                     1267 (        1258)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    3.213466e+04   3.330e+00
+      10    1.897642e+05   2.583e-06   2.785e-02   5.457e-02        0
+      12    1.897641e+05   2.665e-09   3.584e-05   6.411e-03        0
+
+EXIT: Locally optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   1.89764081540677e+05
+Final feasibility error (abs / rel) =   2.67e-09 / 8.00e-10
+Final optimality error  (abs / rel) =   3.58e-05 / 3.58e-07
+# of iterations                     =         12 
+# of CG iterations                  =          0 
+# of function evaluations           =         15
+# of gradient evaluations           =         14
+# of Hessian evaluations            =         12
+Total program time (secs)           =       4.04164 (     4.037 CPU time)
+Time spent in evaluations (secs)    =       2.62901
+
+===============================================================================
+
+Time to Solution........:4.036795139312744

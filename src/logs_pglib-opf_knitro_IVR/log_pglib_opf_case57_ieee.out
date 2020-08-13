@@ -1,0 +1,10 @@
+cases/pglib-opf/pglib_opf_case57_ieee.m
+knitro
+IVR
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 1: [1696.0624, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [3044.1037, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 2: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 7: [3718.8979000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [3407.5557000000003, 0.0]
