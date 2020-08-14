@@ -1,0 +1,4 @@
+cases/pglib-opf/pglib_opf_case3_lmbd.m
+ipopt
+IVR
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]

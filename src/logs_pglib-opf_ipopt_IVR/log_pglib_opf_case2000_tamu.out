@@ -1,0 +1,235 @@
+cases/pglib-opf/pglib_opf_case2000_tamu.m
+ipopt
+IVR
+[warn | PowerModels]: reversing the orientation of branch 40 (1071, 1019) to be consistent with other parallel branches
+[warn | PowerModels]: no active generators found at bus 6144, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8070, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6273, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4096, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4098, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4138, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2084, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5089, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5023, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1049, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2005, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3044, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8060, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6271, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1081, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5107, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8033, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2104, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7121, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2095, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3043, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2006, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2056, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8115, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8047, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6272, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8036, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5035, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6007, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6259, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7122, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7284, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3133, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4137, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1076, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4163, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8152, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1059, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8061, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8051, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1057, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8034, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1062, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5066, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1048, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1077, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6052, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8147, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7034, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7025, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3087, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 3045, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8035, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8050, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5106, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6148, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2094, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6087, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5424, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1053, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6072, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2085, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7207, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7309, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5036, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2103, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8158, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6048, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7191, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5283, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7281, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6270, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4075, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7334, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7015, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1060, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6301, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2105, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4133, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4090, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1063, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6049, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 7280, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5297, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 4092, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8087, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 8116, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5057, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 5320, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2019, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1042, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 6050, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2004, updating to bus type from 2 to 1
+[info | PowerModels]: removing 3 cost terms from generator 1: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 54: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 101: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 326: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 168: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 332: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 531: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 88: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 289: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 77: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 230: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 24: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 328: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 23: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 160: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 59: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 39: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 112: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 55: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 9: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 363: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 12: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 292: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 167: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 96: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 123: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 510: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 19: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 242: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 365: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 45: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 181: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 436: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 85: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 105: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 309: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 75: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 63: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 92: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 120: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 87: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 89: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 182: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 286: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 161: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 291: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 80: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 308: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 113: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 110: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 231: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 327: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 200: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 61: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 108: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 100: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 151: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 76: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 438: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 180: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 48: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 103: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 109: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 2: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 51: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 53: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 106: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 435: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 111: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 287: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 93: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 213: [811.0, 1209.05]
+[info | PowerModels]: removing 3 cost terms from generator 10: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 5: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 62: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 90: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 205: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 311: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 366: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 380: [744.5, 1025.47]
+[info | PowerModels]: removing 3 cost terms from generator 86: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 126: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 37: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 268: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 6: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 125: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 98: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 379: [706.3, 1447.46]
+[info | PowerModels]: removing 3 cost terms from generator 7: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 107: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 102: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 97: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 212: [697.5, 1485.46]
+[info | PowerModels]: removing 3 cost terms from generator 210: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 211: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 329: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 118: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 38: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 78: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 74: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 119: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 52: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 439: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 290: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 25: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 114: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 166: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 206: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 364: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 44: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 169: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 94: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 288: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 99: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 330: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 73: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 285: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 310: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 79: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 437: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 84: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 325: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 104: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 124: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 267: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 8: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 91: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 60: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 22: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 11: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 434: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 324: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 331: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 40: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 36: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 95: Float64[]
