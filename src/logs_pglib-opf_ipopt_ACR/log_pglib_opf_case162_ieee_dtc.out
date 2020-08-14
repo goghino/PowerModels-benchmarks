@@ -1,0 +1,94 @@
+cases/pglib-opf/pglib_opf_case162_ieee_dtc.m
+ipopt
+ACR
+[info | PowerModels]: removing 1 cost terms from generator 4: [1968.6834999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [2353.2556, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 12: [1135.4352000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [3040.9326, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [611.1723, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [1523.4482, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [3848.9977000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [2293.4184, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 8: [2974.7826, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [737.3082, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2037.7006000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [1904.0386, 0.0]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:    13065
+Number of nonzeros in inequality constraint Jacobian.:     6264
+Number of nonzeros in Lagrangian Hessian.............:    10512
+
+Total number of variables............................:     1484
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:     1484
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:     1461
+Total number of inequality constraints...............:     1452
+        inequality constraints with only lower bounds:      442
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:     1010
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  2.4429149e+02 2.00e+01 1.58e+01  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  1.3173512e+04 1.82e+01 7.72e+01  -1.0 7.15e+00    -  1.40e-03 9.05e-02h  2
+   2  2.1198041e+04 1.61e+01 6.83e+01  -1.0 3.72e+01    -  2.34e-02 1.16e-01h  3
+   3  3.1827089e+04 1.30e+01 5.54e+01  -1.0 3.51e+01    -  2.00e-01 1.90e-01h  2
+   4  4.0044035e+04 1.04e+01 4.40e+01  -1.0 3.03e+01    -  4.28e-01 1.99e-01h  1
+   5  4.1523782e+04 1.00e+01 6.98e+01  -1.0 3.94e+01    -  6.82e-01 3.59e-02h  1
+   6  5.7640231e+04 6.93e+00 2.11e+02  -1.0 4.22e+01    -  5.27e-01 3.10e-01h  1
+   7  5.9730476e+04 6.56e+00 1.29e+02  -1.0 5.33e+01    -  6.58e-01 5.37e-02h  1
+   8  6.4566285e+04 5.80e+00 1.81e+02  -1.0 6.15e+01    -  1.75e-01 1.17e-01h  1
+   9  6.8197600e+04 5.27e+00 1.56e+02  -1.0 8.29e+01    -  2.75e-02 9.03e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  7.4305668e+04 4.35e+00 1.43e+02  -1.0 9.45e+01    -  8.55e-03 1.76e-01h  1
+  11  8.7438194e+04 2.38e+00 1.29e+02  -1.0 1.09e+02    -  1.54e-01 4.53e-01H  1
+  12  9.0352484e+04 1.95e+00 8.91e+01  -1.0 1.02e+02    -  7.58e-01 1.77e-01h  1
+  13  9.2337273e+04 1.70e+00 3.66e+02  -1.0 4.02e+01    -  4.20e-01 1.29e-01h  1
+  14  9.7494389e+04 1.10e+00 1.83e+02  -1.0 4.45e+01    -  2.65e-02 3.52e-01h  1
+  15  1.0399145e+05 6.89e-01 8.03e+01  -1.0 4.22e+01    -  8.70e-01 6.41e-01h  1
+  16  1.0624031e+05 4.07e+00 4.25e+01  -1.0 3.89e+01    -  1.00e+00 5.88e-01h  1
+  17  1.0704140e+05 1.91e+00 2.77e+01  -1.0 8.10e-01    -  5.63e-01 4.87e-01h  1
+  18  1.0724181e+05 1.79e+00 8.50e+01  -1.0 3.06e+00    -  3.62e-01 2.21e-01h  1
+  19  1.0818600e+05 1.28e-02 1.76e-01  -1.0 9.49e-01    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  1.0817878e+05 1.74e-04 1.83e-01  -1.0 2.46e-01    -  1.00e+00 1.00e+00h  1
+  21  1.0811874e+05 3.87e-04 1.26e+01  -1.7 4.02e-01    -  8.65e-01 5.95e-01f  1
+  22  1.0809035e+05 3.37e-03 1.44e-01  -1.7 3.07e-01    -  1.00e+00 1.00e+00f  1
+  23  1.0807794e+05 3.54e-03 1.82e+00  -2.5 1.54e-01    -  9.55e-01 8.95e-01h  1
+  24  1.0807770e+05 2.18e-05 2.99e-03  -2.5 4.21e-02    -  1.00e+00 1.00e+00h  1
+  25  1.0807570e+05 2.05e-04 2.03e-03  -3.8 3.21e-02    -  1.00e+00 1.00e+00h  1
+  26  1.0807575e+05 4.25e-08 4.15e-06  -3.8 1.83e-03    -  1.00e+00 1.00e+00h  1
+  27  1.0807565e+05 4.39e-08 6.82e-06  -5.7 1.88e-03    -  1.00e+00 1.00e+00h  1
+  28  1.0807564e+05 1.11e-11 1.57e-09  -8.6 2.99e-05    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 28
+
+                                   (scaled)                 (unscaled)
+Objective...............:   2.8078905990208696e+03    1.0807564457482949e+05
+Dual infeasibility......:   1.5729142673798623e-09    6.0541433974422754e-08
+Constraint violation....:   1.0592299953815497e-11    1.1149789425068944e-11
+Complementarity.........:   3.0752377086604804e-09    1.1836582867587460e-07
+Overall NLP error.......:   3.0752377086604804e-09    1.1836582867587460e-07
+
+
+Number of objective function evaluations             = 41
+Number of objective gradient evaluations             = 29
+Number of equality constraint evaluations            = 41
+Number of inequality constraint evaluations          = 41
+Number of equality constraint Jacobian evaluations   = 29
+Number of inequality constraint Jacobian evaluations = 29
+Number of Lagrangian Hessian evaluations             = 28
+Total CPU secs in IPOPT (w/o function evaluations)   =      0.851
+Total CPU secs in NLP function evaluations           =      0.218
+
+EXIT: Optimal Solution Found.
+Time to Solution........:1.7776100635528564

@@ -1,0 +1,736 @@
+cases/pglib-opf/pglib_opf_case1888_rte.m
+ipopt
+ACR
+[warn | PowerModels]: active generators found at bus 14, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 876, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 885, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 448, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1118, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 82, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 1320, updating to bus type from 3 to 1
+[warn | PowerModels]: no active generators found at bus 58, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1005, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 1724, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 858, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 1689, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1776, updating to bus type from 2 to 1
+[warn | PowerModels]: no reference bus found, setting bus 1675 as reference based on generator 112
+[warn | PowerModels]: the voltage setpoint on generator 54 does not match the value at bus 1631
+[warn | PowerModels]: the voltage setpoint on generator 228 does not match the value at bus 1745
+[warn | PowerModels]: the voltage setpoint on generator 26 does not match the value at bus 885
+[warn | PowerModels]: the voltage setpoint on generator 230 does not match the value at bus 1961
+[warn | PowerModels]: the voltage setpoint on generator 43 does not match the value at bus 471
+[warn | PowerModels]: the voltage setpoint on generator 112 does not match the value at bus 1675
+[warn | PowerModels]: the voltage setpoint on generator 9 does not match the value at bus 817
+[warn | PowerModels]: the voltage setpoint on generator 172 does not match the value at bus 1718
+[warn | PowerModels]: the voltage setpoint on generator 192 does not match the value at bus 1923
+[warn | PowerModels]: the voltage setpoint on generator 292 does not match the value at bus 1791
+[warn | PowerModels]: the voltage setpoint on generator 14 does not match the value at bus 858
+[warn | PowerModels]: the voltage setpoint on generator 167 does not match the value at bus 1713
+[warn | PowerModels]: the voltage setpoint on generator 242 does not match the value at bus 1757
+[warn | PowerModels]: the voltage setpoint on generator 239 does not match the value at bus 1754
+[warn | PowerModels]: the voltage setpoint on generator 35 does not match the value at bus 1118
+[warn | PowerModels]: the voltage setpoint on generator 263 does not match the value at bus 1772
+[warn | PowerModels]: the voltage setpoint on generator 45 does not match the value at bus 1321
+[warn | PowerModels]: the voltage setpoint on generator 105 does not match the value at bus 1669
+[warn | PowerModels]: the voltage setpoint on generator 3 does not match the value at bus 1356
+[warn | PowerModels]: the voltage setpoint on generator 81 does not match the value at bus 1651
+[warn | PowerModels]: the voltage setpoint on generator 27 does not match the value at bus 876
+[warn | PowerModels]: the voltage setpoint on generator 208 does not match the value at bus 1944
+[warn | PowerModels]: the voltage setpoint on generator 291 does not match the value at bus 1790
+[warn | PowerModels]: the voltage setpoint on generator 80 does not match the value at bus 1650
+[warn | PowerModels]: the voltage setpoint on generator 200 does not match the value at bus 1932
+[warn | PowerModels]: the voltage setpoint on generator 171 does not match the value at bus 1717
+[warn | PowerModels]: the voltage setpoint on generator 273 does not match the value at bus 1778
+[warn | PowerModels]: the voltage setpoint on generator 61 does not match the value at bus 1633
+[warn | PowerModels]: the voltage setpoint on generator 46 does not match the value at bus 1829
+[warn | PowerModels]: the voltage setpoint on generator 251 does not match the value at bus 1975
+[warn | PowerModels]: the voltage setpoint on generator 103 does not match the value at bus 1667
+[warn | PowerModels]: the voltage setpoint on generator 264 does not match the value at bus 1995
+[warn | PowerModels]: the voltage setpoint on generator 217 does not match the value at bus 1736
+[warn | PowerModels]: the voltage setpoint on generator 53 does not match the value at bus 1630
+[warn | PowerModels]: the voltage setpoint on generator 106 does not match the value at bus 1670
+[warn | PowerModels]: the voltage setpoint on generator 111 does not match the value at bus 1674
+[warn | PowerModels]: the voltage setpoint on generator 278 does not match the value at bus 1781
+[warn | PowerModels]: the voltage setpoint on generator 62 does not match the value at bus 1634
+[warn | PowerModels]: the voltage setpoint on generator 226 does not match the value at bus 1743
+[warn | PowerModels]: the voltage setpoint on generator 266 does not match the value at bus 1774
+[warn | PowerModels]: the voltage setpoint on generator 268 does not match the value at bus 1776
+[warn | PowerModels]: the voltage setpoint on generator 6 does not match the value at bus 908
+[warn | PowerModels]: the voltage setpoint on generator 125 does not match the value at bus 1683
+[warn | PowerModels]: the voltage setpoint on generator 272 does not match the value at bus 1777
+[warn | PowerModels]: the voltage setpoint on generator 7 does not match the value at bus 817
+[warn | PowerModels]: the voltage setpoint on generator 69 does not match the value at bus 1641
+[warn | PowerModels]: the voltage setpoint on generator 240 does not match the value at bus 1755
+[warn | PowerModels]: the voltage setpoint on generator 193 does not match the value at bus 1924
+[warn | PowerModels]: the voltage setpoint on generator 29 does not match the value at bus 803
+[warn | PowerModels]: the voltage setpoint on generator 78 does not match the value at bus 1648
+[warn | PowerModels]: the voltage setpoint on generator 28 does not match the value at bus 46
+[warn | PowerModels]: the voltage setpoint on generator 52 does not match the value at bus 1844
+[warn | PowerModels]: the voltage setpoint on generator 25 does not match the value at bus 885
+[warn | PowerModels]: the voltage setpoint on generator 279 does not match the value at bus 1782
+[warn | PowerModels]: the voltage setpoint on generator 44 does not match the value at bus 1321
+[warn | PowerModels]: the voltage setpoint on generator 82 does not match the value at bus 1652
+[warn | PowerModels]: the voltage setpoint on generator 79 does not match the value at bus 1649
+[warn | PowerModels]: the voltage setpoint on generator 216 does not match the value at bus 1735
+[warn | PowerModels]: the voltage setpoint on generator 104 does not match the value at bus 1668
+[warn | PowerModels]: the voltage setpoint on generator 124 does not match the value at bus 1682
+[warn | PowerModels]: the voltage setpoint on generator 185 does not match the value at bus 1723
+[warn | PowerModels]: the voltage setpoint on generator 267 does not match the value at bus 1775
+[warn | PowerModels]: the voltage setpoint on generator 8 does not match the value at bus 817
+[warn | PowerModels]: the voltage setpoint on generator 198 does not match the value at bus 1729
+[warn | PowerModels]: the voltage setpoint on generator 222 does not match the value at bus 1741
+[warn | PowerModels]: the voltage setpoint on generator 40 does not match the value at bus 474
+[warn | PowerModels]: the voltage setpoint on generator 138 does not match the value at bus 1690
+[info | PowerModels]: removing 1 cost terms from generator 1: [3687.9613999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 54: [3583.3663, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 101: [3231.1689, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 41: [8979.4302, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 65: [3301.5135999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 168: [2216.6895, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 159: [10666.8799, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 228: [1612.1548, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 190: [12535.872299999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 227: [3770.3538000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 270: [647.427, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 223: [744.3288, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 88: [2987.9728, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 297: [3865.2489000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 26: [1397.5616, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 289: [4314.4225, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 250: [2597.4471000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 77: [10665.2079, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 230: [3066.9454, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 24: [3132.3377, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 258: [2582.7509, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 204: [12184.7407, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 23: [3148.3516, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 160: [9719.1384, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 149: [11250.1633, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 59: [4492.4115, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 184: [1923.5965, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 43: [3447.3233999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 122: [3025.3167000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 253: [3932.4384999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 175: [5297.7338, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 39: [4158.980799999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 143: [3435.3015, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 112: [2540.5366, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 34: [3430.1794, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 293: [3233.6169, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 137: [4147.5369, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 55: [11943.1558, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 17: [4533.5599, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 243: [5118.6207, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2158.6989, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 172: [681.3815, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 12: [11072.11, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 192: [3747.0049000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 20: [3062.2515, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 292: [3358.9452, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 252: [4102.901, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 14: [3060.1438000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 167: [3040.8853, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 127: [2831.47, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 96: [3909.167, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 123: [2585.3896, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 177: [3241.2444, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 254: [3036.0941000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 257: [4451.305700000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 19: [3075.7753000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 179: [2393.7604, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 242: [2040.4845000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 260: [10598.7833, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 239: [1563.6607, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 35: [4486.095600000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 197: [10334.246299999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 131: [3429.9742, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 276: [11887.5628, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 21: [4640.6787, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 263: [2014.2043999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 83: [1979.7917000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 244: [3622.2780999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 45: [10655.7899, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 295: [9971.9212, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 139: [3766.5860000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 181: [12178.8286, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 85: [11692.5701, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 105: [686.4972, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 30: [4315.4786, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [12386.7753, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 81: [1566.0902999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 296: [3126.908, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 27: [4807.0538, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 75: [4467.030299999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 50: [674.5408, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 162: [4347.4735, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 63: [3041.4781000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 92: [5362.5088, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 208: [4004.6976999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 214: [3943.3826000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 120: [2438.3565, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 224: [2744.4413999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 87: [10350.4481, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 117: [10788.452800000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 255: [2584.6338, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 178: [3838.5621, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 89: [5466.7442, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 275: [6446.1675, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 176: [2200.2061000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 182: [2218.0489000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 225: [4530.737, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 195: [2522.2493, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 286: [3213.3822999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 249: [10366.0535, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 161: [10101.1895, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 202: [11071.3088, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 146: [2744.1246, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 142: [4035.9034, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 219: [3444.4518000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 256: [9954.647799999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 291: [3529.3605, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 80: [2842.1775000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 203: [2613.5622000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 113: [2676.2535, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 110: [3408.3995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 269: [2205.9642, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 157: [12186.4221, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 57: [10419.5581, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 165: [11169.6301, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 231: [914.2467, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 173: [2523.9496, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 284: [1919.7845000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 200: [2730.9325, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 171: [3569.3046000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 233: [1924.9272999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 130: [4817.645799999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 273: [1069.3332, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 15: [4256.9564, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 61: [645.0082, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 67: [2882.9022, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 247: [3657.0849000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 108: [3254.0539000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 100: [4946.9415, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 46: [1440.7526, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 251: [4495.8046, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 170: [2213.9348999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 151: [3524.2997000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 248: [11760.6154, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 68: [2007.8606, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 56: [12198.9784, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 147: [3779.7956, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 76: [4353.3901, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 186: [4333.1328, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 180: [4058.8644000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 135: [1868.0412000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 262: [3886.5077, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 48: [11653.3424, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 103: [2354.7369, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 32: [2981.1093, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 109: [679.36, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 264: [2330.9031, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 217: [2165.7813, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [10281.8703, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 183: [1511.8668, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 155: [2902.4814, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 51: [10706.9234, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 53: [3188.5121000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 106: [9949.7152, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 111: [5429.734100000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 141: [2895.2303, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 287: [2779.0164999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 93: [3077.3174, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 213: [2438.6048, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 278: [12668.8114, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [10292.2605, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 265: [1335.9216, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 215: [1955.1393, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 154: [719.0143, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 49: [12601.0118, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 218: [1082.5654, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [11133.7642, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 62: [2482.3632, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 196: [1364.7219, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 90: [3564.4799, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 234: [2966.2639, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 205: [4632.8098, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 237: [4052.138, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 201: [4140.3946, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 164: [3488.9775999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 86: [3891.1893, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 126: [2445.7229, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 152: [2973.272, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 71: [11429.5845, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 37: [2496.2467, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 226: [2288.4473, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 245: [2253.8923, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 266: [1801.2933, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 268: [3799.0395, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [3720.3873000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 125: [675.884, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 98: [2166.2259, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 272: [2842.982, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 174: [2405.8610000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 187: [3292.3634, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [4977.8795, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 261: [9997.8003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 194: [11511.394199999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 140: [2287.8714, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 107: [3178.9207, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 102: [11934.7719, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 69: [5052.1495, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 282: [3475.5944, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 97: [9940.1859, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 4: [10623.021, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 221: [4071.8392000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 235: [2332.0495, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 212: [2126.5771, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 210: [3415.1677, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 13: [2641.9861, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 136: [663.3383, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 211: [3725.659, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 134: [1931.8276999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 133: [1658.8831, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 148: [1378.6673, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 240: [3053.5048, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 193: [11396.7568, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 118: [1972.1211, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 283: [4037.9488, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 246: [3082.2152, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 38: [3285.9582000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 188: [3778.7385, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 199: [4834.4191, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 116: [3761.7069, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 66: [3159.8869, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 241: [10834.759, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 18: [3493.723, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 132: [1707.6737, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 29: [4477.2489, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 78: [2514.3778, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 74: [2031.2818, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 119: [2591.1063, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 236: [750.8353999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 42: [3209.503, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 33: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 28: [11102.2896, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 52: [2942.0074, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 121: [4528.197099999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 290: [2664.3664, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 115: [3361.6737999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 163: [11449.9177, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 281: [3460.1688000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 58: [6505.2207, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 25: [3074.473, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 114: [2754.5621, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 166: [2798.0534, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 31: [3900.3663, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 274: [2744.6711, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 206: [3077.2212, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 279: [2664.0965, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 280: [1803.4860999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 44: [4317.9533, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 169: [3213.073, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 129: [2027.3720999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 189: [11579.9925, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 150: [4518.406800000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 259: [1004.5374, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 94: [12945.1325, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 288: [5240.5877, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 99: [4554.1664, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 207: [1992.8321, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 47: [11963.0609, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 73: [3057.954, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 82: [566.7664, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 285: [2596.1059, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 79: [1811.9992, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 216: [2739.464, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 84: [10935.7263, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 104: [285.9808, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 124: [2338.4789, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 238: [3012.3945, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 209: [3821.5423, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 185: [4130.8627, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 267: [3038.1701, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 70: [9504.711299999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 191: [10683.9232, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 8: [2758.6445000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 198: [3821.5685, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 64: [3121.5842, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 222: [2836.9578, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 91: [10015.199, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 60: [4256.4627, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 158: [12384.1827, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 156: [11197.375900000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 229: [2258.1295, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 144: [2711.1097, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 220: [7720.9822, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 22: [3191.1805999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [2334.7606, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 271: [4486.1896, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 277: [12238.500399999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 16: [2299.3552999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 40: [3566.0132, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 72: [10313.4064, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 128: [2942.9072, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 145: [4165.2275, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 36: [12091.811300000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 95: [4543.6313, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 138: [3207.935, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 294: [2202.2236, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 232: [3490.6404, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 153: [707.2944, 0.0]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:   117190
+Number of nonzeros in inequality constraint Jacobian.:    54604
+Number of nonzeros in Lagrangian Hessian.............:    93998
+
+Total number of variables............................:    14471
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:    14471
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:    13901
+Total number of inequality constraints...............:    13454
+        inequality constraints with only lower bounds:     4196
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:     9258
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  6.7635069e+05 5.07e+02 1.00e+02  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  6.7733150e+05 5.07e+02 1.00e+02  -1.0 2.27e+01    -  7.71e-03 1.00e-03h  1
+   2  6.8215293e+05 5.03e+02 9.97e+01  -1.0 2.56e+01    -  2.13e-03 8.68e-03h  1
+   3  6.8260806e+05 5.02e+02 9.90e+01  -1.0 9.38e+01    -  7.89e-03 1.12e-03h  1
+   4  6.8523314e+05 4.98e+02 1.26e+02  -1.0 1.02e+02    -  2.38e-03 6.95e-03h  1
+   5  6.8561342e+05 4.98e+02 1.47e+02  -1.0 1.65e+02    -  1.90e-02 9.95e-04h  1
+   6  6.9241684e+05 4.89e+02 1.50e+02  -1.0 1.84e+02    -  1.81e-02 1.77e-02h  1
+   7  6.9248269e+05 4.89e+02 1.07e+04  -1.0 4.97e+02    -  1.17e-02 1.81e-04h  1
+   8  6.9251646e+05 4.89e+02 1.09e+04  -1.0 1.01e+03    -  9.42e-05 8.98e-05h  1
+   9r 6.9251646e+05 4.89e+02 1.00e+03   1.2 0.00e+00    -  0.00e+00 3.20e-07R  8
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10r 6.9164712e+05 3.87e+02 9.98e+02   1.2 7.88e+03    -  2.27e-03 4.47e-04f  1
+  11r 6.9164712e+05 3.87e+02 9.99e+02   1.1 0.00e+00    -  0.00e+00 3.08e-07R  6
+  12r 7.0103524e+05 1.97e+02 9.97e+02   1.1 6.74e+03    -  2.55e-03 9.77e-04f  1
+  13  7.0165651e+05 1.96e+02 9.88e+01  -1.0 9.47e+01    -  2.37e-02 1.38e-03h  1
+  14  7.0748761e+05 1.90e+02 9.71e+01  -1.0 9.76e+01    -  1.12e-02 2.99e-02h  1
+  15  7.2611429e+05 1.81e+02 9.37e+01  -1.0 1.05e+02    -  3.13e-02 4.66e-02h  1
+  16  7.4175295e+05 1.75e+02 8.79e+01  -1.0 1.02e+02    -  7.04e-02 3.35e-02h  3
+  17  7.5983483e+05 1.69e+02 8.29e+01  -1.0 9.45e+01    -  1.34e-01 3.70e-02h  3
+  18  7.8624860e+05 1.60e+02 9.64e+01  -1.0 9.20e+01    -  9.08e-02 5.28e-02h  3
+  19  8.2025905e+05 1.49e+02 1.04e+02  -1.0 9.39e+01    -  1.30e-01 6.75e-02h  3
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  8.5705194e+05 1.38e+02 9.73e+01  -1.0 9.71e+01    -  1.26e-01 7.37e-02h  3
+  21  8.9285094e+05 1.28e+02 8.29e+01  -1.0 9.82e+01    -  2.07e-01 7.38e-02h  3
+  22  9.3433864e+05 1.16e+02 5.87e+01  -1.0 1.02e+02    -  1.13e-01 9.03e-02h  3
+  23  9.6775864e+05 1.07e+02 4.05e+01  -1.0 1.01e+02    -  3.22e-01 7.81e-02h  3
+  24  1.0188233e+06 9.33e+01 2.85e+01  -1.0 1.07e+02    -  1.19e-01 1.29e-01h  2
+  25  1.0734888e+06 7.90e+01 3.68e+01  -1.0 1.03e+02    -  3.04e-01 1.54e-01h  1
+  26  1.0867548e+06 7.55e+01 3.23e+02  -1.0 1.03e+02    -  2.24e-01 4.44e-02h  1
+  27  1.1234953e+06 6.57e+01 6.08e+02  -1.0 1.05e+02    -  2.45e-01 1.29e-01h  1
+  28  1.1348018e+06 6.27e+01 2.86e+03  -1.0 1.03e+02    -  4.65e-01 4.58e-02h  1
+  29  1.1518166e+06 5.81e+01 2.17e+03  -1.0 1.65e+02    -  3.73e-02 7.30e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  30  1.1724781e+06 5.27e+01 1.82e+03  -1.0 2.08e+02    -  8.20e-02 9.30e-02h  1
+  31  1.1772031e+06 5.17e+01 1.82e+03  -1.0 4.35e+02    -  7.66e-03 1.97e-02h  2
+  32  1.1836609e+06 5.02e+01 1.54e+03  -1.0 4.15e+02    -  2.08e-01 2.89e-02h  1
+  33  1.2025539e+06 4.56e+01 1.42e+03  -1.0 3.79e+02    -  1.05e-01 9.21e-02h  1
+  34  1.2336660e+06 3.77e+01 1.18e+03  -1.0 3.07e+02    -  1.69e-01 1.73e-01H  1
+  35  1.2390624e+06 3.63e+01 8.97e+02  -1.0 2.46e+02    -  1.29e-01 3.84e-02h  1
+  36  1.2478450e+06 3.41e+01 2.58e+03  -1.0 2.71e+02    -  1.76e-01 6.12e-02h  1
+  37  1.2643111e+06 3.00e+01 4.37e+03  -1.0 2.17e+02    -  2.35e-01 1.19e-01h  1
+  38  1.2658579e+06 2.97e+01 4.37e+03  -1.0 3.70e+02    -  5.30e-03 9.36e-03h  4
+  39  1.2732837e+06 2.82e+01 4.25e+03  -1.0 2.78e+02    -  9.98e-02 5.15e-02h  2
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  40  1.2843975e+06 2.56e+01 6.05e+03  -1.0 1.38e+02    -  2.70e-01 9.09e-02h  1
+  41  1.3039280e+06 2.12e+01 6.55e+03  -1.0 1.22e+02    -  2.85e-01 1.73e-01h  1
+  42  1.3045829e+06 2.11e+01 9.77e+03  -1.0 2.83e+01  -2.0 6.69e-02 6.29e-03h  1
+  43  1.3208349e+06 1.75e+01 6.29e+03  -1.0 1.53e+02    -  5.08e-02 1.69e-01h  1
+  44  1.3213998e+06 1.74e+01 7.56e+03  -1.0 3.03e+01  -1.6 3.22e-02 5.26e-03h  1
+  45  1.3259205e+06 1.64e+01 4.74e+03  -1.0 1.89e+02    -  4.15e-03 5.80e-02h  1
+  46  1.3279040e+06 1.61e+01 6.10e+03  -1.0 1.62e+01  -1.1 3.65e-02 2.08e-02h  1
+  47  1.3292262e+06 1.58e+01 6.51e+03  -1.0 2.91e+01  -1.6 3.46e-02 1.42e-02h  1
+  48  1.3318662e+06 1.52e+01 4.83e+03  -1.0 1.86e+02    -  1.68e-02 3.82e-02h  1
+  49  1.3339944e+06 1.49e+01 4.82e+03  -1.0 1.62e+01  -1.2 2.38e-02 2.28e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  50  1.3362082e+06 1.44e+01 3.33e+03  -1.0 1.74e+02    -  4.18e-04 3.55e-02h  1
+  51  1.3392893e+06 1.39e+01 3.22e+03  -1.0 1.20e+01  -0.8 4.83e-02 3.49e-02h  1
+  52  1.3401699e+06 1.37e+01 4.19e+03  -1.0 4.12e+01  -1.3 7.14e-02 8.37e-03h  1
+  53  1.3408009e+06 1.36e+01 4.33e+03  -1.0 1.39e+02    -  1.57e-02 1.10e-02h  1
+  54  1.3409431e+06 1.36e+01 6.78e+03  -1.0 1.30e+01  -0.8 2.00e-02 1.64e-03h  1
+  55  1.3420447e+06 1.33e+01 9.67e+03  -1.0 1.99e+02    -  6.07e-02 1.76e-02h  1
+  56  1.3481772e+06 1.21e+01 6.39e+03  -1.0 1.33e+02    -  5.10e-02 9.33e-02h  1
+  57  1.3486176e+06 1.20e+01 6.52e+03  -1.0 1.61e+01  -1.3 2.42e-02 5.43e-03h  1
+  58  1.3504235e+06 1.17e+01 1.10e+04  -1.0 1.01e+02    -  1.17e-01 2.49e-02h  1
+  59  1.3504880e+06 1.17e+01 1.39e+04  -1.0 1.27e+01  -0.9 2.93e-02 8.84e-04h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  60  1.3519226e+06 1.15e+01 1.12e+04  -1.0 2.55e+01  -1.4 3.37e-03 1.72e-02h  1
+  61  1.3547844e+06 1.10e+01 8.53e+03  -1.0 2.07e+02    -  1.87e-02 4.56e-02h  1
+  62  1.3550938e+06 1.09e+01 8.70e+03  -1.0 3.73e+02    -  7.51e-03 5.74e-03h  1
+  63  1.3581553e+06 1.04e+01 7.20e+03  -1.0 2.21e+02    -  3.57e-02 4.82e-02h  2
+  64  1.3743450e+06 8.20e+00 8.14e+03  -1.0 5.54e+01    -  3.72e-02 2.11e-01h  1
+  65  1.3758179e+06 7.98e+00 1.38e+04  -1.0 1.50e+01  -0.9 8.24e-02 2.63e-02h  1
+  66  1.3831206e+06 6.97e+00 1.59e+04  -1.0 1.01e+02    -  1.82e-03 1.26e-01h  1
+  67  1.3869901e+06 6.46e+00 2.60e+04  -1.0 7.46e+00  -0.5 1.30e-02 7.43e-02h  1
+  68  1.3894682e+06 6.14e+00 4.02e+04  -1.0 6.12e+00  -0.1 2.86e-02 4.95e-02h  1
+  69  1.3905420e+06 6.02e+00 3.15e+04  -1.0 1.06e+01  -0.6 6.56e-02 1.96e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  70  1.3914915e+06 5.93e+00 3.31e+04  -1.0 2.83e+01  -1.0 4.50e-03 1.44e-02h  1
+  71  1.3922335e+06 5.87e+00 2.72e+04  -1.0 4.45e+01  -1.5 3.72e-02 1.05e-02h  1
+  72  1.3925559e+06 5.83e+00 7.60e+04  -1.0 7.17e+00  -0.2 1.24e-01 6.71e-03h  1
+  73  1.3924599e+06 5.82e+00 7.14e+04  -1.0 9.63e+03    -  4.94e-03 1.53e-03f  2
+  74  1.3956159e+06 5.49e+00 6.42e+04  -1.0 1.76e+01  -0.7 4.62e-03 5.62e-02h  1
+  75  1.3987720e+06 5.26e+00 6.19e+04  -1.0 1.74e+01  -1.1 1.11e-01 4.28e-02h  1
+  76  1.3989995e+06 5.23e+00 6.31e+04  -1.0 8.07e+00   0.2 1.08e-02 4.24e-03h  1
+  77  1.3995946e+06 5.19e+00 6.16e+04  -1.0 7.21e+00   0.6 1.07e-02 9.19e-03h  1
+  78  1.4038513e+06 4.90e+00 5.69e+04  -1.0 1.17e+01   0.1 6.50e-02 5.48e-02h  1
+  79  1.4071425e+06 4.68e+00 6.16e+04  -1.0 9.79e+00   0.6 2.57e-02 4.59e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  80  1.4072391e+06 4.67e+00 3.21e+05  -1.0 7.36e+00   1.0 8.51e-02 1.53e-03h  1
+  81  1.4077523e+06 4.63e+00 3.55e+05  -1.0 1.03e+01   0.5 2.99e-02 9.26e-03h  1
+  82  1.4090648e+06 4.56e+00 3.29e+05  -1.0 8.59e+00   0.9 3.67e-04 1.44e-02h  1
+  83  1.4096317e+06 4.55e+00 4.70e+05  -1.0 3.60e+01   1.4 1.05e-04 1.93e-03h  1
+  84  1.4103450e+06 4.55e+00 5.76e+05  -1.0 1.19e+02   0.9 1.25e-04 1.50e-03h  1
+  85  1.4103581e+06 4.54e+00 5.20e+05  -1.0 5.46e+00   0.4 4.17e-02 2.03e-04h  1
+  86  1.4106739e+06 4.51e+00 6.12e+05  -1.0 1.02e+01   0.8 3.08e-02 8.47e-03h  1
+  87  1.4112780e+06 4.44e+00 5.97e+05  -1.0 1.42e+01   0.4 1.16e-02 1.57e-02h  1
+  88  1.4115705e+06 4.40e+00 5.89e+05  -1.0 2.19e+01  -0.1 7.92e-02 7.20e-03h  1
+  89  1.4131597e+06 4.25e+00 5.21e+05  -1.0 2.05e+01  -0.6 1.30e-01 3.54e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  90  1.4145386e+06 4.10e+00 4.90e+05  -1.0 4.67e+01  -1.1 5.75e-02 3.42e-02h  1
+  91  1.4152923e+06 4.02e+00 4.39e+05  -1.0 3.04e+01  -0.6 1.35e-01 2.09e-02h  1
+  92  1.4191183e+06 3.54e+00 4.31e+05  -1.0 3.93e+01  -1.1 3.34e-02 1.18e-01h  1
+  93  1.4205077e+06 3.39e+00 3.88e+05  -1.0 1.81e+01   0.2 1.78e-02 4.47e-02h  1
+  94  1.4207279e+06 3.36e+00 3.88e+05  -1.0 1.17e+02  -0.3 3.95e-03 8.55e-03h  1
+  95  1.4208969e+06 3.34e+00 4.18e+05  -1.0 1.78e+01   0.2 6.22e-02 5.52e-03h  1
+  96  1.4246632e+06 2.99e+00 3.96e+05  -1.0 2.20e+01  -0.3 1.01e-02 1.04e-01h  1
+  97  1.4263531e+06 2.80e+00 2.81e+05  -1.0 2.57e+01  -0.8 2.25e-01 6.44e-02h  1
+  98  1.4264525e+06 2.79e+00 2.87e+05  -1.0 2.66e+01  -0.4 3.30e-02 3.42e-03h  1
+  99  1.4280891e+06 2.67e+00 2.34e+05  -1.0 1.93e+01   0.1 1.60e-03 4.42e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 100  1.4289495e+06 2.59e+00 3.19e+05  -1.0 1.52e+01   0.5 7.30e-02 2.82e-02h  1
+ 101  1.4299343e+06 2.50e+00 2.34e+05  -1.0 1.14e+01   0.9 1.83e-02 3.46e-02h  1
+ 102  1.4300943e+06 2.49e+00 4.26e+05  -1.0 1.54e+01   0.4 1.49e-01 5.71e-03h  1
+ 103  1.4342304e+06 2.17e+00 3.71e+05  -1.0 1.93e+01  -0.0 6.02e-03 1.26e-01h  1
+ 104  1.4353662e+06 2.10e+00 5.30e+05  -1.0 1.51e+01   0.4 1.28e-01 3.19e-02h  1
+ 105  1.4372260e+06 1.97e+00 4.32e+05  -1.0 1.85e+01  -0.1 4.90e-04 6.21e-02h  1
+ 106  1.4374026e+06 1.96e+00 8.88e+05  -1.0 9.29e+00   1.2 4.10e-02 6.00e-03h  1
+ 107  1.4375550e+06 1.95e+00 9.44e+05  -1.0 1.33e+01   0.8 1.25e-02 4.44e-03h  1
+ 108  1.4378351e+06 1.94e+00 9.34e+05  -1.0 1.79e+01   0.3 1.59e-03 4.49e-03h  1
+ 109  1.4413511e+06 1.77e+00 1.45e+06  -1.0 1.32e+01   0.7 1.83e-01 9.12e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 110  1.4415636e+06 1.76e+00 1.44e+06  -1.0 2.98e+01   0.2 1.17e-02 2.49e-03h  1
+ 111  1.4431434e+06 1.67e+00 1.13e+06  -1.0 1.28e+01   0.7 7.44e-03 4.94e-02h  1
+ 112  1.4445750e+06 1.61e+00 1.29e+06  -1.0 1.06e+01   1.1 5.11e-02 3.76e-02h  1
+ 113  1.4458407e+06 1.59e+00 1.25e+06  -1.0 3.31e+01   0.6 8.83e-03 1.63e-02h  1
+ 114  1.4488213e+06 1.47e+00 1.09e+06  -1.0 9.54e+00   1.0 6.70e-02 7.23e-02h  1
+ 115  1.4488693e+06 1.47e+00 3.79e+06  -1.0 8.61e+00   1.5 8.98e-02 1.30e-03h  1
+ 116  1.4498524e+06 1.43e+00 3.49e+06  -1.0 1.01e+01   1.0 5.31e-03 2.65e-02h  1
+ 117  1.4523396e+06 1.32e+00 2.37e+06  -1.0 9.47e+00   1.4 4.51e-02 7.42e-02h  1
+ 118  1.4529842e+06 1.31e+00 2.32e+06  -1.0 9.67e+00   0.9 6.50e-03 1.09e-02h  1
+ 119  1.4531859e+06 1.30e+00 6.62e+06  -1.0 7.96e+00   1.4 1.84e-01 4.99e-03h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 120  1.4553693e+06 1.22e+00 6.12e+06  -1.0 8.71e+00   0.9 9.45e-03 6.12e-02h  1
+ 121  1.4594232e+06 1.09e+00 6.39e+06  -1.0 7.56e+00   1.3 1.69e-01 1.13e-01h  1
+ 122  1.4599542e+06 1.07e+00 6.12e+06  -1.0 6.43e+00   1.7 1.48e-02 1.80e-02h  1
+ 123  1.4611320e+06 1.03e+00 6.77e+06  -1.0 7.75e+00   1.3 1.21e-01 3.24e-02h  1
+ 124  1.4621859e+06 9.99e-01 6.66e+06  -1.0 6.80e+00   0.8 8.38e-03 3.12e-02h  1
+ 125  1.4623493e+06 9.94e-01 7.44e+06  -1.0 6.23e+00   1.2 1.54e-01 5.09e-03h  1
+ 126  1.4639070e+06 9.34e-01 8.53e+06  -1.0 6.59e+00   1.6 1.07e-01 6.05e-02h  1
+ 127  1.4641377e+06 9.26e-01 7.71e+06  -1.0 5.76e+00   2.1 9.84e-04 8.79e-03h  1
+ 128  1.4659058e+06 8.73e-01 5.96e+06  -1.0 5.48e+00   1.6 2.86e-03 5.69e-02h  1
+ 129  1.4663621e+06 8.58e-01 2.71e+07  -1.0 5.12e+00   2.0 2.95e-01 1.69e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 130  1.4672847e+06 8.31e-01 2.62e+07  -1.0 5.54e+00   1.5 3.23e-02 3.13e-02h  1
+ 131  1.4676134e+06 8.21e-01 2.81e+07  -1.0 5.10e+00   2.0 6.65e-02 1.29e-02h  1
+ 132  1.4682223e+06 8.00e-01 4.33e+07  -1.0 5.02e+00   2.4 1.13e-01 2.53e-02h  1
+ 133  1.4705419e+06 7.30e-01 3.93e+07  -1.0 4.92e+00   1.9 6.18e-02 8.69e-02h  1
+ 134  1.4730210e+06 6.53e-01 2.75e+07  -1.0 4.41e+00   2.3 3.51e-02 1.06e-01h  1
+ 135  1.4737040e+06 6.31e-01 6.60e+07  -1.0 3.78e+00   2.8 1.52e-01 3.29e-02h  1
+ 136  1.4737305e+06 6.30e-01 6.68e+07  -1.0 4.26e+00   2.3 4.13e-02 1.29e-03h  1
+ 137  1.4742074e+06 6.13e-01 9.04e+07  -1.0 4.44e+00   2.7 1.17e-01 2.70e-02h  1
+ 138  1.4757168e+06 5.63e-01 1.19e+07  -1.0 4.15e+00   3.1 1.22e-03 8.30e-02h  1
+ 139  1.4765311e+06 5.36e-01 2.91e+07  -1.0 3.66e+00   3.6 5.48e-02 4.71e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 140  1.4765416e+06 5.36e-01 8.07e+08  -1.0 3.56e+00   4.0 1.30e-01 6.29e-04h  1
+ 141  1.4767947e+06 5.27e-01 4.63e+09  -1.0 3.63e+00   4.4 2.55e-01 1.59e-02h  1
+ 142  1.4782106e+06 4.82e-01 4.24e+09  -1.0 3.60e+00   3.9 1.09e-01 8.66e-02h  1
+ 143  1.4782785e+06 4.79e-01 7.75e+09  -1.0 3.24e+00   4.4 4.27e-01 4.68e-03h  1
+ 144  1.4791748e+06 4.50e-01 1.10e+10  -1.0 3.24e+00   4.8 1.99e-01 6.15e-02h  1
+ 145  1.4801058e+06 4.19e-01 4.01e+10  -1.0 3.00e+00   5.2 4.68e-01 6.96e-02h  1
+ 146  1.4801064e+06 4.19e-01 3.88e+10  -1.0 3.41e+00   4.7 5.04e-02 5.27e-05h  1
+ 147  1.4806257e+06 4.02e-01 4.32e+10  -1.0 2.75e+00   5.2 2.84e-01 3.99e-02h  1
+ 148  1.4806321e+06 4.02e-01 4.30e+10  -1.0 2.81e+00   4.7 5.93e-03 7.31e-04h  1
+ 149  1.4809935e+06 3.90e-01 4.16e+10  -1.0 2.62e+00   5.1 4.20e-04 2.92e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 150  1.4810040e+06 3.90e-01 4.06e+10  -1.0 2.49e+00   4.6 2.81e-02 7.35e-04h  1
+ 151  1.4810913e+06 3.87e-01 4.79e+10  -1.0 2.86e+00   5.1 6.63e-01 5.95e-03h  1
+ 152  1.4816727e+06 3.73e-01 4.63e+10  -1.0 2.63e+00   4.6 3.37e-02 3.74e-02h  1
+ 153  1.4817275e+06 3.71e-01 4.50e+10  -1.0 2.70e+00   5.0 2.21e-01 4.03e-03h  1
+ 154  1.4827788e+06 3.44e-01 4.04e+10  -1.0 2.43e+00   4.5 1.04e-01 7.39e-02h  1
+ 155  1.4827956e+06 3.43e-01 3.20e+10  -1.0 2.52e+00   5.0 8.88e-01 1.42e-03h  1
+ 156  1.4848590e+06 2.75e-01 3.15e+10  -1.0 2.68e+00   4.5 7.33e-03 1.98e-01h  1
+ 157  1.4852617e+06 2.64e-01 3.07e+10  -1.0 2.03e+00   4.9 1.23e-04 4.27e-02h  1
+ 158  1.4876002e+06 2.08e-01 3.13e+10  -1.0 1.53e+00   4.4 2.44e-02 2.11e-01h  1
+ 159  1.4884391e+06 1.85e-01 2.08e+10  -1.0 1.35e+00   4.8 3.82e-01 1.12e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 160  1.4890500e+06 1.70e-01 1.57e+10  -1.0 1.08e+00   4.4 1.88e-01 8.00e-02h  1
+ 161  1.4890544e+06 1.70e-01 8.12e+09  -1.0 1.05e+00   4.8 4.72e-01 7.43e-04h  1
+ 162  1.4894950e+06 1.59e-01 4.04e+09  -1.0 1.09e+00   4.3 2.55e-01 6.44e-02h  1
+ 163  1.4895016e+06 1.59e-01 3.88e+09  -1.0 9.84e-01   4.7 2.73e-02 1.31e-03h  1
+ 164  1.4895016e+06 1.59e-01 5.28e+09  -1.0 1.11e+00   5.2 8.93e-02 1.20e-05h  1
+ 165  1.4899051e+06 1.39e-01 5.44e+09  -1.0 1.18e+00   4.7 1.48e-03 1.26e-01h  1
+ 166  1.4901848e+06 1.26e-01 4.31e+09  -1.0 1.04e+00   5.1 2.31e-02 9.39e-02h  1
+ 167  1.4906546e+06 1.04e-01 4.94e+09  -1.0 8.87e-01   4.6 4.51e-02 1.75e-01h  1
+ 168  1.4906596e+06 1.04e-01 4.85e+09  -1.0 7.57e-01   5.1 2.07e-01 2.24e-03h  1
+ 169  1.4906898e+06 1.02e-01 4.41e+09  -1.0 7.40e-01   4.6 4.62e-02 1.63e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 170  1.4908717e+06 9.18e-02 4.05e+09  -1.0 7.65e-01   5.0 4.79e-02 9.80e-02h  1
+ 171  1.4915438e+06 5.50e-02 6.72e+09  -1.0 6.41e-01   4.5 6.45e-02 4.01e-01h  1
+ 172  1.4915693e+06 5.36e-02 2.87e+09  -1.0 3.99e-01   5.0 4.33e-01 2.51e-02h  1
+ 173  1.4921247e+06 2.39e-02 3.50e+09  -1.0 3.69e-01   4.5 3.35e-01 5.54e-01h  1
+ 174  1.4921853e+06 2.01e-02 4.15e+09  -1.0 1.41e-01   4.0 1.87e-02 1.58e-01f  1
+ 175  1.4924975e+06 2.48e-03 2.97e+08  -1.0 1.39e-01   4.4 9.03e-01 8.76e-01f  1
+ 176  1.4924979e+06 2.35e-03 1.08e+09  -1.0 1.72e-02   4.0 9.62e-01 5.19e-02f  1
+ 177  1.4924971e+06 1.78e-03 6.00e+08  -1.0 8.48e-02   3.5 5.89e-02 2.44e-01f  1
+ 178  1.4925383e+06 1.38e-06 8.44e+06  -1.0 1.84e-02   3.9 7.73e-01 1.00e+00f  1
+ 179  1.4924160e+06 4.78e-06 4.51e+06  -1.0 9.62e-03   3.4 7.93e-01 1.00e+00f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 180  1.4921527e+06 1.71e-05 6.94e+05  -1.0 2.67e-02   3.0 8.23e-01 8.70e-01f  1
+ 181  1.4917351e+06 7.98e-05 1.98e+05  -1.0 4.63e-02   2.5 7.18e-01 7.14e-01f  1
+ 182  1.4912742e+06 1.17e-04 3.61e+05  -1.0 7.77e-02   2.0 8.04e-01 3.82e-01f  1
+ 183  1.4903428e+06 6.26e-04 2.61e+05  -1.0 1.84e-01   1.5 7.13e-01 4.89e-01f  1
+ 184  1.4891400e+06 1.00e-03 3.27e+04  -1.0 2.75e-01   1.0 2.22e-01 6.00e-01f  1
+ 185  1.4868818e+06 1.69e-02 1.06e+04  -1.0 1.02e+00   0.6 2.76e-01 2.08e-01f  1
+ 186  1.4847010e+06 2.20e-02 1.69e+04  -1.0 1.43e+01   0.1 2.39e-03 3.76e-02f  1
+ 187  1.4839253e+06 2.08e-02 2.58e+04  -1.0 1.28e+00   0.5 1.51e-01 6.22e-02f  1
+ 188  1.4832467e+06 2.06e-02 3.45e+04  -1.0 8.91e+00   0.0 6.57e-02 1.31e-02f  1
+ 189  1.4829230e+06 1.91e-02 5.65e+04  -1.0 5.06e-01   0.5 1.56e-01 7.32e-02f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 190  1.4811755e+06 1.05e-02 1.85e+04  -1.0 4.83e-01   0.9 3.34e-01 4.51e-01f  1
+ 191  1.4803342e+06 1.04e-02 2.38e+04  -1.0 1.25e+00   0.4 1.32e-01 6.85e-02f  1
+ 192  1.4783198e+06 2.07e-02 1.76e+04  -1.0 7.20e+00  -0.1 1.41e-02 7.38e-02f  1
+ 193  1.4765931e+06 1.46e-02 1.38e+04  -1.0 8.64e-01   0.4 1.44e-01 3.00e-01f  1
+ 194  1.4759568e+06 1.42e-02 4.04e+03  -1.0 3.96e+00  -0.1 1.59e-01 2.64e-02f  1
+ 195  1.4707483e+06 4.09e-02 3.74e+04  -1.0 1.55e+00   0.3 2.08e-01 6.78e-01f  1
+ 196  1.4696490e+06 3.92e-02 2.65e+04  -1.0 4.36e+00  -0.2 1.31e-01 4.26e-02f  1
+ 197  1.4690516e+06 3.35e-02 1.51e+04  -1.0 7.25e-01   0.3 1.98e-01 1.44e-01f  1
+ 198  1.4664653e+06 2.79e-02 2.66e+04  -1.0 4.14e+00  -0.2 4.25e-02 1.68e-01f  1
+ 199  1.4626920e+06 3.07e-02 3.86e+04  -1.0 1.75e+00   0.2 2.25e-01 6.22e-01f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 200  1.4609661e+06 2.78e-02 3.56e+04  -1.0 3.14e+00  -0.3 8.69e-02 9.50e-02f  1
+ 201  1.4593987e+06 1.82e-02 3.57e+04  -1.0 1.57e+00   0.2 2.10e-01 3.45e-01f  1
+ 202  1.4559667e+06 3.41e-02 3.47e+04  -1.0 6.35e+00  -0.3 7.09e-02 1.93e-01f  1
+ 203  1.4549722e+06 2.62e-02 2.42e+04  -1.0 1.21e+00   0.1 2.60e-01 2.30e-01f  1
+ 204  1.4539101e+06 2.38e-02 1.08e+04  -1.0 4.69e+00  -0.4 4.96e-01 9.20e-02f  1
+ 205  1.4534410e+06 1.32e-02 1.27e+04  -1.0 6.84e-01   0.1 6.01e-01 4.47e-01f  1
+ 206  1.4520598e+06 2.15e-02 4.72e+03  -1.0 1.70e+00  -0.4 1.50e-01 2.89e-01f  1
+ 207  1.4506678e+06 1.78e-02 5.28e+03  -1.0 3.73e+00  -0.9 2.01e-01 1.80e-01f  1
+ 208  1.4491632e+06 2.10e-02 1.12e+04  -1.0 1.47e+01  -1.4 1.58e-01 6.13e-02f  1
+ 209  1.4470119e+06 1.94e-02 7.83e+03  -1.0 1.39e+01  -1.8 3.20e-02 7.55e-02f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 210  1.4458006e+06 2.03e-02 7.85e+03  -1.0 9.54e+01  -2.3 1.23e-02 1.10e-02f  1
+ 211  1.4445231e+06 1.95e-02 8.32e+03  -1.0 1.67e+01  -1.9 5.66e-02 3.62e-02f  1
+ 212  1.4411095e+06 2.15e-02 7.04e+03  -1.0 8.13e+01  -2.4 1.48e-02 3.21e-02f  1
+ 213  1.4400578e+06 2.16e-02 8.89e+03  -1.0 3.04e+01  -2.0 5.82e-02 2.89e-02f  1
+ 214  1.4389690e+06 4.68e-02 1.08e+04  -1.0 3.12e+02  -2.4 1.52e-02 5.29e-03f  1
+ 215  1.4350180e+06 6.16e-02 1.82e+02  -1.0 1.69e+01  -2.0 3.46e-02 2.07e-01f  1
+ 216  1.4336558e+06 6.14e-02 3.22e+02  -1.0 4.42e+02  -2.5 1.12e-02 8.08e-03f  1
+ 217  1.4331190e+06 5.95e-02 3.44e+03  -1.0 1.66e+01  -2.1 8.15e-02 3.14e-02f  1
+ 218  1.4311356e+06 5.61e-02 1.28e+03  -1.0 9.00e+00  -1.6 9.42e-02 1.83e-01f  1
+ 219  1.4309430e+06 3.88e-02 4.62e+03  -1.0 7.70e-01  -0.3 1.00e+00 3.09e-01f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 220  1.4303051e+06 2.62e-02 3.48e+03  -1.0 1.63e+00  -0.8 3.89e-01 3.26e-01f  1
+ 221  1.4289542e+06 1.06e-02 2.79e+03  -1.0 3.33e+00  -1.3 3.87e-01 6.07e-01f  1
+ 222  1.4279551e+06 1.71e-02 2.74e+03  -1.0 1.27e+05    -  1.18e-04 1.06e-04f  1
+ 223  1.4271108e+06 9.97e-02 1.58e+01  -1.0 7.47e+00  -1.7 3.26e-01 2.12e-01f  1
+ 224  1.4258956e+06 1.91e-02 5.77e+02  -1.0 1.47e+01  -2.2 1.64e-01 2.00e-01f  1
+ 225  1.4252104e+06 7.30e-03 2.91e+01  -1.0 4.44e-01   0.0 1.00e+00 1.00e+00f  1
+ 226  1.4245573e+06 1.11e-02 7.66e+03  -1.0 1.46e+01   0.5 1.24e-02 8.27e-03f  1
+ 227  1.4246165e+06 6.11e-03 1.49e+04  -1.0 1.80e-01  -0.0 1.00e+00 4.64e-01f  1
+ 228  1.4245723e+06 1.95e-03 4.26e+03  -1.0 5.38e-01  -0.5 1.00e+00 7.03e-01f  1
+ 229  1.4242670e+06 2.31e-03 2.77e+00  -1.0 1.28e+00  -1.0 1.00e+00 1.00e+00f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 230  1.4235934e+06 1.31e-02 2.21e+03  -1.0 3.28e+00  -1.5 1.00e+00 5.77e-01f  1
+ 231  1.4222733e+06 2.86e-02 1.86e+03  -1.0 7.82e+00  -1.9 5.20e-01 8.37e-01f  1
+ 232  1.4212823e+06 5.06e-02 5.83e+02  -1.0 2.15e+01  -2.4 4.18e-01 2.35e-01f  1
+ 233  1.4204417e+06 6.78e-02 4.73e+02  -1.0 4.91e+02  -2.9 1.47e-02 1.76e-02f  1
+ 234  1.4199519e+06 6.04e-02 1.30e+03  -1.0 2.43e+01  -2.5 2.08e-01 1.13e-01f  1
+ 235  1.4172354e+06 7.28e-02 2.30e+03  -1.0 1.37e+02  -2.9 1.40e-03 1.41e-01f  1
+ 236  1.4155448e+06 6.57e-02 1.81e+03  -1.0 3.00e+01  -2.5 5.68e-01 2.30e-01f  1
+ 237  1.4134318e+06 8.77e-02 1.73e+03  -1.0 2.11e+02  -3.0 4.13e-02 4.76e-02f  1
+ 238  1.4128550e+06 5.27e-02 1.02e+03  -1.0 4.11e+00  -1.7 9.41e-01 4.07e-01f  1
+ 239  1.4129065e+06 1.58e-02 7.16e+02  -1.0 3.44e+00  -1.2 8.58e-01 9.82e-01f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 240  1.4127727e+06 1.84e-03 9.61e-02  -1.0 5.20e-01  -0.8 1.00e+00 1.00e+00f  1
+ 241  1.4109501e+06 1.11e-03 2.06e+02  -1.7 1.47e+00  -1.3 4.61e-01 4.93e-01f  1
+ 242  1.4090759e+06 2.74e-02 2.58e+02  -1.7 3.86e+00  -1.8 4.65e-01 6.27e-01f  1
+ 243  1.4085338e+06 2.35e-02 2.43e+02  -1.7 1.04e+01  -2.2 4.18e-01 2.21e-01f  1
+ 244  1.4079959e+06 2.53e-02 4.54e+02  -1.7 2.41e+01  -2.7 2.17e-01 1.29e-01f  1
+ 245  1.4072781e+06 4.42e-02 3.20e+02  -1.7 5.32e+01  -3.2 8.60e-02 1.10e-01f  1
+ 246  1.4062644e+06 7.33e-02 4.65e+02  -1.7 1.07e+02  -3.7 1.45e-01 1.04e-01f  1
+ 247  1.4059761e+06 6.97e-02 1.44e+02  -1.7 5.64e+01  -3.2 1.67e-01 5.12e-02f  1
+ 248  1.4052742e+06 5.45e-02 1.19e+02  -1.7 2.73e+01  -2.8 7.48e-01 3.11e-01f  1
+ 249  1.4050493e+06 3.00e-02 2.91e+02  -1.7 1.50e+00  -1.5 1.00e+00 5.62e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 250  1.4046768e+06 5.19e-02 6.69e+01  -1.7 4.22e+02    -  2.17e-02 3.87e-02f  1
+ 251  1.4044821e+06 5.72e-01 8.58e+02  -1.7 2.02e+02    -  1.23e-01 4.17e-02f  1
+ 252  1.4042972e+06 5.29e-01 8.08e+02  -1.7 2.49e+02    -  4.60e-03 2.74e-02f  1
+ 253  1.4040430e+06 2.30e-01 4.15e+01  -1.7 9.35e+01    -  9.71e-02 2.06e-01f  1
+ 254  1.4039644e+06 5.38e-02 5.35e+02  -1.7 2.92e+01    -  4.38e-01 2.66e-01h  1
+ 255  1.4039167e+06 1.12e-02 6.99e+01  -1.7 1.68e+00  -2.0 1.00e+00 8.28e-01h  1
+ 256  1.4038750e+06 1.52e-02 1.90e+01  -1.7 2.87e+01    -  2.02e-01 2.28e-01h  1
+ 257  1.4038539e+06 7.88e-03 2.74e+02  -1.7 1.27e+01    -  3.43e-01 5.53e-01h  1
+ 258  1.4038134e+06 1.43e-02 2.52e+01  -1.7 2.70e+01    -  1.00e+00 4.01e-01h  1
+ 259  1.4038430e+06 9.20e-04 2.97e-02  -1.7 6.88e-01    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 260  1.4030010e+06 2.03e-02 8.03e+01  -2.5 6.45e+00    -  4.84e-01 7.83e-01f  1
+ 261  1.4027271e+06 4.07e-03 2.69e+02  -2.5 4.74e+00    -  2.48e-01 9.94e-01h  1
+ 262  1.4027153e+06 1.45e-03 2.28e+02  -2.5 1.35e+00    -  4.48e-01 6.69e-01h  1
+ 263  1.4027042e+06 2.67e-04 6.22e-03  -2.5 8.81e-01    -  1.00e+00 1.00e+00h  1
+ 264  1.4026686e+06 3.51e-04 1.27e+02  -3.8 2.93e+00    -  6.87e-01 2.03e-01f  1
+ 265  1.4025768e+06 5.19e-03 3.55e+01  -3.8 3.28e+00    -  5.51e-01 7.14e-01f  1
+ 266  1.4025433e+06 4.29e-03 2.85e+00  -3.8 1.97e+00    -  7.73e-01 9.15e-01h  1
+ 267  1.4025402e+06 9.33e-04 7.98e-04  -3.8 6.20e-01    -  1.00e+00 1.00e+00h  1
+ 268  1.4025401e+06 2.35e-05 3.37e-05  -3.8 5.91e-02    -  1.00e+00 1.00e+00h  1
+ 269  1.4025334e+06 2.81e-04 1.46e-01  -5.7 6.66e-01    -  7.50e-01 7.36e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+ 270  1.4025314e+06 2.88e-04 2.63e-02  -5.7 2.75e-01    -  8.48e-01 8.47e-01h  1
+ 271  1.4025310e+06 4.86e-05 8.85e-06  -5.7 9.23e-02    -  1.00e+00 1.00e+00h  1
+ 272  1.4025310e+06 1.20e-06 1.00e-06  -5.7 2.26e-02    -  1.00e+00 1.00e+00h  1
+ 273  1.4025310e+06 3.27e-08 4.82e-08  -5.7 2.41e-03    -  1.00e+00 1.00e+00h  1
+ 274  1.4025309e+06 1.50e-06 1.91e-02  -8.6 1.92e-02    -  8.35e-01 9.88e-01h  1
+ 275  1.4025309e+06 1.51e-05 1.31e-03  -8.6 7.42e-03    -  9.38e-01 1.00e+00h  1
+ 276  1.4025309e+06 4.04e-08 3.86e-07  -8.6 1.05e-02    -  1.00e+00 1.00e+00H  1
+ 277  1.4025309e+06 2.34e-06 1.54e-09  -8.6 2.95e-03    -  1.00e+00 1.00e+00h  1
+ 278  1.4025309e+06 1.88e-08 1.52e-10  -8.6 2.67e-04    -  1.00e+00 1.00e+00h  1
+ 279  1.4025309e+06 5.77e-12 1.76e-10  -8.6 2.28e-06    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 279
+
+                                   (scaled)                 (unscaled)
+Objective...............:   1.0834426501232476e+04    1.4025308661996580e+06
+Dual infeasibility......:   1.7605437349674128e-10    2.2790471921198043e-08
+Constraint violation....:   1.3704679752146731e-12    5.7696070143720135e-12
+Complementarity.........:   2.5070272844220890e-09    3.2453800377959126e-07
+Overall NLP error.......:   2.5070272844220890e-09    3.2453800377959126e-07
+
+
+Number of objective function evaluations             = 346
+Number of objective gradient evaluations             = 280
+Number of equality constraint evaluations            = 346
+Number of inequality constraint evaluations          = 346
+Number of equality constraint Jacobian evaluations   = 282
+Number of inequality constraint Jacobian evaluations = 282
+Number of Lagrangian Hessian evaluations             = 279
+Total CPU secs in IPOPT (w/o function evaluations)   =    171.351
+Total CPU secs in NLP function evaluations           =      4.595
+
+EXIT: Optimal Solution Found.
+Time to Solution........:85.59784197807312
