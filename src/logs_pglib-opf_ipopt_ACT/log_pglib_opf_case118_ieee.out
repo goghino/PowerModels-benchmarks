@@ -1,0 +1,139 @@
+cases/pglib-opf/pglib_opf_case118_ieee.m
+ipopt
+ACT
+[info | PowerModels]: removing 3 cost terms from generator 32: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 29: [3266.8781000000004, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 1: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 54: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 2: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 41: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 51: [3504.3401000000003, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 53: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 27: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 42: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 33: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 28: [3478.1778000000004, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 50: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 52: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 26: [1605.6042000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 10: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 24: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 25: [2486.1868, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 23: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 49: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 5: [2498.342, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 31: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 43: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 39: [3407.2633000000005, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 34: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 44: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 17: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 37: [2460.0771999999997, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 47: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 9: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 12: [2222.098, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 20: [2420.2306, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [12458.1564, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 14: [2599.3982, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 7: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 8: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 19: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 4: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 22: [2727.7342999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [2894.8321, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 35: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 13: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 15: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 16: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 40: [2460.5101999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 21: [1667.3942, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 38: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 46: [2864.9471, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 45: [1261.217, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 36: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 48: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 18: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 30: [2575.8442, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 3: Float64[]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:     5186
+Number of nonzeros in inequality constraint Jacobian.:     1460
+Number of nonzeros in Lagrangian Hessian.............:     2355
+
+Total number of variables............................:     1411
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:     1293
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:     1339
+Total number of inequality constraints...............:      730
+        inequality constraints with only lower bounds:      179
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:      551
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  4.7812282e+02 2.76e+00 1.00e+02  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  3.4578035e+04 1.99e+00 1.76e+02  -1.0 2.81e+00    -  3.64e-03 2.79e-01h  1
+   2  3.2278417e+04 1.89e+00 1.67e+02  -1.0 1.27e+01    -  3.93e-02 5.21e-02f  1
+   3  3.2815962e+04 1.86e+00 1.65e+02  -1.0 8.61e+00    -  3.08e-01 1.28e-02h  1
+   4  4.0481300e+04 1.58e+00 1.41e+02  -1.0 8.85e+00    -  3.20e-01 1.53e-01h  1
+   5  4.9818889e+04 1.28e+00 1.16e+02  -1.0 1.09e+01    -  6.25e-01 1.91e-01h  1
+   6  7.4072263e+04 5.74e-01 5.96e+01  -1.0 1.31e+01    -  8.30e-01 5.50e-01H  1
+   7  8.8801592e+04 1.99e-01 2.49e+01  -1.0 1.32e+01    -  7.82e-01 6.53e-01h  1
+   8  9.2395641e+04 1.15e-01 1.47e+01  -1.0 7.98e+00    -  7.13e-01 4.21e-01h  1
+   9  9.6504708e+04 2.60e-02 1.09e+01  -1.0 6.30e+00    -  3.81e-01 7.75e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  9.7561572e+04 4.35e-03 1.24e+00  -1.0 4.07e+00    -  1.00e+00 8.32e-01h  1
+  11  9.7846181e+04 1.68e-04 9.76e+00  -1.0 1.15e+00    -  6.28e-01 1.00e+00h  1
+  12  9.7826078e+04 4.67e-05 3.51e-01  -1.0 6.71e-01    -  1.00e+00 1.00e+00h  1
+  13  9.7585112e+04 2.84e-04 6.02e-01  -1.7 6.78e+00    -  9.13e-01 7.19e-01f  1
+  14  9.7436346e+04 3.18e-04 1.43e+00  -1.7 2.56e+00    -  1.00e+00 1.00e+00h  1
+  15  9.7422248e+04 3.94e-06 1.26e-02  -1.7 2.96e-01    -  1.00e+00 1.00e+00h  1
+  16  9.7319698e+04 9.99e-05 7.06e-01  -3.8 1.41e+00    -  6.61e-01 6.56e-01f  1
+  17  9.7280239e+04 6.88e-05 6.79e-01  -3.8 5.50e+00    -  6.22e-01 3.49e-01f  1
+  18  9.7243064e+04 7.08e-05 1.15e+00  -3.8 4.83e+00    -  7.40e-01 4.75e-01h  1
+  19  9.7221046e+04 7.11e-05 7.62e-01  -3.8 2.83e+00    -  7.79e-01 5.79e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  9.7215391e+04 4.39e-05 6.03e-01  -3.8 8.32e-01    -  1.00e+00 5.40e-01h  1
+  21  9.7214159e+04 1.02e-05 3.41e-02  -3.8 1.48e-01    -  1.00e+00 1.00e+00h  1
+  22  9.7214614e+04 1.06e-07 2.17e-04  -3.8 6.57e-03    -  1.00e+00 1.00e+00h  1
+  23  9.7213850e+04 4.81e-07 6.04e-02  -5.7 6.75e-02    -  9.14e-01 7.30e-01h  1
+  24  9.7213615e+04 1.65e-07 3.39e-04  -5.7 1.71e-02    -  1.00e+00 1.00e+00h  1
+  25  9.7213619e+04 3.99e-09 2.08e-05  -5.7 3.14e-03    -  1.00e+00 1.00e+00h  1
+  26  9.7213619e+04 5.64e-10 2.96e-06  -5.7 1.18e-03    -  1.00e+00 1.00e+00h  1
+  27  9.7213607e+04 8.21e-10 1.37e-05  -8.6 1.43e-03    -  9.92e-01 9.96e-01h  1
+  28  9.7213607e+04 1.70e-10 8.92e-07  -8.6 6.48e-04    -  1.00e+00 1.00e+00h  1
+  29  9.7213607e+04 2.26e-11 1.19e-07  -8.6 2.36e-04    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  30  9.7213607e+04 7.27e-13 3.82e-09  -8.6 4.24e-05    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 30
+
+                                   (scaled)                 (unscaled)
+Objective...............:   7.8032097092586980e+02    9.7213606979943390e+04
+Dual infeasibility......:   3.8175681811004181e-09    4.7559861467812531e-07
+Constraint violation....:   7.2675199191962747e-13    7.2675199191962747e-13
+Complementarity.........:   2.9841144399440634e-09    3.7176564408321551e-07
+Overall NLP error.......:   3.8175681811004181e-09    4.7559861467812531e-07
+
+
+Number of objective function evaluations             = 32
+Number of objective gradient evaluations             = 31
+Number of equality constraint evaluations            = 32
+Number of inequality constraint evaluations          = 32
+Number of equality constraint Jacobian evaluations   = 31
+Number of inequality constraint Jacobian evaluations = 31
+Number of Lagrangian Hessian evaluations             = 30
+Total CPU secs in IPOPT (w/o function evaluations)   =      1.675
+Total CPU secs in NLP function evaluations           =      2.327
+
+EXIT: Optimal Solution Found.
+Time to Solution........:4.7439048290252686
