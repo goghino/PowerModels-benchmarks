@@ -733,23 +733,23 @@ iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
   54  7.4381725e+06 1.30e-05 3.29e+00  -5.7 4.13e-01    -  8.86e-01 1.48e-01h  1
   55  7.4381698e+06 2.84e-06 2.60e-01  -5.7 4.47e-01    -  1.00e+00 9.59e-01h  1
   56  7.4381697e+06 8.41e-08 1.55e-06  -5.7 1.40e-01    -  1.00e+00 1.00e+00h  1
-  57  7.4381697e+06 3.38e-09 7.17e-08  -5.7 2.52e-02    -  1.00e+00 1.00e+00h  1
-  58  7.4381697e+06 9.90e-12 7.07e-10  -5.7 1.37e-03    -  1.00e+00 1.00e+00h  1
+  57  7.4381697e+06 3.37e-09 7.17e-08  -5.7 2.52e-02    -  1.00e+00 1.00e+00h  1
+  58  7.4381697e+06 7.60e-12 7.76e-10  -5.7 1.37e-03    -  1.00e+00 1.00e+00h  1
   59  7.4381694e+06 5.17e-08 1.04e-01  -8.6 1.06e-01    -  9.66e-01 9.02e-01f  1
 iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
-  60  7.4381694e+06 2.15e-08 4.10e-07  -8.6 6.19e-02    -  1.00e+00 1.00e+00h  1
+  60  7.4381694e+06 2.15e-08 4.11e-07  -8.6 6.19e-02    -  1.00e+00 1.00e+00h  1
   61  7.4381694e+06 4.41e-09 8.35e-08  -8.6 2.81e-02    -  1.00e+00 1.00e+00h  1
-  62  7.4381694e+06 7.83e-10 1.48e-08  -8.6 1.18e-02    -  1.00e+00 1.00e+00h  1
-  63  7.4381694e+06 6.20e-11 1.29e-09  -8.6 3.27e-03    -  1.00e+00 1.00e+00h  1
+  62  7.4381694e+06 7.85e-10 1.49e-08  -8.6 1.18e-02    -  1.00e+00 1.00e+00h  1
+  63  7.4381694e+06 5.90e-11 1.30e-09  -8.6 3.27e-03    -  1.00e+00 1.00e+00h  1
 
 Number of Iterations....: 63
 
                                    (scaled)                 (unscaled)
-Objective...............:   3.0958833817164930e+04    7.4381694129120456e+06
-Dual infeasibility......:   1.2908668020390320e-09    3.1014365785789781e-07
-Constraint violation....:   1.2037621627005618e-12    6.2035043768560172e-11
-Complementarity.........:   3.2621109857491061e-09    7.8375478543608020e-07
-Overall NLP error.......:   3.2621109857491061e-09    7.8375478543608020e-07
+Objective...............:   3.0958833817165098e+04    7.4381694129120857e+06
+Dual infeasibility......:   1.2951324570626991e-09    3.1116852413388408e-07
+Constraint violation....:   1.1928766109812828e-12    5.9045879297059400e-11
+Complementarity.........:   3.2621109816952147e-09    7.8375478446209226e-07
+Overall NLP error.......:   3.2621109816952147e-09    7.8375478446209226e-07
 
 
 Number of objective function evaluations             = 64
@@ -759,8 +759,8 @@ Number of inequality constraint evaluations          = 64
 Number of equality constraint Jacobian evaluations   = 64
 Number of inequality constraint Jacobian evaluations = 64
 Number of Lagrangian Hessian evaluations             = 63
-Total CPU secs in IPOPT (w/o function evaluations)   =     42.814
-Total CPU secs in NLP function evaluations           =     25.800
+Total CPU secs in IPOPT (w/o function evaluations)   =     17.474
+Total CPU secs in NLP function evaluations           =     10.117
 
 EXIT: Optimal Solution Found.
-Time to Solution........:31.305600881576538
+Time to Solution........:28.6614191532135

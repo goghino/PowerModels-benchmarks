@@ -1036,11 +1036,11 @@ iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
 Number of Iterations....: 86
 
                                    (scaled)                 (unscaled)
-Objective...............:   1.4076869019285004e+04    2.0096053046873705e+06
-Dual infeasibility......:   3.4370736628849336e-09    4.9067455668388714e-07
-Constraint violation....:   3.7233417043980310e-10    3.7233417043980310e-10
-Complementarity.........:   2.2154831441199362e-09    3.1628103328725991e-07
-Overall NLP error.......:   3.4370736628849336e-09    4.9067455668388714e-07
+Objective...............:   1.4076869019285177e+04    2.0096053046873952e+06
+Dual infeasibility......:   3.4370310306736566e-09    4.9066847053519766e-07
+Constraint violation....:   3.7233813948711614e-10    3.7233813948711614e-10
+Complementarity.........:   2.2154831449290165e-09    3.1628103340276370e-07
+Overall NLP error.......:   3.4370310306736566e-09    4.9066847053519766e-07
 
 
 Number of objective function evaluations             = 139
@@ -1050,8 +1050,8 @@ Number of inequality constraint evaluations          = 139
 Number of equality constraint Jacobian evaluations   = 89
 Number of inequality constraint Jacobian evaluations = 89
 Number of Lagrangian Hessian evaluations             = 86
-Total CPU secs in IPOPT (w/o function evaluations)   =     43.998
-Total CPU secs in NLP function evaluations           =     32.971
+Total CPU secs in IPOPT (w/o function evaluations)   =     21.945
+Total CPU secs in NLP function evaluations           =     13.886
 
 EXIT: Optimal Solution Found.
-Time to Solution........:39.020275831222534
+Time to Solution........:36.88900399208069

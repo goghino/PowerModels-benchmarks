@@ -1135,17 +1135,17 @@ iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
   52  2.0523867e+06 6.79e-08 6.48e-02  -8.6 8.05e-04    -  1.00e+00 9.90e-01f  1
   53  2.0523867e+06 4.94e-08 1.81e-01  -8.6 1.95e-04  -4.0 1.00e+00 2.50e-01f  3
   54  2.0523867e+06 7.32e-10 4.80e-06  -8.6 2.09e-04  -4.5 1.00e+00 1.00e+00h  1
-  55  2.0523867e+06 3.79e-11 3.32e-07  -8.6 2.24e-05  -5.0 1.00e+00 1.00e+00h  1
-  56  2.0523867e+06 1.62e-10 1.13e-09  -8.6 7.29e-05    -  1.00e+00 1.00e+00h  1
+  55  2.0523867e+06 3.61e-11 3.11e-07  -8.6 2.24e-05  -5.0 1.00e+00 1.00e+00h  1
+  56  2.0523867e+06 2.15e-11 8.03e-10  -8.6 2.39e-05  -5.4 1.00e+00 1.00e+00h  1
 
 Number of Iterations....: 56
 
                                    (scaled)                 (unscaled)
-Objective...............:   1.6031020698455814e+04    2.0523867185135521e+06
-Dual infeasibility......:   1.1339273005405489e-09    1.4517212441834851e-07
-Constraint violation....:   1.6195970259369474e-10    1.6195970259369474e-10
-Complementarity.........:   2.5060082526167428e-09    3.2083409727313153e-07
-Overall NLP error.......:   2.5060082526167428e-09    3.2083409727313153e-07
+Objective...............:   1.6031020698455917e+04    2.0523867185135654e+06
+Dual infeasibility......:   8.0269223827926363e-10    1.0276543957409806e-07
+Constraint violation....:   6.7650537949326406e-12    2.1495971669338587e-11
+Complementarity.........:   2.5060082509999799e-09    3.2083409706614394e-07
+Overall NLP error.......:   2.5060082509999799e-09    3.2083409706614394e-07
 
 
 Number of objective function evaluations             = 59
@@ -1155,8 +1155,8 @@ Number of inequality constraint evaluations          = 59
 Number of equality constraint Jacobian evaluations   = 57
 Number of inequality constraint Jacobian evaluations = 57
 Number of Lagrangian Hessian evaluations             = 56
-Total CPU secs in IPOPT (w/o function evaluations)   =     33.340
-Total CPU secs in NLP function evaluations           =     22.414
+Total CPU secs in IPOPT (w/o function evaluations)   =     14.492
+Total CPU secs in NLP function evaluations           =      8.853
 
 EXIT: Optimal Solution Found.
-Time to Solution........:26.4430148601532
+Time to Solution........:24.45933198928833

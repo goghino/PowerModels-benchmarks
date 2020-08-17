@@ -615,16 +615,16 @@ iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
   39  1.6317079e+06 7.49e-09 1.47e-02  -8.6 3.65e-03    -  8.04e-01 1.00e+00h  1
 iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
   40  1.6317079e+06 8.94e-10 2.03e-08  -8.6 1.23e-03    -  1.00e+00 1.00e+00h  1
-  41  1.6317079e+06 3.06e-11 1.21e-09  -8.6 2.42e-04    -  1.00e+00 1.00e+00h  1
+  41  1.6317079e+06 3.07e-11 2.62e-09  -8.6 2.42e-04    -  1.00e+00 1.00e+00h  1
 
 Number of Iterations....: 41
 
                                    (scaled)                 (unscaled)
-Objective...............:   1.4065235154280903e+04    1.6317079302481276e+06
-Dual infeasibility......:   1.2139171838219596e-09    1.4082653249518554e-07
-Constraint violation....:   2.5531636334288643e-12    3.0600990491569391e-11
-Complementarity.........:   3.2036791898345367e-09    3.7165882281270460e-07
-Overall NLP error.......:   3.2036791898345367e-09    3.7165882281270460e-07
+Objective...............:   1.4065235154281536e+04    1.6317079302482009e+06
+Dual infeasibility......:   2.6171200710395843e-09    3.0361209944130220e-07
+Constraint violation....:   2.5649022169837428e-12    3.0741683504365014e-11
+Complementarity.........:   3.2036791899580294e-09    3.7165882282703100e-07
+Overall NLP error.......:   3.2036791899580294e-09    3.7165882282703100e-07
 
 
 Number of objective function evaluations             = 42
@@ -634,8 +634,8 @@ Number of inequality constraint evaluations          = 42
 Number of equality constraint Jacobian evaluations   = 42
 Number of inequality constraint Jacobian evaluations = 42
 Number of Lagrangian Hessian evaluations             = 41
-Total CPU secs in IPOPT (w/o function evaluations)   =     24.363
-Total CPU secs in NLP function evaluations           =     14.917
+Total CPU secs in IPOPT (w/o function evaluations)   =     10.331
+Total CPU secs in NLP function evaluations           =      6.236
 
 EXIT: Optimal Solution Found.
-Time to Solution........:18.752818822860718
+Time to Solution........:17.374081134796143
