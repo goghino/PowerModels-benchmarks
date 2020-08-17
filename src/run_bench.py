@@ -63,6 +63,8 @@ def runBench(optimizer):
                 f.write("#SBATCH --exclusive\n")
                 f.write("#SBATCH -o ./out/slurm_"+job_name+"-%j.out\n")
                 f.write("#SBATCH -e ./err/slurm_"+job_name+"-%j.err\n")
+                f.write("export OMP_NUM_THREADS=1\n")
+                f.write("export JULIA_NUM_THREADS=1\n")
                 # ----------------------------------------------
                 for rd in chunk:
                     case_name=rd.replace('.m','')
