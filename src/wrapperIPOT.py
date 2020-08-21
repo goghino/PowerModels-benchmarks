@@ -5,6 +5,7 @@ import os
 import pandas as pd 
 import sys
 
+# create a csv file with the time solution and iterations of each case
 #-i    iterations info
 #-t    time solve info
 #-a    all info

@@ -5,6 +5,8 @@ import os
 import pandas as pd 
 import sys
 
+
+# create a csv file with the OBJ results of each case
 mypath=sys.argv[1]
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 name_logs=""

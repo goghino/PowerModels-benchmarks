@@ -3,7 +3,9 @@ from os import listdir
 from os.path import isfile, join
 import sys
 
-
+# Evaluate the objective function value gap of the convex modedel with the exact models
+# 1) logs folder --> wrapperObjective_IPOT.py ->  2) csv_results/objectives .csv  --> evalObj_Gap.py --> csv_results/objectives/GAPs/ .csv with Gap results
+ 
 def mergeInfo(formulation,type_case,optimizer):
     df = pd.DataFrame(columns=["case","objective_val"])
     
