@@ -40,7 +40,7 @@ type_case=sys.argv[1]
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 
-optimizer="ipopt"
+optimizer=sys.argv[2]
 formulation = ["ACP","DCP"]
 option = ["-i","-t"]
 
