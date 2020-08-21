@@ -1,0 +1,100 @@
+cases/pglib-opf/pglib_opf_case179_goc.m
+knitro
+DCP
+[info | PowerModels]: removing 1 cost terms from generator 24: [3154.6461999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 4: [658.0729, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [2712.5018, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 12: [3523.2014, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 29: [4987.6052, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 20: [1920.3903, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [2576.7823, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [2784.4304, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 25: [2234.9251, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 23: [2826.7848999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 22: [12467.253999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [4935.4886, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 13: [2189.1639, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [3178.4817, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 15: [803.5714, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 27: [1417.4214, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 28: [861.4737999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 16: [3391.2129999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 14: [2538.3461, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 21: [3082.0177999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [4189.9242, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 8: [2688.7509999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 26: [723.0771, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 17: [2545.7586, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [2371.8395, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 19: [848.7093, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2664.7901, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 18: [716.8126, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [3345.8505999999998, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 34 variables and 36 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as an LP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 1.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 2.
+Knitro fixing 5 variables eliminated from the presolve.
+Knitro reinitializing 29 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                                471 (         437)
+    bounded below only:                               0 (           5)
+    bounded above only:                               0 (          18)
+    bounded below and above:                        292 (         158)
+    fixed:                                            0 (           0)
+    free:                                           179 (         256)
+Number of constraints:                              887 (         851)
+    linear equalities:                              443 (         409)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                  444 (         442)
+    quadratic one-sided inequalities:                 0 (           0)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                    2233 (        2157)
+Number of nonzeros in Hessian:                        0 (           0)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    4.164693e+04   3.587e+01
+       9    7.518810e+05   7.001e-11   8.461e-07   7.230e-03        0
+
+EXIT: Optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   7.51881020196401e+05
+Final feasibility error (abs / rel) =   7.00e-11 / 1.95e-12
+Final optimality error  (abs / rel) =   8.46e-07 / 8.46e-09
+# of iterations                     =          9 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.05829 (     0.023 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.02265699952840805

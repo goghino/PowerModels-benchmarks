@@ -1,0 +1,919 @@
+cases/pglib-opf/pglib_opf_case2848_rte.m
+knitro
+DCP
+[warn | PowerModels]: active generators found at bus 21, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 1615, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1220, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2312, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2344, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 731, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2274, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2342, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 962, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1398, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2379, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1181, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 958, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1655, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1280, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 2754, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1160, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2413, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 564, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 773, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 300, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2715, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2978, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1456, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1706, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2415, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 582, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1607, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 1759, updating to bus type from 3 to 1
+[warn | PowerModels]: active generators found at bus 77, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 596, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1445, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1157, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 2534, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 899, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 482, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 399, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 115, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1133, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1150, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 642, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2920, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1123, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1164, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 172, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1493, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 819, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 552, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2345, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1658, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1122, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1127, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 918, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1266, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2313, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1396, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1047, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 967, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2343, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1714, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 916, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 1288, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 898, updating to bus type from 1 to 2
+[warn | PowerModels]: active generators found at bus 2884, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 906, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2613, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1610, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2380, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2614, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 158, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2414, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 1154, updating to bus type from 1 to 2
+[warn | PowerModels]: no active generators found at bus 2295, updating to bus type from 2 to 1
+[warn | PowerModels]: active generators found at bus 31, updating to bus type from 1 to 2
+[warn | PowerModels]: no reference bus found, setting bus 2322 as reference based on generator 396
+[warn | PowerModels]: the voltage setpoint on generator 1 does not match the value at bus 1279
+[warn | PowerModels]: the voltage setpoint on generator 54 does not match the value at bus 252
+[warn | PowerModels]: the voltage setpoint on generator 101 does not match the value at bus 1335
+[warn | PowerModels]: the voltage setpoint on generator 41 does not match the value at bus 1157
+[warn | PowerModels]: the voltage setpoint on generator 65 does not match the value at bus 71
+[warn | PowerModels]: the voltage setpoint on generator 335 does not match the value at bus 1164
+[warn | PowerModels]: the voltage setpoint on generator 326 does not match the value at bus 133
+[warn | PowerModels]: the voltage setpoint on generator 168 does not match the value at bus 1346
+[warn | PowerModels]: the voltage setpoint on generator 159 does not match the value at bus 918
+[warn | PowerModels]: the voltage setpoint on generator 332 does not match the value at bus 697
+[warn | PowerModels]: the voltage setpoint on generator 190 does not match the value at bus 549
+[warn | PowerModels]: the voltage setpoint on generator 227 does not match the value at bus 1576
+[warn | PowerModels]: the voltage setpoint on generator 270 does not match the value at bus 482
+[warn | PowerModels]: the voltage setpoint on generator 88 does not match the value at bus 499
+[warn | PowerModels]: the voltage setpoint on generator 26 does not match the value at bus 21
+[warn | PowerModels]: the voltage setpoint on generator 289 does not match the value at bus 1261
+[warn | PowerModels]: the voltage setpoint on generator 250 does not match the value at bus 2578
+[warn | PowerModels]: the voltage setpoint on generator 77 does not match the value at bus 1708
+[warn | PowerModels]: the voltage setpoint on generator 24 does not match the value at bus 399
+[warn | PowerModels]: the voltage setpoint on generator 258 does not match the value at bus 262
+[warn | PowerModels]: the voltage setpoint on generator 328 does not match the value at bus 1266
+[warn | PowerModels]: the voltage setpoint on generator 204 does not match the value at bus 1610
+[warn | PowerModels]: the voltage setpoint on generator 23 does not match the value at bus 773
+[warn | PowerModels]: the voltage setpoint on generator 160 does not match the value at bus 1760
+[warn | PowerModels]: the voltage setpoint on generator 59 does not match the value at bus 1642
+[warn | PowerModels]: the voltage setpoint on generator 184 does not match the value at bus 1754
+[warn | PowerModels]: the voltage setpoint on generator 122 does not match the value at bus 1607
+[warn | PowerModels]: the voltage setpoint on generator 175 does not match the value at bus 1681
+[warn | PowerModels]: the voltage setpoint on generator 143 does not match the value at bus 274
+[warn | PowerModels]: the voltage setpoint on generator 34 does not match the value at bus 135
+[warn | PowerModels]: the voltage setpoint on generator 293 does not match the value at bus 1706
+[warn | PowerModels]: the voltage setpoint on generator 137 does not match the value at bus 963
+[warn | PowerModels]: the voltage setpoint on generator 55 does not match the value at bus 252
+[warn | PowerModels]: the voltage setpoint on generator 323 does not match the value at bus 1678
+[warn | PowerModels]: the voltage setpoint on generator 318 does not match the value at bus 1396
+[warn | PowerModels]: the voltage setpoint on generator 9 does not match the value at bus 1127
+[warn | PowerModels]: the voltage setpoint on generator 172 does not match the value at bus 1490
+[warn | PowerModels]: the voltage setpoint on generator 333 does not match the value at bus 1181
+[warn | PowerModels]: the voltage setpoint on generator 12 does not match the value at bus 1827
+[warn | PowerModels]: the voltage setpoint on generator 192 does not match the value at bus 124
+[warn | PowerModels]: the voltage setpoint on generator 20 does not match the value at bus 642
+[warn | PowerModels]: the voltage setpoint on generator 292 does not match the value at bus 975
+[warn | PowerModels]: the voltage setpoint on generator 167 does not match the value at bus 1346
+[warn | PowerModels]: the voltage setpoint on generator 96 does not match the value at bus 2727
+[warn | PowerModels]: the voltage setpoint on generator 123 does not match the value at bus 314
+[warn | PowerModels]: the voltage setpoint on generator 254 does not match the value at bus 1782
+[warn | PowerModels]: the voltage setpoint on generator 257 does not match the value at bus 262
+[warn | PowerModels]: the voltage setpoint on generator 242 does not match the value at bus 1355
+[warn | PowerModels]: the voltage setpoint on generator 260 does not match the value at bus 262
+[warn | PowerModels]: the voltage setpoint on generator 35 does not match the value at bus 53
+[warn | PowerModels]: the voltage setpoint on generator 317 does not match the value at bus 1396
+[warn | PowerModels]: the voltage setpoint on generator 131 does not match the value at bus 1150
+[warn | PowerModels]: the voltage setpoint on generator 276 does not match the value at bus 2628
+[warn | PowerModels]: the voltage setpoint on generator 21 does not match the value at bus 642
+[warn | PowerModels]: the voltage setpoint on generator 263 does not match the value at bus 1536
+[warn | PowerModels]: the voltage setpoint on generator 45 does not match the value at bus 371
+[warn | PowerModels]: the voltage setpoint on generator 295 does not match the value at bus 1160
+[warn | PowerModels]: the voltage setpoint on generator 139 does not match the value at bus 923
+[warn | PowerModels]: the voltage setpoint on generator 181 does not match the value at bus 31
+[warn | PowerModels]: the voltage setpoint on generator 30 does not match the value at bus 2618
+[warn | PowerModels]: the voltage setpoint on generator 3 does not match the value at bus 751
+[warn | PowerModels]: the voltage setpoint on generator 309 does not match the value at bus 1815
+[warn | PowerModels]: the voltage setpoint on generator 81 does not match the value at bus 231
+[warn | PowerModels]: the voltage setpoint on generator 296 does not match the value at bus 235
+[warn | PowerModels]: the voltage setpoint on generator 27 does not match the value at bus 21
+[warn | PowerModels]: the voltage setpoint on generator 75 does not match the value at bus 1122
+[warn | PowerModels]: the voltage setpoint on generator 50 does not match the value at bus 1188
+[warn | PowerModels]: the voltage setpoint on generator 162 does not match the value at bus 1414
+[warn | PowerModels]: the voltage setpoint on generator 63 does not match the value at bus 1829
+[warn | PowerModels]: the voltage setpoint on generator 303 does not match the value at bus 1220
+[warn | PowerModels]: the voltage setpoint on generator 208 does not match the value at bus 300
+[warn | PowerModels]: the voltage setpoint on generator 87 does not match the value at bus 499
+[warn | PowerModels]: the voltage setpoint on generator 117 does not match the value at bus 1847
+[warn | PowerModels]: the voltage setpoint on generator 255 does not match the value at bus 626
+[warn | PowerModels]: the voltage setpoint on generator 275 does not match the value at bus 305
+[warn | PowerModels]: the voltage setpoint on generator 182 does not match the value at bus 236
+[warn | PowerModels]: the voltage setpoint on generator 195 does not match the value at bus 1858
+[warn | PowerModels]: the voltage setpoint on generator 286 does not match the value at bus 1261
+[warn | PowerModels]: the voltage setpoint on generator 249 does not match the value at bus 1294
+[warn | PowerModels]: the voltage setpoint on generator 161 does not match the value at bus 1760
+[warn | PowerModels]: the voltage setpoint on generator 202 does not match the value at bus 1317
+[warn | PowerModels]: the voltage setpoint on generator 146 does not match the value at bus 184
+[warn | PowerModels]: the voltage setpoint on generator 142 does not match the value at bus 274
+[warn | PowerModels]: the voltage setpoint on generator 256 does not match the value at bus 146
+[warn | PowerModels]: the voltage setpoint on generator 291 does not match the value at bus 975
+[warn | PowerModels]: the voltage setpoint on generator 80 does not match the value at bus 1154
+[warn | PowerModels]: the voltage setpoint on generator 203 does not match the value at bus 1317
+[warn | PowerModels]: the voltage setpoint on generator 322 does not match the value at bus 489
+[warn | PowerModels]: the voltage setpoint on generator 269 does not match the value at bus 275
+[warn | PowerModels]: the voltage setpoint on generator 57 does not match the value at bus 115
+[warn | PowerModels]: the voltage setpoint on generator 327 does not match the value at bus 172
+[warn | PowerModels]: the voltage setpoint on generator 173 does not match the value at bus 1671
+[warn | PowerModels]: the voltage setpoint on generator 200 does not match the value at bus 641
+[warn | PowerModels]: the voltage setpoint on generator 130 does not match the value at bus 1655
+[warn | PowerModels]: the voltage setpoint on generator 273 does not match the value at bus 876
+[warn | PowerModels]: the voltage setpoint on generator 319 does not match the value at bus 1288
+[warn | PowerModels]: the voltage setpoint on generator 312 does not match the value at bus 1606
+[warn | PowerModels]: the voltage setpoint on generator 61 does not match the value at bus 2634
+[warn | PowerModels]: the voltage setpoint on generator 67 does not match the value at bus 129
+[warn | PowerModels]: the voltage setpoint on generator 247 does not match the value at bus 313
+[warn | PowerModels]: the voltage setpoint on generator 100 does not match the value at bus 1047
+[warn | PowerModels]: the voltage setpoint on generator 46 does not match the value at bus 976
+[warn | PowerModels]: the voltage setpoint on generator 251 does not match the value at bus 2578
+[warn | PowerModels]: the voltage setpoint on generator 151 does not match the value at bus 1868
+[warn | PowerModels]: the voltage setpoint on generator 248 does not match the value at bus 1573
+[warn | PowerModels]: the voltage setpoint on generator 68 does not match the value at bus 1594
+[warn | PowerModels]: the voltage setpoint on generator 56 does not match the value at bus 504
+[warn | PowerModels]: the voltage setpoint on generator 147 does not match the value at bus 1657
+[warn | PowerModels]: the voltage setpoint on generator 76 does not match the value at bus 1708
+[warn | PowerModels]: the voltage setpoint on generator 186 does not match the value at bus 1754
+[warn | PowerModels]: the voltage setpoint on generator 180 does not match the value at bus 461
+[warn | PowerModels]: the voltage setpoint on generator 135 does not match the value at bus 1474
+[warn | PowerModels]: the voltage setpoint on generator 262 does not match the value at bus 1536
+[warn | PowerModels]: the voltage setpoint on generator 48 does not match the value at bus 2754
+[warn | PowerModels]: the voltage setpoint on generator 32 does not match the value at bus 285
+[warn | PowerModels]: the voltage setpoint on generator 264 does not match the value at bus 19
+[warn | PowerModels]: the voltage setpoint on generator 320 does not match the value at bus 489
+[warn | PowerModels]: the voltage setpoint on generator 334 does not match the value at bus 1181
+[warn | PowerModels]: the voltage setpoint on generator 183 does not match the value at bus 236
+[warn | PowerModels]: the voltage setpoint on generator 155 does not match the value at bus 1263
+[warn | PowerModels]: the voltage setpoint on generator 51 does not match the value at bus 1254
+[warn | PowerModels]: the voltage setpoint on generator 53 does not match the value at bus 252
+[warn | PowerModels]: the voltage setpoint on generator 141 does not match the value at bus 1153
+[warn | PowerModels]: the voltage setpoint on generator 287 does not match the value at bus 1261
+[warn | PowerModels]: the voltage setpoint on generator 93 does not match the value at bus 1280
+[warn | PowerModels]: the voltage setpoint on generator 213 does not match the value at bus 1604
+[warn | PowerModels]: the voltage setpoint on generator 278 does not match the value at bus 2628
+[warn | PowerModels]: the voltage setpoint on generator 305 does not match the value at bus 1148
+[warn | PowerModels]: the voltage setpoint on generator 154 does not match the value at bus 2715
+[warn | PowerModels]: the voltage setpoint on generator 321 does not match the value at bus 489
+[warn | PowerModels]: the voltage setpoint on generator 49 does not match the value at bus 749
+[warn | PowerModels]: the voltage setpoint on generator 62 does not match the value at bus 326
+[warn | PowerModels]: the voltage setpoint on generator 196 does not match the value at bus 134
+[warn | PowerModels]: the voltage setpoint on generator 205 does not match the value at bus 1610
+[warn | PowerModels]: the voltage setpoint on generator 201 does not match the value at bus 916
+[warn | PowerModels]: the voltage setpoint on generator 311 does not match the value at bus 1046
+[warn | PowerModels]: the voltage setpoint on generator 86 does not match the value at bus 499
+[warn | PowerModels]: the voltage setpoint on generator 152 does not match the value at bus 1868
+[warn | PowerModels]: the voltage setpoint on generator 71 does not match the value at bus 1133
+[warn | PowerModels]: the voltage setpoint on generator 226 does not match the value at bus 946
+[warn | PowerModels]: the voltage setpoint on generator 268 does not match the value at bus 519
+[warn | PowerModels]: the voltage setpoint on generator 6 does not match the value at bus 158
+[warn | PowerModels]: the voltage setpoint on generator 98 does not match the value at bus 564
+[warn | PowerModels]: the voltage setpoint on generator 272 does not match the value at bus 876
+[warn | PowerModels]: the voltage setpoint on generator 174 does not match the value at bus 1615
+[warn | PowerModels]: the voltage setpoint on generator 187 does not match the value at bus 898
+[warn | PowerModels]: the voltage setpoint on generator 7 does not match the value at bus 1217
+[warn | PowerModels]: the voltage setpoint on generator 261 does not match the value at bus 819
+[warn | PowerModels]: the voltage setpoint on generator 194 does not match the value at bus 552
+[warn | PowerModels]: the voltage setpoint on generator 140 does not match the value at bus 1153
+[warn | PowerModels]: the voltage setpoint on generator 337 does not match the value at bus 310
+[warn | PowerModels]: the voltage setpoint on generator 69 does not match the value at bus 1594
+[warn | PowerModels]: the voltage setpoint on generator 282 does not match the value at bus 426
+[warn | PowerModels]: the voltage setpoint on generator 97 does not match the value at bus 1445
+[warn | PowerModels]: the voltage setpoint on generator 212 does not match the value at bus 1630
+[warn | PowerModels]: the voltage setpoint on generator 210 does not match the value at bus 1630
+[warn | PowerModels]: the voltage setpoint on generator 136 does not match the value at bus 1474
+[warn | PowerModels]: the voltage setpoint on generator 211 does not match the value at bus 1630
+[warn | PowerModels]: the voltage setpoint on generator 134 does not match the value at bus 1474
+[warn | PowerModels]: the voltage setpoint on generator 148 does not match the value at bus 1657
+[warn | PowerModels]: the voltage setpoint on generator 329 does not match the value at bus 877
+[warn | PowerModels]: the voltage setpoint on generator 193 does not match the value at bus 124
+[warn | PowerModels]: the voltage setpoint on generator 118 does not match the value at bus 1398
+[warn | PowerModels]: the voltage setpoint on generator 283 does not match the value at bus 1714
+[warn | PowerModels]: the voltage setpoint on generator 188 does not match the value at bus 898
+[warn | PowerModels]: the voltage setpoint on generator 199 does not match the value at bus 641
+[warn | PowerModels]: the voltage setpoint on generator 116 does not match the value at bus 1506
+[warn | PowerModels]: the voltage setpoint on generator 66 does not match the value at bus 93
+[warn | PowerModels]: the voltage setpoint on generator 132 does not match the value at bus 1447
+[warn | PowerModels]: the voltage setpoint on generator 29 does not match the value at bus 899
+[warn | PowerModels]: the voltage setpoint on generator 78 does not match the value at bus 1658
+[warn | PowerModels]: the voltage setpoint on generator 119 does not match the value at bus 1398
+[warn | PowerModels]: the voltage setpoint on generator 33 does not match the value at bus 285
+[warn | PowerModels]: the voltage setpoint on generator 28 does not match the value at bus 899
+[warn | PowerModels]: the voltage setpoint on generator 52 does not match the value at bus 252
+[warn | PowerModels]: the voltage setpoint on generator 290 does not match the value at bus 1261
+[warn | PowerModels]: the voltage setpoint on generator 115 does not match the value at bus 1506
+[warn | PowerModels]: the voltage setpoint on generator 314 does not match the value at bus 1612
+[warn | PowerModels]: the voltage setpoint on generator 163 does not match the value at bus 1414
+[warn | PowerModels]: the voltage setpoint on generator 281 does not match the value at bus 1798
+[warn | PowerModels]: the voltage setpoint on generator 58 does not match the value at bus 967
+[warn | PowerModels]: the voltage setpoint on generator 25 does not match the value at bus 399
+[warn | PowerModels]: the voltage setpoint on generator 114 does not match the value at bus 283
+[warn | PowerModels]: the voltage setpoint on generator 31 does not match the value at bus 2618
+[warn | PowerModels]: the voltage setpoint on generator 274 does not match the value at bus 305
+[warn | PowerModels]: the voltage setpoint on generator 206 does not match the value at bus 271
+[warn | PowerModels]: the voltage setpoint on generator 279 does not match the value at bus 2628
+[warn | PowerModels]: the voltage setpoint on generator 280 does not match the value at bus 1456
+[warn | PowerModels]: the voltage setpoint on generator 313 does not match the value at bus 76
+[warn | PowerModels]: the voltage setpoint on generator 44 does not match the value at bus 371
+[warn | PowerModels]: the voltage setpoint on generator 129 does not match the value at bus 1655
+[warn | PowerModels]: the voltage setpoint on generator 189 does not match the value at bus 120
+[warn | PowerModels]: the voltage setpoint on generator 259 does not match the value at bus 262
+[warn | PowerModels]: the voltage setpoint on generator 94 does not match the value at bus 1493
+[warn | PowerModels]: the voltage setpoint on generator 288 does not match the value at bus 1261
+[warn | PowerModels]: the voltage setpoint on generator 99 does not match the value at bus 1047
+[warn | PowerModels]: the voltage setpoint on generator 47 does not match the value at bus 976
+[warn | PowerModels]: the voltage setpoint on generator 330 does not match the value at bus 877
+[warn | PowerModels]: the voltage setpoint on generator 310 does not match the value at bus 1815
+[warn | PowerModels]: the voltage setpoint on generator 79 does not match the value at bus 2884
+[warn | PowerModels]: the voltage setpoint on generator 325 does not match the value at bus 220
+[warn | PowerModels]: the voltage setpoint on generator 209 does not match the value at bus 648
+[warn | PowerModels]: the voltage setpoint on generator 185 does not match the value at bus 1754
+[warn | PowerModels]: the voltage setpoint on generator 267 does not match the value at bus 519
+[warn | PowerModels]: the voltage setpoint on generator 70 does not match the value at bus 1354
+[warn | PowerModels]: the voltage setpoint on generator 191 does not match the value at bus 77
+[warn | PowerModels]: the voltage setpoint on generator 304 does not match the value at bus 1220
+[warn | PowerModels]: the voltage setpoint on generator 338 does not match the value at bus 310
+[warn | PowerModels]: the voltage setpoint on generator 64 does not match the value at bus 1314
+[warn | PowerModels]: the voltage setpoint on generator 60 does not match the value at bus 1811
+[warn | PowerModels]: the voltage setpoint on generator 158 does not match the value at bus 604
+[warn | PowerModels]: the voltage setpoint on generator 156 does not match the value at bus 1263
+[warn | PowerModels]: the voltage setpoint on generator 144 does not match the value at bus 1776
+[warn | PowerModels]: the voltage setpoint on generator 22 does not match the value at bus 542
+[warn | PowerModels]: the voltage setpoint on generator 11 does not match the value at bus 968
+[warn | PowerModels]: the voltage setpoint on generator 271 does not match the value at bus 876
+[warn | PowerModels]: the voltage setpoint on generator 324 does not match the value at bus 1614
+[warn | PowerModels]: the voltage setpoint on generator 277 does not match the value at bus 2628
+[warn | PowerModels]: the voltage setpoint on generator 331 does not match the value at bus 697
+[warn | PowerModels]: the voltage setpoint on generator 145 does not match the value at bus 1776
+[warn | PowerModels]: the voltage setpoint on generator 36 does not match the value at bus 53
+[warn | PowerModels]: the voltage setpoint on generator 95 does not match the value at bus 745
+[warn | PowerModels]: the voltage setpoint on generator 138 does not match the value at bus 962
+[warn | PowerModels]: the voltage setpoint on generator 336 does not match the value at bus 1164
+[warn | PowerModels]: the voltage setpoint on generator 294 does not match the value at bus 1160
+[warn | PowerModels]: the voltage setpoint on generator 153 does not match the value at bus 731
+[info | PowerModels]: removing 1 cost terms from generator 306: [3834.9150999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 407: [4960.7323, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 1: [4479.9484, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 54: [11982.776, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 519: [3621.7698, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 101: [11037.5312, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 371: [1270.4406999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 41: [12545.3061, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 464: [3373.1735999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 65: [9949.482600000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 475: [3888.6949999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 447: [2358.688, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 335: [2631.433, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 362: [5318.098, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 505: [12323.5132, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 491: [631.5779, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 326: [10605.679, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 543: [3593.7221, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 299: [1310.9805, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 168: [5789.7546, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 159: [3714.3662999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 403: [2662.3475, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 228: [2212.7116, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 332: [3410.0012, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 190: [2907.9633999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 227: [5007.4274000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 270: [11595.4999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 536: [1873.2303000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 476: [2227.3241, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 223: [5772.7046, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 453: [4327.4579, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 531: [2964.7837, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 88: [3398.1563, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 467: [3122.1249, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 297: [2934.4225, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 26: [6870.703799999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 289: [2170.1366, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 250: [11789.591900000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 77: [12052.4875, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 230: [2813.5881, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 24: [2915.3992, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 449: [11436.0185, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 394: [639.8382, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 258: [2979.8979, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 328: [4233.7323, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 204: [12405.3941, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 387: [9468.1973, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 23: [2424.1333, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 160: [2914.7531, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 416: [2187.0789999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 450: [3023.3853, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 149: [10655.6737, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 359: [3726.4804, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 59: [9737.778900000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 184: [10839.175799999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 43: [2837.9323, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 122: [11438.0245, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 253: [12132.6855, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 302: [13225.1396, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 175: [3512.5286, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 415: [1751.4487, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 39: [4228.6445, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 143: [2543.1253, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 112: [12153.483400000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 530: [2608.8976, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 372: [2232.1556, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 34: [2816.4012, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 501: [2677.5908, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 293: [12018.3444, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 421: [2293.8552, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 137: [590.1389, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 55: [900.6238, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 323: [11340.1564, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 17: [1939.2424999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 243: [1997.3142, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 318: [3444.3392000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 522: [3524.6573, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 9: [2918.3767, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 172: [3690.8456, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 333: [10704.9399, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 363: [4720.3054999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 12: [3082.3457000000003, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 192: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 20: [10833.025000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 292: [6491.4919, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 350: [5088.2762999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 252: [2806.8267, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 357: [4085.9065, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 514: [4576.803199999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 341: [12395.4095, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 417: [5204.6887, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 462: [49.2923, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 533: [3440.5439, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 426: [2675.0383, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 539: [677.67, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 14: [3999.0136999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 167: [3724.8123, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 127: [2057.7052, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 96: [10725.9574, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 123: [4038.912, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 456: [11644.421900000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 177: [3578.0028, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 254: [3348.6086, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 300: [11117.105599999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 257: [3804.5516999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 510: [1757.4656, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 19: [3343.7829, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 179: [10464.3889, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 242: [4224.4808, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 396: [752.2586, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 260: [10403.9095, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 495: [1183.5616, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 239: [10704.8936, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 35: [2389.8662999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 423: [3779.9426, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 317: [4226.7017000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 197: [4502.3384, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 131: [3054.4208000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 488: [2399.1838000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 401: [2792.9414, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 525: [3443.3672, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 276: [12355.538799999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 316: [3137.9275, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 365: [12482.7366, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 458: [8906.0106, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 463: [3155.5779, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 494: [1844.4261999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 21: [2623.0713, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 263: [1956.5988, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 83: [2200.5869000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 244: [2186.301, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 45: [10339.163499999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 295: [2974.1672000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 139: [2210.5878000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 181: [2055.1347, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 386: [1699.1752000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 368: [3315.3875, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 436: [10377.3381, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 527: [10178.685, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 440: [3508.8211, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 85: [10056.6682, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 413: [2636.4329000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 105: [2722.5852, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 30: [6003.6951, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [13345.5196, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 309: [3637.2303, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 81: [2005.2340000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 400: [4187.6907, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 545: [4441.8258000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 547: [2883.8705, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 480: [2649.9030000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 482: [3430.9212, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 296: [11865.1725, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 27: [2670.4665999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 75: [11557.8599, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 392: [2801.8057, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 503: [904.5793, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 50: [3777.0921000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 526: [3385.4154000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 460: [11122.1834, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 162: [4356.7399000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 63: [3075.2053, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 537: [3341.0424, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 303: [2917.5424, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 92: [10446.2662, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 422: [2560.5888, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 208: [3358.5130999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 214: [2632.0901, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 120: [11612.4143, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 224: [1935.4113000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 87: [2579.1232, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 117: [11125.334200000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 255: [3886.8035999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 499: [10152.705899999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 178: [3450.9318, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 544: [4475.8823, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 89: [10918.9943, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 275: [2344.1199, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 176: [11290.3501, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 182: [10989.988599999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 496: [2928.0939, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 225: [2816.7046, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 195: [3461.9523, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 516: [2445.3564, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 286: [4096.9417, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 249: [5560.8952, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 485: [1899.7541999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 161: [1084.7489, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 442: [782.7907, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 202: [4543.7113, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 346: [3271.4168999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 542: [3379.7885, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 389: [3111.2839, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 459: [3785.794, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 465: [2452.7464, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 146: [2840.9357, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 142: [2524.9984, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 219: [5799.8211, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 256: [3468.0811, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 291: [9982.453599999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 80: [9037.3394, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 203: [3914.5922, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 308: [11859.5291, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 360: [4287.8557, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 432: [3525.3091, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 113: [2089.2690000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 110: [2449.202, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 418: [3478.5609, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 492: [2360.9037, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 445: [2008.2816999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 322: [3140.0618999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 431: [4806.0326000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 269: [3932.4947, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 157: [11961.1236, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 520: [679.7927999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 57: [3617.1553000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 165: [1970.8617, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 231: [4026.7162, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 384: [624.5217, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 327: [3005.1094, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 173: [2635.0641, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 284: [12314.9032, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 200: [2543.6087, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 171: [10560.2685, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 233: [2921.1804, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 428: [10694.224699999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 345: [3202.6358999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 130: [2653.6594, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 273: [3589.9085, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 319: [3894.5109, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 478: [4072.4179999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 312: [2269.4932000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 502: [5093.8579, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 15: [4729.929, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 61: [11641.5321, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 67: [2549.9728999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 247: [2767.3278, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 108: [10845.8154, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 100: [11911.6253, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 344: [4314.0028999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 385: [2036.9810000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 457: [3720.6722, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 500: [3103.0789, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 46: [12785.0488, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 251: [10454.3507, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 444: [4115.4475, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 532: [3929.1362999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 535: [2424.3415, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 170: [2567.4323, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 151: [10108.6629, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 248: [11049.6268, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 68: [10294.911, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 56: [3173.9316, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 147: [5101.8648, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 529: [2212.0355, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 528: [3448.5899000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 454: [11706.6143, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 452: [11397.0159, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 76: [1442.7785999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 186: [11640.2421, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 342: [3411.8302, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 438: [2589.8955, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 180: [1907.2458000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 135: [10247.69, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 262: [3460.6262, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 48: [4776.0568, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 103: [2604.2437, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 355: [3047.1865000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 393: [4579.6165, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 408: [3509.1161999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 32: [2393.1234, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 109: [10639.654400000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 264: [1582.1615, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 320: [4601.1856, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 217: [4584.312, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 334: [2746.2242, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 405: [1898.0513999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 2: [10329.6155, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 183: [11757.5694, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 155: [12997.5635, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 51: [11457.003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 53: [9958.7093, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 106: [10646.9686, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 435: [3135.3260999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 489: [2528.1383, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 111: [2002.0401, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 141: [9565.2767, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 287: [9963.3785, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 93: [10355.8096, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 213: [1759.3484, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 278: [12767.2789, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 10: [2385.3833, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 340: [2698.6919, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 474: [2478.2575, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 356: [2914.3586, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 265: [12841.726, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 215: [3604.8896999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 305: [3770.6950999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 443: [2505.3594, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 424: [10954.4656, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 154: [3810.2978, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 321: [12508.988, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 358: [4227.6357, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 49: [4734.4597, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 218: [3931.6003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [1600.8364000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 541: [2810.8623000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 62: [3302.4981, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 196: [11501.5285, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 90: [2139.731, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 234: [3972.8466, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 446: [3198.1407, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 404: [3291.9525999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 205: [13188.3432, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 237: [2667.033, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 201: [2349.8949, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 311: [4783.0918, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 390: [3840.7562, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 315: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 448: [11824.2525, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 298: [4034.8114, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 461: [11230.706600000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 366: [3878.5269, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 164: [5023.0074, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 419: [4873.4335, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 380: [3420.2106, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 86: [10474.635, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 523: [2799.5036, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 126: [3294.5699, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 152: [3243.3747, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 71: [10437.730500000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 37: [2164.0101999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 226: [2945.4602999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 399: [1930.0307, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 245: [2817.1367, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 469: [668.0818999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 521: [2751.9488, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 487: [2282.725, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 266: [2725.7324, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 268: [4242.7741, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 6: [10218.683, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 441: [4986.7105, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 125: [10204.4459, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 98: [3646.5111, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 473: [5470.4819, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 272: [4268.6791, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 379: [815.2677000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 174: [3275.9528000000005, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 512: [644.1322, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 187: [3228.1677, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 471: [1844.9383999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 493: [1905.4825, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 7: [1595.3518000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 361: [3523.8849999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 261: [2641.3509999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 194: [4604.4674, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 140: [10994.5515, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 486: [3223.3195, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 397: [3902.0593, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 337: [11052.3562, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 107: [12184.7544, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 102: [11440.2174, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 69: [1196.1915, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 354: [3124.0191, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 282: [2199.5448, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 97: [4165.2072, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 4: [3497.1862, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 221: [4000.2977, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 235: [12452.3223, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 212: [11978.2667, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 210: [11397.4941, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 369: [2972.3176, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 13: [3354.9390000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 136: [1852.3867, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 211: [3149.7559, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 134: [10452.028900000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 133: [9609.2215, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 148: [10324.321, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 240: [11728.695899999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 329: [10789.6581, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 193: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 373: [984.5829, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 518: [12069.538400000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 118: [11216.9112, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 283: [10060.435300000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 513: [3476.5264, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 246: [3874.4410000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 466: [3573.6346, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 508: [1554.9053000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 38: [9950.1055, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 375: [12797.1074, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 188: [2493.6336, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 307: [3606.4248, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 199: [2652.877, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 116: [9282.268100000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 378: [11381.171, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 425: [2720.2258, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 376: [4055.762, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 66: [3784.401, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 411: [4474.5298, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 538: [2994.7823, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 546: [4601.9375, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 241: [11367.7947, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 301: [10787.878999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 468: [4787.0751, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 18: [2618.4512999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 455: [2875.6666, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 132: [12148.9265, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 29: [312.2472, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 477: [3628.8943000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 78: [12498.5551, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 470: [3710.4456, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 517: [5299.439, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 388: [3694.2038, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 367: [2679.0441, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 382: [10604.0849, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 74: [3483.3311000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 402: [3570.6651, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 119: [1846.5032999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 236: [1011.7929, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 42: [2826.4565000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 33: [9599.151100000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 28: [2788.241, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 52: [3201.3475999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 381: [1453.6323, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 439: [2340.6672, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 347: [2483.6465, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 121: [3832.6755, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 451: [4627.5679, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 497: [5144.834, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 504: [10246.8203, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 290: [3393.0491, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 115: [12859.5595, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 395: [3906.8131000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 409: [2165.4722, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 515: [5090.0229, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 314: [3956.2432, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 351: [2747.1366, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 509: [3110.4856999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 163: [9687.8349, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 339: [3011.1018000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 481: [1428.613, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 281: [2747.3631, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 58: [12809.816799999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 25: [12494.6912, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 114: [9844.426, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 374: [712.0115000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 166: [3246.5125, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 31: [11170.954899999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 274: [11314.2432, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 370: [2383.4968, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 206: [3540.0664999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 279: [11769.0619, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 280: [1673.6245000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 313: [10122.8511, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 364: [11056.168099999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 484: [3066.8703, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 44: [2843.6306, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 169: [3854.8351, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 129: [10807.550000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 189: [3462.7875000000004, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 150: [3329.9717, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 259: [2689.0718, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 94: [11453.184299999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 352: [5385.7599, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 288: [3157.5092, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 412: [827.3471000000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 429: [12053.811399999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 430: [12090.7497, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 479: [4040.8997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 99: [10424.768, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 207: [5150.2989, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 47: [4382.0274, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 330: [5385.263599999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 73: [3795.1754, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 82: [10793.3814, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 285: [2747.3886, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 310: [2970.7963, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 433: [837.4233, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 406: [3809.9648, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 79: [1940.0343, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 437: [2455.3059000000003, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 216: [4121.3785, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 377: [3656.4127999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 84: [11682.8596, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 325: [1636.3306000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 511: [3181.729, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 104: [5202.8607, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 124: [2937.3328, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 238: [1358.2668999999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 209: [3584.2841, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 185: [11028.7454, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 267: [4272.524899999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 70: [10152.360400000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 410: [4136.4393, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 427: [8839.242900000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 507: [3612.5745, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 349: [10365.3504, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 391: [1934.6540999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 191: [11498.7747, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 534: [2963.7332, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 8: [3214.1291, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 304: [5397.2246, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 338: [2035.7396, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 198: [5725.9267, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 64: [3398.8394, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 222: [3921.6052, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 343: [4389.6622, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 91: [3329.5795, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 60: [5703.6401, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 158: [3736.9756, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 156: [11887.0177, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 229: [1295.2697, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 348: [10470.9296, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 498: [3391.0013999999996, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 144: [4029.5404, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 420: [2169.4807, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 220: [2127.0394, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 22: [10363.508899999999, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [11858.2641, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 271: [10770.0072, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 383: [2071.3821, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 540: [682.3538, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 434: [4114.6287999999995, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 324: [10991.754500000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 483: [4184.8709, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 277: [3744.3164, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 398: [3351.1784, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 16: [2870.9766, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 490: [2144.7298, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 331: [2954.1693999999998, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 506: [3434.7971000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 40: [10762.0861, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 72: [10846.319300000001, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 128: [5179.7149, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 472: [10441.0151, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 524: [3329.4792, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 145: [3700.6515999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 36: [2999.0272999999997, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 95: [3857.1527000000006, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 138: [5145.2745, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 336: [1070.0692, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 414: [1647.5937, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 294: [3202.9629, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 353: [517.9911, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 232: [2772.3886, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 153: [2630.9049999999997, 0.0]
+
+=======================================
+          Commercial License
+         Artelys Knitro 12.2.2
+=======================================
+
+Knitro presolve eliminated 1143 variables and 1145 constraints.
+
+datacheck:               0
+hessian_no_f:            1
+The problem is identified as an LP.
+Knitro changing algorithm from AUTO to 1.
+Knitro changing bar_initpt from AUTO to 1.
+Knitro changing bar_murule from AUTO to 4.
+Knitro changing bar_penaltycons from AUTO to 0.
+Knitro changing bar_penaltyrule from AUTO to 2.
+Knitro changing bar_switchrule from AUTO to 2.
+Knitro changing linesearch from AUTO to 1.
+Knitro changing linsolver from AUTO to 5.
+Knitro fixing 852 variables eliminated from the presolve.
+Knitro reinitializing 55 variables eliminated from the presolve.
+
+Problem Characteristics                                 (   Presolved)
+-----------------------
+Objective goal:  Minimize
+Objective type:  linear
+Number of variables:                               7135 (        5992)
+    bounded below only:                               0 (         188)
+    bounded above only:                               0 (         181)
+    bounded below and above:                       4287 (        1972)
+    fixed:                                            0 (           0)
+    free:                                          2848 (        3651)
+Number of constraints:                            13509 (       12364)
+    linear equalities:                             6625 (        5482)
+    quadratic equalities:                             0 (           0)
+    gen. nonlinear equalities:                        0 (           0)
+    linear one-sided inequalities:                 6884 (        6882)
+    quadratic one-sided inequalities:                 0 (           0)
+    gen. nonlinear one-sided inequalities:            0 (           0)
+    linear two-sided inequalities:                    0 (           0)
+    quadratic two-sided inequalities:                 0 (           0)
+    gen. nonlinear two-sided inequalities:            0 (           0)
+Number of nonzeros in Jacobian:                   33160 (       30019)
+Number of nonzeros in Hessian:                        0 (           0)
+
+  Iter      Objective      FeasError   OptError    ||Step||    CGits 
+--------  --------------  ----------  ----------  ----------  -------
+       0    3.687128e+04   1.367e+01
+       9    1.267732e+06   5.161e-11   7.858e-05   4.054e-02        0
+
+EXIT: Optimal solution found.
+
+Final Statistics
+----------------
+Final objective value               =   1.26773231531124e+06
+Final feasibility error (abs / rel) =   5.16e-11 / 3.78e-12
+Final optimality error  (abs / rel) =   7.86e-05 / 7.86e-07
+# of iterations                     =          9 
+# of CG iterations                  =          0 
+# of function evaluations           =          0
+# of gradient evaluations           =          0
+# of Hessian evaluations            =          0
+Total program time (secs)           =       0.35408 (     0.303 CPU time)
+Time spent in evaluations (secs)    =       0.00000
+
+===============================================================================
+
+Time to Solution........:0.30278199911117554
