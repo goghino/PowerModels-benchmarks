@@ -29,7 +29,7 @@ def runBench(optimizer):
         option_task="--nodelist=icsnode11"
         print(bin_chunks)
     elif(optimizer=="ipopt"):
-        max_job_limit=9
+        max_job_limit=10
         bin_chunks= chunkIt(cases_files,max_job_limit)
         partition = "slim"
         option_task="-n 1"
