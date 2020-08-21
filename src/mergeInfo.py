@@ -38,7 +38,7 @@ out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 # option = sys.argv[1]
 # formulation=sys.argv[2]
 option = ["-i","-t"]
-formulation = ["ACP","ACR","ACT","IVR"]
+formulation = ["ACP","ACR","ACT"]
 
 
 for opt in option:
