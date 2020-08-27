@@ -1,0 +1,858 @@
+cases/pglib-opf/pglib_opf_case3375wp_k.m
+ipopt
+ACP
+[warn | PowerModels]: no active generators found at bus 572, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2293, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 965, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 153, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 316, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2869, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2719, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2816, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 982, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2984, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 279, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 801, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2233, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2618, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1505, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1689, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2968, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2827, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2938, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 929, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2095, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2267, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2947, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 278, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 121, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 918, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2236, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 170, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2757, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 152, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2954, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 134, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2685, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2290, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 939, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2282, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2857, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1238, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 169, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1226, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 893, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 173, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2960, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1228, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2440, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 1219, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2540, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2316, updating to bus type from 2 to 1
+[warn | PowerModels]: no active generators found at bus 2806, updating to bus type from 2 to 1
+[info | PowerModels]: removing 1 cost terms from generator 306: [12662.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 407: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 1: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 54: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 519: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 101: [10703.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 371: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 41: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 464: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 65: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 475: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 593: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 447: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 335: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 362: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 505: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 491: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 326: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 543: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 299: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 557: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 168: [13901.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 591: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 159: [16316.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 403: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 228: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 332: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 190: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 227: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 270: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 536: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 476: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 223: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 453: [12548.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 531: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 88: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 467: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 297: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 26: [23670.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 289: [15700.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 250: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 77: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 230: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 24: [23670.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 596: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 449: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 394: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 258: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 328: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 204: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 387: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 23: [23670.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 160: [16316.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 416: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 450: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 149: [12999.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 359: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 561: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 59: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 184: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 586: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 43: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 122: [14816.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 253: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 302: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 175: [13740.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 415: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 39: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 143: [12821.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 112: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 530: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 372: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 34: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 501: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 293: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 421: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 137: [13659.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 590: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 594: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 55: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 323: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 17: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 243: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 318: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 522: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 9: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 172: [12548.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 333: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 363: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 12: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 192: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 20: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 292: [15700.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 350: [13233.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 252: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 357: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 514: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 550: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 341: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 417: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 552: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 462: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 533: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 426: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 539: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 14: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 167: [13901.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 127: [13404.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 96: [15861.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 123: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 456: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 177: [13740.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 254: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 300: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 257: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 510: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 19: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 179: [13740.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 242: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 396: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 260: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 495: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 239: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 35: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 423: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 317: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 197: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 131: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 488: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 401: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 525: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 276: [14816.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 316: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 365: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 458: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 463: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 494: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 556: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 21: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 263: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 83: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 244: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 582: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 45: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 295: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 139: [13996.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 181: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 386: [13996.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 368: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 436: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 527: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 558: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 440: [13560.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 85: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 568: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 413: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 105: [10703.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 30: [23670.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 3: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 309: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 81: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 400: [12999.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 545: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 547: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 480: [13901.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 569: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 482: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 589: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 549: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 296: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 27: [23670.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 75: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 392: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 503: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 50: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 526: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 460: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 162: [13901.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 63: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 537: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 303: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 92: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 422: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 208: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 214: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 120: [14816.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 224: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 573: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 87: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 117: [14816.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 255: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 499: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 178: [13740.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 544: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 89: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 275: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 176: [13740.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 182: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 496: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 225: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 195: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 516: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 554: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 286: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 249: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 485: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 161: [16316.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 442: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 562: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 202: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 346: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 542: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 389: [12821.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 459: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 465: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 146: [13740.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 142: [12821.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 219: [15861.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 256: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 559: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 291: [15700.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 80: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 203: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 308: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 360: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 432: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 113: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 110: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 418: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 492: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 445: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 322: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 431: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 269: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 157: [16316.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 588: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 520: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 555: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 57: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 165: [13901.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 231: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 384: [13996.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 327: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 173: [12548.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 284: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 200: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 171: [12548.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 233: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 428: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 345: [13049.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 130: [12662.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 273: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 319: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 478: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 312: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 502: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 575: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 567: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 579: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 583: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 15: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 61: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 67: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 247: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 108: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 100: [10703.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 344: [13049.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 385: [13996.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 457: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 500: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 46: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 251: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 444: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 532: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 535: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 170: [12548.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 151: [12999.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 248: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 68: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 56: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 147: [13740.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 529: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 528: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 454: [12548.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 452: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 76: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 186: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 342: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 438: [13560.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 180: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 135: [13233.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 262: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 48: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 103: [10703.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 355: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 393: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 408: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 32: [10000.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 109: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 264: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 320: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 217: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 334: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 405: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 2: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 592: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 183: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 155: [16316.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 51: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 53: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 106: [10703.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 435: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 489: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 566: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 111: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 576: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 141: [12821.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 584: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 287: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 93: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 213: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 278: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 10: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 340: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 474: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 356: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 265: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 215: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 305: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 443: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 424: [13560.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 154: [13560.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 321: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 358: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 49: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 218: [15861.000000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 5: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 541: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 62: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 196: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 90: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 234: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 446: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 404: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 205: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 237: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 201: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 311: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 390: [12821.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 315: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 448: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 298: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 461: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 366: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 164: [13901.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 419: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 380: [13659.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 86: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 523: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 126: [13404.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 152: [13560.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 71: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 37: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 226: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 553: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 399: [12999.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 245: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 469: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 521: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 487: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 266: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 268: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 6: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 441: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 125: [13404.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 98: [10703.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 473: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 577: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 272: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 379: [13659.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 174: [12548.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 512: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 187: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 471: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 493: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 7: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 361: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 261: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 194: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 140: [12821.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 486: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 397: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 337: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 107: [10703.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 102: [10703.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 69: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 354: [13049.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 282: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 97: [10703.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 4: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 221: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 235: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 212: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 210: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 369: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 13: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 136: [13233.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 211: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 134: [13049.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 133: [13049.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 148: [13740.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 240: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 329: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 193: [10703.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 373: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 518: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 118: [14816.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 283: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 513: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 246: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 574: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 466: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 508: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 38: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 560: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 375: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 188: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 307: [12662.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 199: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 116: [14816.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 378: [13659.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 425: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 565: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 376: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 66: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 411: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 538: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 546: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 241: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 301: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 468: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 18: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 455: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 132: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 29: [23670.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 477: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 78: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 470: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 517: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 548: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 388: [12821.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 367: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 382: [13996.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 74: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 551: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 402: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 119: [14816.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 236: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 42: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 33: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 28: [23670.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 564: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 52: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 381: [13996.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 439: [13560.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 347: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 578: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 121: [14816.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 451: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 497: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 504: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 290: [15700.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 115: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 395: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 409: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 515: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 314: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 351: [13233.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 509: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 163: [13901.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 339: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 481: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 281: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 58: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 25: [23670.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 114: [14352.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 374: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 166: [13901.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 31: [23670.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 274: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 370: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 206: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 595: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 279: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 280: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 313: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 364: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 484: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 570: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 581: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 44: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 169: [13901.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 129: [12662.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 189: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 150: [12999.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 259: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 94: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 352: [13233.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 288: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 412: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 429: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 430: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 479: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 99: [10703.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 207: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 47: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 330: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 73: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 82: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 285: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 310: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 433: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 406: [16316.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 79: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 437: [13560.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 216: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 377: [13659.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 84: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 325: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 511: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 585: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 104: [10703.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 124: [13404.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 238: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 209: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 185: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 267: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 70: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 410: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 427: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 507: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 349: [13233.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 391: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 191: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 534: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 572: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 8: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 304: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 338: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 198: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 64: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 222: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 343: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 91: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 60: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 158: [16316.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 156: [16316.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 229: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 348: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 498: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 580: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 144: [12821.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 420: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 220: [15861.000000000002, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 587: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 22: [24026.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 11: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 271: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 383: [13996.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 540: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 434: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 324: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 483: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 277: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 398: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 16: [24026.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 490: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 331: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 506: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 40: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 72: [19886.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 563: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 128: [13404.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 472: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 524: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 145: [13740.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 36: [19886.0, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 95: [15861.000000000002, 0.0]
+[info | PowerModels]: removing 1 cost terms from generator 138: [13659.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 336: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 414: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 571: Float64[]
+[info | PowerModels]: removing 3 cost terms from generator 294: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 353: [13049.0, 0.0]
+[info | PowerModels]: removing 3 cost terms from generator 232: Float64[]
+[info | PowerModels]: removing 1 cost terms from generator 153: [13560.0, 0.0]
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:    21276
+Number of nonzeros in inequality constraint Jacobian.:    16272
+Number of nonzeros in Lagrangian Hessian.............:        0
+
+Total number of variables............................:     8005
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:     4631
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:     7536
+Total number of inequality constraints...............:     8136
+        inequality constraints with only lower bounds:     4068
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:     4068
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  6.5409103e+06 1.89e+01 3.23e+01  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  6.5451049e+06 1.87e+01 3.20e+01  -1.0 9.33e+00    -  1.25e-02 9.92e-03f  1
+   2  6.5009611e+06 1.84e+01 3.20e+01  -1.0 2.21e+01    -  6.92e-03 1.53e-02f  1
+   3  6.4725732e+06 1.80e+01 2.82e+01  -1.0 2.53e+01    -  7.40e-02 2.26e-02f  1
+   4  6.4242992e+06 1.68e+01 2.49e+01  -1.0 1.86e+01    -  9.41e-02 6.90e-02f  1
+   5  6.4238729e+06 1.49e+01 3.15e+01  -1.0 8.60e+00    -  4.52e-01 1.12e-01h  1
+   6  6.4241956e+06 1.25e+01 2.44e+01  -1.0 7.59e+00    -  9.16e-02 1.59e-01h  1
+   7  6.4245284e+06 1.21e+01 2.43e+01  -1.0 6.40e+00    -  3.30e-01 3.01e-02h  1
+   8  6.4386656e+06 1.15e+01 3.39e+01  -1.0 9.20e+00    -  4.26e-04 4.95e-02h  1
+   9  6.4473899e+06 1.14e+01 3.25e+01  -1.0 6.15e+01    -  6.61e-02 1.28e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  6.4584468e+06 1.12e+01 3.32e+01  -1.0 9.05e+00    -  5.31e-03 1.53e-02h  1
+  11  6.5225245e+06 1.02e+01 2.98e+01  -1.0 1.30e+01    -  2.71e-02 9.06e-02h  1
+  12  6.5792190e+06 9.31e+00 2.70e+01  -1.0 1.40e+01    -  6.34e-02 8.81e-02h  1
+  13  6.6139472e+06 8.76e+00 2.54e+01  -1.0 1.64e+01    -  7.16e-02 5.90e-02h  1
+  14  6.6176642e+06 8.70e+00 2.36e+01  -1.0 9.02e+00    -  2.00e-02 6.28e-03h  1
+  15  6.6320428e+06 8.51e+00 2.40e+01  -1.0 2.27e+01    -  2.08e-03 2.23e-02h  1
+  16  6.6389723e+06 8.42e+00 2.36e+01  -1.0 2.15e+01    -  1.28e-02 1.09e-02h  1
+  17  6.6602354e+06 8.13e+00 2.35e+01  -1.0 1.65e+01    -  7.79e-03 3.37e-02h  1
+  18  6.6947674e+06 7.67e+00 2.20e+01  -1.0 3.24e+01    -  7.49e-02 5.68e-02h  1
+  19  6.7597605e+06 6.84e+00 1.94e+01  -1.0 1.01e+01    -  2.33e-02 1.08e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  6.8553119e+06 5.61e+00 1.57e+01  -1.0 1.01e+01    -  1.19e-01 1.80e-01h  1
+  21  6.8915499e+06 5.15e+00 1.46e+01  -1.0 6.26e+00    -  1.19e-01 8.20e-02h  1
+  22  6.9767257e+06 4.07e+00 1.13e+01  -1.0 5.82e+00    -  1.57e-01 2.10e-01h  1
+  23  7.0148749e+06 3.59e+00 1.00e+01  -1.0 7.57e+00    -  1.40e-01 1.18e-01h  1
+  24  7.0360989e+06 3.32e+00 9.32e+00  -1.0 4.66e+00    -  1.33e-01 7.52e-02h  1
+  25  7.0721525e+06 2.86e+00 8.08e+00  -1.0 6.15e+00    -  1.80e-01 1.36e-01h  1
+  26  7.1055170e+06 2.45e+00 6.87e+00  -1.0 1.78e+00    -  1.15e-01 1.45e-01h  1
+  27  7.1079990e+06 2.42e+00 2.25e+01  -1.0 2.88e+00    -  5.44e-02 1.28e-02h  1
+  28  7.1336411e+06 2.11e+00 1.69e+01  -1.0 2.50e+00    -  1.19e-02 1.26e-01h  1
+  29  7.1346682e+06 2.10e+00 1.48e+02  -1.0 2.58e+00    -  4.23e-02 5.74e-03h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  30  7.1886576e+06 1.47e+00 9.57e+01  -1.0 2.45e+00    -  3.99e-01 2.98e-01h  1
+  31  7.1904470e+06 1.45e+00 1.02e+02  -1.0 2.20e+00    -  6.79e-02 1.34e-02h  1
+  32  7.2089485e+06 1.25e+00 7.98e+01  -1.0 5.19e+00    -  7.18e-02 1.40e-01h  1
+  33  7.2405411e+06 9.13e-01 5.29e+01  -1.0 1.44e+00    -  1.79e-01 2.69e-01h  1
+  34  7.2807616e+06 4.85e-01 2.67e+01  -1.0 1.51e+00    -  4.24e-01 4.69e-01h  1
+  35  7.2862665e+06 4.27e-01 2.66e+01  -1.0 7.52e-01    -  3.33e-01 1.21e-01h  1
+  36  7.3271381e+06 1.82e-12 6.73e-02  -1.0 4.54e-01    -  9.92e-01 1.00e+00h  1
+  37  7.3243675e+06 1.82e-12 3.18e+00  -1.7 2.92e-01    -  7.73e-01 3.60e-01f  1
+  38  7.3239713e+06 9.09e-13 5.55e+00  -1.7 1.06e+00    -  7.83e-01 7.56e-02f  1
+  39  7.3191639e+06 9.09e-13 2.00e-07  -1.7 4.78e-01    -  1.00e+00 1.00e+00f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  40  7.3174067e+06 9.09e-13 6.45e-01  -3.8 2.02e-01    -  5.88e-01 8.37e-01f  1
+  41  7.3170845e+06 9.09e-13 4.71e-01  -3.8 2.65e-01    -  8.13e-01 8.70e-01f  1
+  42  7.3170293e+06 1.82e-12 1.25e+00  -3.8 8.81e-01    -  7.42e-01 1.00e+00f  1
+  43  7.3170282e+06 1.82e-12 1.50e-09  -3.8 3.49e-01    -  1.00e+00 1.00e+00f  1
+  44  7.3170142e+06 9.09e-13 1.38e-02  -5.7 4.71e-02    -  9.56e-01 8.58e-01f  1
+  45  7.3170119e+06 9.09e-13 1.84e-11  -5.7 5.26e-03    -  1.00e+00 1.00e+00f  1
+  46  7.3170117e+06 1.82e-12 7.91e-08  -8.6 9.30e-04    -  1.00e+00 1.00e+00f  1
+  47  7.3170117e+06 1.82e-12 1.14e-12  -8.6 2.28e-03    -  1.00e+00 1.00e+00f  1
+
+Number of Iterations....: 47
+
+                                   (scaled)                 (unscaled)
+Objective...............:   3.0454556354543143e+04    7.3170117097425349e+06
+Dual infeasibility......:   1.1431748148803259e-12    2.7465918102314712e-10
+Constraint violation....:   2.3495279795800646e-14    1.8189894035458565e-12
+Complementarity.........:   2.5061567132282771e-09    6.0212921192022581e-07
+Overall NLP error.......:   2.5061567132282771e-09    6.0212921192022581e-07
+
+
+Number of objective function evaluations             = 48
+Number of objective gradient evaluations             = 48
+Number of equality constraint evaluations            = 48
+Number of inequality constraint evaluations          = 48
+Number of equality constraint Jacobian evaluations   = 1
+Number of inequality constraint Jacobian evaluations = 1
+Number of Lagrangian Hessian evaluations             = 1
+Total CPU secs in IPOPT (w/o function evaluations)   =      4.857
+Total CPU secs in NLP function evaluations           =      0.227
+
+EXIT: Optimal Solution Found.
+This is Ipopt version 3.13.2, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:   100702
+Number of nonzeros in inequality constraint Jacobian.:    32916
+Number of nonzeros in Lagrangian Hessian.............:   183093
+
+Total number of variables............................:    24220
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:    20846
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:    23393
+Total number of inequality constraints...............:    16458
+        inequality constraints with only lower bounds:     4068
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:    12390
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  6.5409103e+06 4.54e+01 1.00e+02  -1.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  6.5450913e+06 4.50e+01 9.90e+01  -1.0 1.31e+01    -  1.13e-02 9.92e-03f  1
+   2  6.5089625e+06 4.42e+01 9.80e+01  -1.0 1.42e+01    -  6.32e-03 1.74e-02f  1
+   3  6.4864429e+06 4.33e+01 9.65e+01  -1.0 1.70e+01    -  1.45e-02 2.06e-02f  1
+   4  6.4562380e+06 4.12e+01 8.71e+01  -1.0 1.63e+01    -  9.89e-02 4.75e-02f  1
+   5  6.4278085e+06 3.75e+01 7.45e+01  -1.0 2.36e+01    -  1.51e-01 9.13e-02f  1
+   6  6.4257197e+06 3.29e+01 5.99e+01  -1.0 3.08e+01    -  2.14e-01 1.22e-01f  1
+   7  6.4263946e+06 2.95e+01 5.33e+01  -1.0 3.95e+01    -  1.23e-01 1.02e-01h  1
+   8  6.4272206e+06 2.90e+01 5.76e+01  -1.0 4.30e+01    -  7.98e-02 1.71e-02h  1
+   9  6.4690948e+06 2.73e+01 5.62e+01  -1.0 9.16e+01    -  2.58e-03 5.83e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  6.5461203e+06 2.49e+01 1.92e+02  -1.0 7.87e+01    -  1.88e-02 8.95e-02h  1
+  11  6.5806239e+06 2.38e+01 2.31e+02  -1.0 4.87e+01    -  1.06e-02 4.45e-02h  1
+  12  6.5920801e+06 2.35e+01 1.26e+02  -1.0 4.84e+01    -  9.20e-02 1.39e-02h  1
+  13  6.6328839e+06 2.21e+01 1.82e+02  -1.0 4.78e+01    -  4.22e-03 5.66e-02h  1
+  14  6.6728386e+06 2.08e+01 2.01e+02  -1.0 4.72e+01    -  3.58e-02 6.19e-02h  1
+  15  6.7439291e+06 1.84e+01 2.58e+02  -1.0 4.67e+01    -  4.05e-02 1.15e-01h  1
+  16  6.7722701e+06 1.75e+01 2.54e+02  -1.0 4.52e+01    -  3.91e-02 4.89e-02h  1
+  17  6.8203938e+06 1.60e+01 2.59e+02  -1.0 4.44e+01    -  4.32e-02 8.55e-02h  1
+  18  6.8541118e+06 1.50e+01 2.53e+02  -1.0 4.26e+01    -  3.73e-02 6.22e-02h  1
+  19  6.8856355e+06 1.41e+01 2.34e+02  -1.0 4.10e+01    -  7.44e-02 5.89e-02h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20  6.9628951e+06 1.20e+01 2.01e+02  -1.0 3.96e+01    -  9.17e-02 1.51e-01h  1
+  21  7.0157284e+06 1.06e+01 1.73e+02  -1.0 3.61e+01    -  1.14e-01 1.18e-01h  1
+  22  7.1178649e+06 7.90e+00 8.14e+01  -1.0 3.33e+01    -  5.78e-02 2.52e-01h  1
+  23  7.1552654e+06 6.97e+00 7.47e+01  -1.0 2.73e+01    -  1.44e-01 1.18e-01h  1
+  24  7.1629628e+06 6.78e+00 1.08e+02  -1.0 2.48e+01    -  1.73e-01 2.70e-02h  1
+  25  7.2430387e+06 4.88e+00 4.62e+02  -1.0 2.41e+01    -  3.43e-02 2.81e-01h  1
+  26  7.2775309e+06 4.07e+00 3.94e+02  -1.0 1.84e+01    -  1.14e-01 1.64e-01h  1
+  27  7.3193206e+06 3.11e+00 2.93e+02  -1.0 1.57e+01    -  4.89e-01 2.36e-01h  1
+  28  7.3743064e+06 1.86e+00 1.75e+02  -1.0 1.25e+01    -  3.68e-01 4.04e-01h  1
+  29  7.4178518e+06 8.63e-01 9.75e+01  -1.0 9.39e+00    -  8.28e-01 5.35e-01h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  30  7.4469760e+06 2.10e-01 4.50e+01  -1.0 7.19e+00    -  2.89e-01 7.56e-01h  1
+  31  7.4567878e+06 1.25e-03 5.18e+01  -1.0 2.72e+00    -  7.04e-01 1.00e+00h  1
+  32  7.4568945e+06 2.89e-04 1.24e+00  -1.0 5.55e-01    -  9.90e-01 1.00e+00h  1
+  33  7.4568861e+06 7.69e-06 9.88e-03  -1.0 1.76e-01    -  9.90e-01 1.00e+00h  1
+  34  7.4568862e+06 1.13e-08 3.43e-06  -1.0 5.19e-03    -  1.00e+00 1.00e+00h  1
+  35  7.4477333e+06 2.12e-02 1.21e+02  -2.5 3.58e+00    -  4.68e-01 7.25e-01f  1
+  36  7.4463723e+06 1.67e-02 2.81e+01  -2.5 2.15e+00    -  4.72e-01 2.31e-01f  1
+  37  7.4434601e+06 1.16e-02 6.98e+01  -2.5 1.58e+00    -  1.37e-01 4.96e-01f  1
+  38  7.4416313e+06 7.86e-03 2.10e+01  -2.5 1.55e+00    -  5.94e-01 4.99e-01f  1
+  39  7.4413144e+06 7.05e-03 1.66e+01  -2.5 7.51e-01    -  3.61e-01 1.14e-01f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  40  7.4406044e+06 5.59e-03 2.10e+01  -2.5 8.83e-01    -  6.83e-01 2.61e-01f  1
+  41  7.4395236e+06 3.56e-03 1.01e+01  -2.5 1.06e+00    -  5.08e-01 5.13e-01f  1
+  42  7.4391488e+06 2.35e-03 7.48e+00  -2.5 5.24e-01    -  6.93e-01 4.54e-01h  1
+  43  7.4388026e+06 1.22e-03 1.02e+01  -2.5 4.69e-01    -  7.73e-01 9.85e-01h  1
+  44  7.4388199e+06 5.40e-05 3.35e-03  -2.5 8.07e-02    -  1.00e+00 1.00e+00h  1
+  45  7.4384937e+06 3.92e-04 4.30e+00  -3.8 8.41e-01    -  5.76e-01 4.67e-01f  1
+  46  7.4383605e+06 2.85e-04 2.08e+01  -3.8 7.52e-01    -  7.90e-01 3.89e-01h  1
+  47  7.4382501e+06 2.54e-04 2.00e+01  -3.8 6.69e-01    -  3.28e-01 6.87e-01h  1
+  48  7.4382362e+06 1.98e-04 1.36e+01  -3.8 3.71e-01    -  6.23e-01 2.35e-01h  1
+  49  7.4381945e+06 7.43e-05 8.90e+00  -3.8 3.85e-01    -  4.05e-01 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  50  7.4381970e+06 2.30e-06 7.55e-05  -3.8 1.45e-01    -  1.00e+00 1.00e+00h  1
+  51  7.4381969e+06 4.14e-08 4.17e-06  -3.8 1.25e-02    -  1.00e+00 1.00e+00h  1
+  52  7.4381824e+06 1.11e-05 3.16e+00  -5.7 4.94e-01    -  7.64e-01 5.14e-01f  1
+  53  7.4381730e+06 1.52e-05 1.14e+00  -5.7 5.49e-01    -  7.86e-01 7.16e-01h  1
+  54  7.4381725e+06 1.30e-05 3.29e+00  -5.7 4.13e-01    -  8.86e-01 1.48e-01h  1
+  55  7.4381698e+06 2.84e-06 2.60e-01  -5.7 4.47e-01    -  1.00e+00 9.59e-01h  1
+  56  7.4381697e+06 8.41e-08 1.55e-06  -5.7 1.40e-01    -  1.00e+00 1.00e+00h  1
+  57  7.4381697e+06 3.37e-09 7.17e-08  -5.7 2.52e-02    -  1.00e+00 1.00e+00h  1
+  58  7.4381697e+06 7.60e-12 7.76e-10  -5.7 1.37e-03    -  1.00e+00 1.00e+00h  1
+  59  7.4381694e+06 5.17e-08 1.04e-01  -8.6 1.06e-01    -  9.66e-01 9.02e-01f  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  60  7.4381694e+06 2.15e-08 4.11e-07  -8.6 6.19e-02    -  1.00e+00 1.00e+00h  1
+  61  7.4381694e+06 4.41e-09 8.35e-08  -8.6 2.81e-02    -  1.00e+00 1.00e+00h  1
+  62  7.4381694e+06 7.85e-10 1.49e-08  -8.6 1.18e-02    -  1.00e+00 1.00e+00h  1
+  63  7.4381694e+06 5.90e-11 1.30e-09  -8.6 3.27e-03    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 63
+
+                                   (scaled)                 (unscaled)
+Objective...............:   3.0958833817165098e+04    7.4381694129120857e+06
+Dual infeasibility......:   1.2951324570626991e-09    3.1116852413388408e-07
+Constraint violation....:   1.1928766109812828e-12    5.9045879297059400e-11
+Complementarity.........:   3.2621109816952147e-09    7.8375478446209226e-07
+Overall NLP error.......:   3.2621109816952147e-09    7.8375478446209226e-07
+
+
+Number of objective function evaluations             = 64
+Number of objective gradient evaluations             = 64
+Number of equality constraint evaluations            = 64
+Number of inequality constraint evaluations          = 64
+Number of equality constraint Jacobian evaluations   = 64
+Number of inequality constraint Jacobian evaluations = 64
+Number of Lagrangian Hessian evaluations             = 63
+Total CPU secs in IPOPT (w/o function evaluations)   =     17.260
+Total CPU secs in NLP function evaluations           =      9.332
+
+EXIT: Optimal Solution Found.
+Time to Solution........:26.992433071136475
