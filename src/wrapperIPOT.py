@@ -13,6 +13,11 @@ import sys
 option = "-a"
 
 mypath=sys.argv[1]
+arr =mypath.split('_')
+if(arr[0]=="logs2"):
+    exact_result="exact"
+else:
+    exact_result=""
 out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 name_logs=""
 file=""
@@ -72,7 +77,10 @@ for log_file in out_files:
 if(option=="-a"):
     print(df)
     # Export to csv file
-    df.to_csv("csv_results/results_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
+    if(exact_result=="exact"):
+        df.to_csv("csv_results/results2_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
+    else:
+        df.to_csv("csv_results/results_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
 elif(option=="-i"):
     print(df[['case','iterations']])
 elif(option=="-t"):

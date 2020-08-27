@@ -6,7 +6,7 @@ import sys
 # Compare compare iteration and solution time of convex modedel with the exact models
 # 1) logs folder --> wrapperIPOT.py --> 2) csv_results/ .csv --> mergeInfoObj.py --> csv_formulations/objectives/ .csv iteration and time results
 
-def mergeInfo(option,formulation,type_case,optimizer):
+def mergeInfo(option,formulation,type_case,optimizer,suffixes,exact_result):
     if(option=="-i"):
         df = pd.DataFrame(columns=["case","iterations"])
     elif(option=="-t"):
@@ -23,16 +23,19 @@ def mergeInfo(option,formulation,type_case,optimizer):
                     if(df.empty):
                         df=data[['case','iterations']]
                     else:
-                        df = df.merge(data[['case','iterations']], left_on='case', right_on='case', suffixes=('_CONVEX','_EXACT'))
+                        df = df.merge(data[['case','iterations']], left_on='case', right_on='case', suffixes=suffixes)
                 elif(option=="-t"):
                     # print(data[['case','time']])
                     if(df.empty):
                         df=data[['case','time']]
                     else:
-                        df= df.merge(data[['case','time']], left_on='case', right_on='case',suffixes=('_CONVEX','_EXACT'))
+                        df= df.merge(data[['case','time']], left_on='case', right_on='case',suffixes=suffixes)
 
     print(df)
-    df.to_csv("csv_formulations/objectives/results_"+type_case+"_"+optimizer+option+".csv", index=False)
+    if(exact_result=="exact"):
+         df.to_csv("csv_formulations/compare_exact_convexStart/results2_"+type_case+"_"+optimizer+option+".csv", index=False)
+    else:
+         df.to_csv("csv_formulations/objectives/results_"+type_case+"_"+optimizer+option+".csv", index=False)
     
 
 mypath="csv_results"
@@ -41,9 +44,15 @@ out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 
 optimizer=sys.argv[2]
-formulation = ["ACP","DCP"]
+exact_result=sys.argv[3]
+if(exact_result=="exact"):
+    formulation = ["ACP","ACP"]
+    suffixes=('_CONVEX_start','_EXACT_only')
+else:
+    formulation = ["ACP","DCP"]
+    suffixes=('_CONVEX','_EXACT')
 option = ["-i","-t"]
 
 
 for opt in option:
-    mergeInfo(opt,formulation,type_case,optimizer)
+    mergeInfo(opt,formulation,type_case,optimizer,suffixes,exact_result)
