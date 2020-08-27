@@ -3,7 +3,7 @@ from os import listdir
 from os.path import isfile, join
 import sys
 
-# Compare compare iteration and solution time of convex modedel with the exact models
+# Compare iteration and solution time of convex modedel with the exact models
 # 1) logs folder --> wrapperIPOT.py --> 2) csv_results/ .csv --> mergeInfoObj.py --> csv_formulations/objectives/ .csv iteration and time results
 
 def mergeInfo(option,formulation,type_case,optimizer,suffixes,exact_result):
