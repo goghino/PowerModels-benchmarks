@@ -33,7 +33,7 @@ def mergeInfo(option,formulation,type_case,optimizer,suffixes,exact_result):
 
     print(df)
     if(exact_result=="exact"):
-         df.to_csv("csv_formulations/compare_exact_convexStart/results2_"+type_case+"_"+optimizer+option+".csv", index=False)
+         df.to_csv("csv_formulations/compare_warmStart/results_"+type_case+"_"+optimizer+option+".csv", index=False)
     else:
          df.to_csv("csv_formulations/objectives/results_"+type_case+"_"+optimizer+option+".csv", index=False)
     
@@ -47,7 +47,7 @@ optimizer=sys.argv[2]
 exact_result=sys.argv[3]
 if(exact_result=="exact"):
     formulation = ["ACP","ACP"]
-    suffixes=('_CONVEX_start','_EXACT_only')
+    suffixes=('_WARMSTART [s]','_FLATSTART [s]')
 else:
     formulation = ["ACP","DCP"]
     suffixes=('_CONVEX','_EXACT')

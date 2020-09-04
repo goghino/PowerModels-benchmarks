@@ -68,7 +68,7 @@ def runBench(optimizer):
                 # ----------------------------------------------
                 for rd in chunk:
                     case_name=rd.replace('.m','')
-                    f.write("julia run_powermodel2.jl "+mypath+rd+" "+optimizer+" "+formulation+" >> "+name_fold_logs+ "/log_"+case_name+".out\n")
+                    f.write("julia warmstart.jl "+mypath+rd+" "+optimizer+" "+formulation+" >> "+name_fold_logs+ "/log_"+case_name+".out\n")
                 f.close()
                 job = os.popen("sbatch " + batch_file).read()
                 print(job)

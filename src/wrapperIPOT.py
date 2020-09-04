@@ -78,7 +78,7 @@ if(option=="-a"):
     print(df)
     # Export to csv file
     if(exact_result=="exact"):
-        df.to_csv("csv_results/results2_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
+        df.to_csv("csv_results/resultsWarm_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
     else:
         df.to_csv("csv_results/results_"+name_logs+"_"+optimizer+"_"+formulation+".csv", index=False)
 elif(option=="-i"):
