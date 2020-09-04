@@ -52,13 +52,13 @@ option = ["-i","-t"]
 for opt in option:
     if(exact_result=="exact"):
         formulation = ["ACP","ACP"]
-        if option == "-t":
+        if opt == "-t":
             suffixes=('_WARMSTART [s]','_FLATSTART [s]')
         else:
             suffixes=('_WARMSTART','_FLATSTART')
     else:
         formulation = ["ACP","DCP"]
-        if option == "-t":
+        if opt == "-t":
             suffixes=('_CONVEX [s]','_EXACT [s]')
         else:
             suffixes=('_CONVEX','_EXACT')
