@@ -1,4 +1,4 @@
-case,iterations_WARMSTART [s],iterations_FLATSTART [s]
+case,iterations_WARMSTART,iterations_FLATSTART
 pglib_opf_case500_tamu,45,45
 pglib_opf_case3375wp_k,63,63
 pglib_opf_case6515_rte,134,134

@@ -45,14 +45,22 @@ out_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 optimizer=sys.argv[2]
 exact_result=sys.argv[3]
-if(exact_result=="exact"):
-    formulation = ["ACP","ACP"]
-    suffixes=('_WARMSTART [s]','_FLATSTART [s]')
-else:
-    formulation = ["ACP","DCP"]
-    suffixes=('_CONVEX','_EXACT')
+
 option = ["-i","-t"]
 
 
 for opt in option:
+    if(exact_result=="exact"):
+        formulation = ["ACP","ACP"]
+        if option == "-t":
+            suffixes=('_WARMSTART [s]','_FLATSTART [s]')
+        else:
+            suffixes=('_WARMSTART','_FLATSTART')
+    else:
+        formulation = ["ACP","DCP"]
+        if option == "-t":
+            suffixes=('_CONVEX [s]','_EXACT [s]')
+        else:
+            suffixes=('_CONVEX','_EXACT')
+            
     mergeInfo(opt,formulation,type_case,optimizer,suffixes,exact_result)
